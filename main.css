@@ -290,3 +290,50 @@ div.image-frame > small {
     color: #333;
     font-style: italic;
 }
+
+sup a {
+    text-decoration: none;
+}
+
+sup a:hover {
+    color: maroon;
+}
+
+footer {
+    border-top: 1px solid grey;
+    margin-top: 60px;
+}
+
+footer h1 {
+    font-size: 1em;
+}
+
+dl.references {
+    position: relative;
+    padding-left: 30px;
+}
+
+dl.references dt {
+    position: absolute;
+    left: 0;
+    width: 30px;
+    text-align: right;
+    font-size: 0.8em;
+    padding: 2px 3px 0 0;
+    font-weight: bold;
+    color: #e81c4f;
+}
+
+dl.references dd {
+    margin: 0;
+    left: 30px;
+}
+
+dl.references dd a {
+    color: inherit;
+    text-decoration: none;
+}
+
+dl.references dd a:hover {
+    text-decoration: underline;
+}
