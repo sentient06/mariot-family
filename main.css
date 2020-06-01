@@ -1,0 +1,292 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: "Georgia", "Times", "Times New Roman", "serif";
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: #566b78;
+}
+
+section {
+    position: relative;
+}
+
+h1,
+h2,
+strong {
+    color: #333;
+}
+h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+}
+a,
+a > * {
+    color: #e81c4f;
+}
+
+img.img10em {
+    width: 10em;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.centre {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pad10 {
+    padding: 10px;
+}
+
+.pad10-r {
+    padding-right: 10px;
+}
+
+.pad10-l {
+    padding-left: 10px;
+}
+
+.pad10-t {
+    padding-top: 10px;
+}
+
+.pad10-b {
+    padding-bottom: 10px;
+}
+
+.pad10-v {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.pad10-h {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.mar10 {
+    margin: 10px;
+}
+
+.mar10-r {
+    margin-right: 10px;
+}
+
+.mar10-l {
+    margin-left: 10px;
+}
+
+.mar10-t {
+    margin-top: 10px;
+}
+
+.mar10-b {
+    margin-bottom: 10px;
+}
+
+.mar10-v {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.mar10-h {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.limit {
+    max-width: 100%;
+}
+
+.limit div > *,
+.limit > * {
+    max-width: 100%;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+tr {
+    border: 0px solid #EEE;
+    border-bottom-width: 1px;
+}
+
+tbody tr:hover {
+    background: #EEE;
+}
+
+th {
+    text-align: left;
+}
+
+th, td {
+    border: 0;
+}
+
+
+
+address {
+    border: 0 solid aliceblue;
+    border-left-width: 2px;
+    padding: 0 10px;
+}
+
+
+
+blockquote {
+    float: left;
+    background: #f9f9f9;
+    font-style: italic;
+    border-left: 10px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+}
+blockquote p {
+    display: inline;
+}
+
+blockquote small {
+    margin-top: 10px;
+    float: right;
+    width: 70%;
+    color: #999;
+}
+
+
+span.cite {
+    border-bottom: 1px dashed;
+    cursor: help;
+}
+
+div.remember,
+div.myth,
+div.hypothesis,
+div.theory,
+div.fact,
+div.subtle {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+div.remember > p:last-of-type,
+div.myth > p:last-of-type,
+div.hypothesis > p:last-of-type,
+div.theory > p:last-of-type,
+div.fact > p:last-of-type,
+div.subtle > p:last-of-type {
+    margin-bottom: 0;
+}
+
+
+div.remember h1,
+div.remember h2,
+div.remember h3,
+div.remember h4,
+div.myth h1,
+div.myth h2,
+div.myth h3,
+div.myth h4,
+div.hypothesis h1,
+div.hypothesis h2,
+div.hypothesis h3,
+div.hypothesis h4,
+div.theory h1,
+div.theory h2,
+div.theory h3,
+div.theory h4,
+div.fact h1,
+div.fact h2,
+div.fact h3,
+div.fact h4,
+div.subtle h1,
+div.subtle h2,
+div.subtle h3,
+div.subtle h4 {
+    margin-top: 0;
+}
+
+div.remember {
+    background: #f9f9FF;
+    color: #566b78;
+    border: 1px solid #566b78;
+}
+
+div.myth {
+    background: lavenderblush;
+    color: brown;
+    border: 1px solid brown;
+}
+
+div.hypothesis {
+    background: cornsilk;
+    color: maroon;
+    border: 1px solid maroon;
+}
+
+div.theory {
+    background: azure;
+    color: darkblue;
+    border: 1px solid darkblue;
+}
+
+div.fact {
+    background: honeydew;
+    color: darkgreen;
+    border: 1px solid darkgreen;
+}
+
+div.subtle {
+    background: #f9f9f9;
+    color: #999;
+    border: 1px solid #999;
+}
+
+
+div.image-frame {
+    border: 1px solid #CCC;
+    background: #f8f9fa;
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div.image-frame > img {
+    border: 1px solid #CCC;
+    padding: 1px;
+}
+
+div.image-frame > small {
+    width: 100%;
+    border-top-width: 0;
+    padding: 3px 6px 1px 6px;
+    font-family: sans-serif;
+    color: #333;
+    font-style: italic;
+}
