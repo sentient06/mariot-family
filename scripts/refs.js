@@ -14,11 +14,14 @@ for (var i = 0; i < refsDt.length; i++) {
 
 sups.forEach(function(ref) {
     var num = ref.innerHTML;
-    var newAnchor = document.createElement("a");
-    newAnchor.href = "#ref_" + num;
-    newAnchor.innerHTML = "[" + num + "]";
+    var newTargetAnchor = document.createElement("a");
+    var newStaticAnchor = document.createElement("a");
+    newStaticAnchor.name = "cite_" + num.replace(/\./, '-');
+    newTargetAnchor.href = "#ref_" + num.replace(/\..*/, '');
+    newTargetAnchor.innerHTML = "[" + num + "]";
     ref.innerHTML = "";
-    ref.append(newAnchor);
+    ref.append(newStaticAnchor);
+    ref.append(newTargetAnchor);
 });
 
 var counter = 1;
