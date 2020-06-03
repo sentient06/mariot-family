@@ -13,6 +13,7 @@ body {
 
 section {
     position: relative;
+    color: #566b78;
 }
 
 h1,
@@ -24,6 +25,7 @@ h2 {
     margin-top: 1em;
     padding-top: 1em;
 }
+
 a,
 a > * {
     color: #e81c4f;
@@ -192,6 +194,15 @@ div.fact,
 div.subtle {
     margin-top: 20px;
     padding: 10px;
+}
+
+div.remember strong,
+div.myth strong,
+div.hypothesis strong,
+div.theory strong,
+div.fact strong,
+div.subtle strong {
+    color: inherit;
 }
 
 div.remember > p:last-of-type,
