@@ -180,7 +180,6 @@ blockquote small {
     color: #999;
 }
 
-
 span.cite {
     border-bottom: 1px dashed;
     cursor: help;
@@ -308,6 +307,26 @@ sup a {
 
 sup a:hover {
     color: maroon;
+}
+
+dl.news {
+    padding: 0 0 0 110px;
+}
+
+dl.news dt {
+    position: absolute;
+    left: 0;
+    width: 110px;
+    text-align: right;
+    color: #333;
+    padding: 10px 10px 10px 0;
+    border-top: 1px solid #DDD;
+}
+
+dl.news dd {
+    margin: 0;
+    padding: 10px 0 10px 10px;
+    border-top: 1px solid #DDD;
 }
 
 footer {
