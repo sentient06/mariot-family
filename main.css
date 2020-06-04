@@ -51,63 +51,67 @@ img.img10em {
 }
 
 .pad10 {
-    padding: 10px;
+    padding: 10px !important;
 }
 
 .pad10-r {
-    padding-right: 10px;
+    padding-right: 10px !important;
 }
 
 .pad10-l {
-    padding-left: 10px;
+    padding-left: 10px !important;
 }
 
 .pad10-t {
-    padding-top: 10px;
+    padding-top: 10px !important;
 }
 
 .pad10-b {
-    padding-bottom: 10px;
+    padding-bottom: 10px !important;
 }
 
 .pad10-v {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
 }
 
 .pad10-h {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
 }
 
 .mar10 {
-    margin: 10px;
+    margin: 10px !important;
 }
 
 .mar10-r {
-    margin-right: 10px;
+    margin-right: 10px !important;
 }
 
 .mar10-l {
-    margin-left: 10px;
+    margin-left: 10px !important;
 }
 
 .mar10-t {
-    margin-top: 10px;
+    margin-top: 10px !important;
 }
 
 .mar10-b {
-    margin-bottom: 10px;
+    margin-bottom: 10px !important;
 }
 
 .mar10-v {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
 }
 
 .mar10-h {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+.white-background {
+    background: #FFF;
 }
 
 .limit {
@@ -118,7 +122,6 @@ img.img10em {
 .limit > * {
     max-width: 100%;
 }
-
 
 table {
     width: 100%;
@@ -142,15 +145,11 @@ th, td {
     border: 0;
 }
 
-
-
 address {
     border: 0 solid aliceblue;
     border-left-width: 2px;
     padding: 0 10px;
 }
-
-
 
 blockquote {
     float: left;
@@ -169,6 +168,7 @@ blockquote:before {
     margin-right: 0.25em;
     vertical-align: -0.4em;
 }
+
 blockquote p {
     display: inline;
 }
@@ -277,7 +277,6 @@ div.subtle {
     border: 1px solid #999;
 }
 
-
 div.image-frame {
     border: 1px solid #CCC;
     background: #f8f9fa;
@@ -287,6 +286,7 @@ div.image-frame {
     align-items: center;
 }
 
+div.image-frame > .as-img,
 div.image-frame > img {
     border: 1px solid #CCC;
     padding: 1px;
