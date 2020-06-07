@@ -3,12 +3,20 @@
 }
 
 body {
-    margin: 0 auto;
-    max-width: 50em;
     font-family: "Georgia", "Times", "Times New Roman", "serif";
-    line-height: 1.5;
-    padding: 4em 1em;
     color: #566b78;
+    margin: 0;
+}
+
+main {
+    max-width: 50em;
+    line-height: 1.5;
+    padding: 2em 1em 4em 1em;
+    margin: 0 auto;
+}
+
+nav a {
+    text-decoration: none;
 }
 
 section {
@@ -18,8 +26,12 @@ section {
 
 h1,
 h2,
+h3,
+h4,
+h5,
+h6,
 strong {
-    color: #333;
+    color: #333 !important;
 }
 h2 {
     margin-top: 1em;
@@ -201,7 +213,7 @@ div.hypothesis strong,
 div.theory strong,
 div.fact strong,
 div.subtle strong {
-    color: inherit;
+    color: inherit !important;
 }
 
 div.remember > p:last-of-type,
@@ -239,6 +251,7 @@ div.subtle h2,
 div.subtle h3,
 div.subtle h4 {
     margin-top: 0;
+    color: inherit !important;
 }
 
 div.remember {
@@ -366,4 +379,12 @@ dl.references dd a {
 
 dl.references dd a:hover {
     text-decoration: underline;
+}
+
+div.help {
+    background: #f9f9FF;
+    color: #566b78;
+    border: 1px solid #566b78;
+    padding: 10px;
+    margin-top: 20px;
 }

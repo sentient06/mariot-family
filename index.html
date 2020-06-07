@@ -2,89 +2,113 @@
 <html lang="pt">
 <head>
     <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Mariot</title>
-    <link rel="stylesheet" type="text/css" href="main.css">
-    <link rel="stylesheet" type="text/css" href="nav.css">
+    <link rel="stylesheet" type="text/css" href="styles/metismenujs.min.css" />
+    <link rel="stylesheet" type="text/css" href="styles/main.css" />
+    <link rel="stylesheet" type="text/css" href="styles/nav.css" />
 </head>
 <body>
-
-    <nav>
-        <ul>
+    <nav class="topbar-nav">
+        <ul class="metismenu" id="menu1">
             <li class="current"><a href="index.html">Home</a></li>
             <li><a href="01-introducao.html">Introdução</a></li>
-            <li><a href="02-origem.html">Origem</a></li>
-            <li><a href="03-inglaterra.html">Mariot na Inglaterra</a></li>
-            <li><a href="04-franca.html">Mariot na França</a></li>
-            <li><a href="05-franca-italia.html">Da França para a Itália</a></li>
+            <li>
+                <a class="has-arrow" href="" aria-expanded="false">Origem</a>
+                <ul class="mm-collapse">
+                    <li><a href="02-origem.html">Etimologia</a></li>
+                    <li><a href="03-inglaterra.html">Mariot na Inglaterra</a></li>
+                    <li><a href="04-franca.html">Mariot na França</a></li>
+                    <li><a href="05-franca-italia.html">Motivos para imigração</a></li>
+                </ul>
+            </li>
             <li><a href="06-brasao.html">Brasão da família</a></li>
-            <li><a href="07-mariot-veneto.html">Os Mariot do Vêneto</a></li>
+            <li>
+                <a class="has-arrow" href="" aria-expanded="false">Mariot do Vêneto</a>
+                <ul class="mm-collapse">
+                    <li><a href="07-mariot-veneto.html">Mariot de Longarone</a></li>
+                    <li><a href="08-matteo.html">A história de Matteo</a></li>
+                    <li><a href="09-pietro.html">A segunda viagem</a></li>
+                    <li><a href="10-giovanni.html">Giovanni e Brigida</a></li>
+                    <li><a href="11-giosue.html">A história de Giosuè</a></li>
+                </ul>
+            </li>
         </ul>
     </nav>
-
-    <h1>
-        Mariot
-    </h1>
-    <section>
-        <p>
-            Este site existe para documentar as origens da família Mariot no Brasil. Se você tiver informações, por favor entre em contato pelo seguinte endereço de email:
-        </p>
-        <p>
-            <a href="" id="email"></a>
-        </p>
-        <p>
-            Evidências, documentos, fotografias, correções para assuntos já abordados, histórias, são todos bem-vindos. Qualquer informação que ajude a reconstrução histórica dos Mariot eu tenho intenção de publicar.
-        </p>
-        <small>
-            <em>
-                <strong>Nota sobre os Mariotti</strong>: A família Mariot explorada aqui é aquela dos imigrantes originalmente da província de Belluno, na Itália, que se estabeleceram no sul do Brasil no século 19, principalmente em Santa Catarina. Eu não me preocupei demasiado com variações do nome como "Mariotti", porque a evidência da conexão entre os dois limita-se à origem etimológica dos nomes. Como os Mariotti são muito mais numerosos, imigraram para várias partes do Brasil em vários momentos diferentes e não têm nenhuma relação direta com os Mariot de Belluno, eu não tive interesse de me aprofundar na história daquele grupo e não os considero parte da mesma família até obter sólida evidência em contrário.
-            </em>
-        </small>
-        <p>
-            Giancarlo Mariot
-        </p>
-        <script src="scripts/m.js"></script>
-    </section>
-
-    <section>
+    <main>
         <h1>
-            Notícias
+            Mariot
         </h1>
-        <dl class="news">
-            <dt>
-                04 Jun 2020
-            </dt>
-            <dd>
-                Ampliada a página sobre França e Itália.<br />
-                Adicionada página sobre os Mariot do Vêneto, sem referências (por enquanto).
-            </dd>
-            <dt>
-                03 Jun 2020
-            </dt>
-            <dd>
-                Adicionada página sobre hipótese de imigração da França para a Itália.<br />
-                Adicionada página sobre brasões.
-            </dd>
-            <dt>
-                02 Jun 2020
-            </dt>
-            <dd>
-                Adicionada página sobre a Inglaterra.<br />
-                Adicionada página sobre a França.
-            </dd>
-            <dt>
-                01 Jun 2020
-            </dt>
-            <dd>
-                Adicionada página sobre a origem do nome. Adicionando referências.
-            </dd>
-            <dt>
-                01 Jun 2020
-            </dt>
-            <dd>
-                Site criado. Preparando material para pôr no ar em breve. Adicionada uma introdução.
-            </dd>
-        </dl>
-    </section>
+        <section>
+            <p>
+                Este site existe para documentar as origens da família Mariot no Brasil. Se você tiver informações, por favor entre em contato pelo seguinte endereço de email:
+            </p>
+            <p>
+                <a href="" class="m"></a>
+            </p>
+            <p>
+                Evidências, documentos, fotografias, correções para assuntos já abordados, histórias, são todos bem-vindos. Qualquer informação que ajude a reconstrução histórica dos Mariot eu tenho intenção de publicar.
+            </p>
+            <small>
+                <em>
+                    <strong>Nota sobre os Mariotti</strong>: A família Mariot explorada aqui é aquela dos imigrantes originalmente da província de Belluno, na Itália, que se estabeleceram no sul do Brasil no século 19, principalmente em Santa Catarina. Eu não me preocupei demasiado com variações do nome como "Mariotti", porque a evidência da conexão entre os dois limita-se à origem etimológica dos nomes. Como os Mariotti são muito mais numerosos, imigraram para várias partes do Brasil em vários momentos diferentes e não têm nenhuma relação direta com os Mariot de Belluno, eu não tive interesse de me aprofundar na história daquele grupo e não os considero parte da mesma família até obter sólida evidência em contrário.
+                </em>
+            </small>
+            <p>
+                Giancarlo Mariot
+            </p>
+            <script src="scripts/m.js"></script>
+        </section>
 
+        <section>
+            <h2>
+                Notícias
+            </h2>
+            <dl class="news">
+                <dt>
+                    07 Jun 2020
+                </dt>
+                <dd>
+                    Adicionadas páginas sobre os demais Mariot do Vêneto.<br />
+                </dd>
+                <dt>
+                    04 Jun 2020
+                </dt>
+                <dd>
+                    Ampliada a página sobre França e Itália.<br />
+                    Adicionada página sobre os Mariot do Vêneto, sem referências (por enquanto).
+                </dd>
+                <dt>
+                    03 Jun 2020
+                </dt>
+                <dd>
+                    Adicionada página sobre hipótese de imigração da França para a Itália.<br />
+                    Adicionada página sobre brasões.
+                </dd>
+                <dt>
+                    02 Jun 2020
+                </dt>
+                <dd>
+                    Adicionada página sobre a Inglaterra.<br />
+                    Adicionada página sobre a França.
+                </dd>
+                <dt>
+                    01 Jun 2020
+                </dt>
+                <dd>
+                    Adicionada página sobre a origem do nome. Adicionando referências.
+                </dd>
+                <dt>
+                    01 Jun 2020
+                </dt>
+                <dd>
+                    Site criado. Preparando material para pôr no ar em breve. Adicionada uma introdução.
+                </dd>
+            </dl>
+        </section>
+    </main>
+    <script src="scripts/metismenujs.min.js"></script>
+    <script src="scripts/nav.js"></script>
 </body>
 </html>
