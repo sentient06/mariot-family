@@ -2,98 +2,116 @@
 <html lang="pt">
 <head>
     <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Mariot na França</title>
-    <link rel="stylesheet" type="text/css" href="main.css">
-    <link rel="stylesheet" type="text/css" href="nav.css">
+    <link rel="stylesheet" type="text/css" href="styles/metismenujs.min.css" />
+    <link rel="stylesheet" type="text/css" href="styles/main.css" />
+    <link rel="stylesheet" type="text/css" href="styles/nav.css" />
 </head>
 <body>
-
-    <nav>
-        <ul>
+    <nav class="topbar-nav">
+        <ul class="metismenu" id="menu1">
             <li><a href="index.html">Home</a></li>
             <li><a href="01-introducao.html">Introdução</a></li>
-            <li><a href="02-origem.html">Origem</a></li>
-            <li><a href="03-inglaterra.html">Mariot na Inglaterra</a></li>
-            <li class="current"><a href="04-franca.html">Mariot na França</a></li>
-            <li><a href="05-franca-italia.html">Da França para a Itália</a></li>
+            <li class="current">
+                <a class="has-arrow" href="" aria-expanded="false">Origem</a>
+                <ul class="mm-collapse">
+                    <li><a href="02-origem.html">Etimologia</a></li>
+                    <li><a href="03-inglaterra.html">Mariot na Inglaterra</a></li>
+                    <li class="current"><a href="04-franca.html">Mariot na França</a></li>
+                    <li><a href="05-franca-italia.html">Motivos para imigração</a></li>
+                </ul>
+            </li>
             <li><a href="06-brasao.html">Brasão da família</a></li>
-            <li><a href="07-mariot-veneto.html">Os Mariot do Vêneto</a></li>
+            <li>
+                <a class="has-arrow" href="" aria-expanded="false">Mariot do Vêneto</a>
+                <ul class="mm-collapse">
+                    <li><a href="07-mariot-veneto.html">Mariot de Longarone</a></li>
+                    <li><a href="08-matteo.html">A história de Matteo</a></li>
+                    <li><a href="09-pietro.html">A segunda viagem</a></li>
+                    <li><a href="10-giovanni.html">Giovanni e Brigida</a></li>
+                    <li><a href="11-giosue.html">A história de Giosuè</a></li>
+                </ul>
+            </li>
         </ul>
     </nav>
-    
-    <h1>
-        Mariot na França
-    </h1>
-    <section class="section" id="section_franca">
-        <div class="remember">
-            <h4>
-                Século 18
-            </h4>
-            <p>
-                Nessa época houve um maior número de imigrantes e maior colonialismo. Aconteceu uma revolução agricultural e uma industrial. Cidades cresceram, as pessoas deixaram áreas rurais. Esse foi também um período de muitas guerras, grandes e pequenas. Essa época viu uma classe mercante dominar o mercado e a mudança de uma economia feudalista para uma economia capitalista. O número de pessoas alfabetizadas aumentou. Listas de pessoas eram mantidas, para saber quem fazia parte dos exércitos, quem votava, quem pagava impostos, quem era empregado, quem possuia propriedade, quem devia e quem pagava. Por isso os primeiros dos Mariot vêm do século 18.
-            </p>
-        </div>
-
-        <p>
-            Nas minhas pesquisas, não encontrei nenhuma figura histórica na França. Entretanto, a partir do século XVII, muitos óbitos foram registrados em Paris com pessoas com o sobrenome <strong>Mariot</strong>. A prefeitura de Paris possui um acervo digital com registros civis dos anos 1860 até 1902 onde se pode fazer uma pesquisa por nome.<sup>1</sup> É possível que essas pessoas estejam conectadas com os <strong>Mariot</strong> da Itália, mas eles são quase contemporâneos entre si.
-            <!-- https://fr.wikipedia.org/wiki/Registres_paroissiaux_et_d'%C3%A9tat_civil_%C3%A0_Paris -->
-        </p>
-        <p>
-            No acervo digital do governo francês, o registro mais antigo de uma pessoa com o sobrenome é de uma <strong>Magdelaine Mariot</strong><sup>2</sup>, nascida em <a href="https://en.wikipedia.org/wiki/Vend%C3%B4me" target="_blank">Vendôme</a> em 1659. Nessa época, Louis XIV era rei e Vendôme era um ducado. Louis Joseph, <em lang="fr">duc de Vendôme</em>, foi um famoso general.
-        </p>
-        <p>
-            Existem <strong>115</strong> outros resultados no acervo digital, totalizando <strong>116</strong>. <strong>4</strong> registros são do século XVII, <strong>44</strong> do século XVIII, <strong>64</strong> do século XIX e <strong>4</strong> do século XX.
-        </p>
-
-        <h3>Madamme de la Guette</h3>
-        <div class="fr limit mar10-l" style="max-width: 40%;">
-            <div class="image-frame">
-                <img src="images/history/aide-de-camp.jpg" alt="Aide-de-camp na era napoleônica.">
-                <small>Aide-de-camp na era napoleônica. (c. 1812)</small>
+    <main>
+        <h1>
+            Mariot na França
+        </h1>
+        <section class="section" id="section_franca">
+            <div class="remember">
+                <h4>
+                    Século 18
+                </h4>
+                <p>
+                    Nessa época houve um maior número de imigrantes e maior colonialismo. Aconteceu uma revolução agricultural e uma industrial. Cidades cresceram, as pessoas deixaram áreas rurais. Esse foi também um período de muitas guerras, grandes e pequenas. Essa época viu uma classe mercante dominar o mercado e a mudança de uma economia feudalista para uma economia capitalista. O número de pessoas alfabetizadas aumentou. Listas de pessoas eram mantidas, para saber quem fazia parte dos exércitos, quem votava, quem pagava impostos, quem era empregado, quem possuia propriedade, quem devia e quem pagava. Por isso os primeiros dos Mariot vêm do século 18.
+                </p>
             </div>
-        </div>
-        <p>
-            Uma autora francesa pelo nome de Catherine Meurdrac (1613 - 1676), também conhecida como Madame de La Guette, nascida em Mandres-les-roses escreveu um livro chamado <em>Mémoires</em>, publicado em 1681.
-            <sup>3</sup>
-        </p>
-        <p>
-            "<em>Mémoires de Madame de la Guette</em>" trata-se de uma auto-biografia. Nesse livro é dito que Catherine casou-se com um homem que era conhecido como <strong><em lang="fr">Jean Mariot, écuyer, sieur de La Guette, capitaine de chevaulegers et maître-d'hôtel ordinaire de Sa Majesté.</em></strong> - "Jean Mariot, escudeiro, senhor de la Guette, escudeiro, capitão da cavalaria leve, mordomo ordinário de Sua Majestade".
-        </p>
-        <p>
-            Jean é relatado ter sido <em lang="fr">aide-de-camp</em> de um Henri de Briqueville, marquis de La Luzerne, lugar-tenente do exército da Catalonia.
-        </p>
-        <p>
-            Ao casar-se com o senhor de la Guette, Catherine Meurdrac herdou o título do marido, por isso o nome <strong>Madame de la Guette</strong>. Eles tiveram um filho que teve como padrinho um certo Louys de Valoys, conde d'Auvergne.
-        </p>
-        <p>
-            Senhor de la Guette morreu em 22/06/1665 como capitão da cavalaria, foi enterrado em Sucy, sudeste da França.
-        </p>
-    </section>
-    <footer>
-        <h2>
-            Referências
-        </h2>
-        <dl class="references">
-            <dt></dt><dd>
-                <a href="http://canadp-archivesenligne.paris.fr/archives_etat_civil/avant_1860_fichiers_etat_civil_reconstitue/index.php" target="_blank">
-                    http://canadp-archivesenligne.paris.fr/archives_etat_civil/avant_1860_fichiers_etat_civil_reconstitue/index.php
-                </a>
-            </dd>
-            <dt></dt><dd>
-                <a href="http://www.culture.fr/bases_genealogie/resultats/(page_count)/116?lastname=mariot&fromTransverseSearch=1&filter_name%5B%5D=mariot" target="_blank">
-                    http://www.culture.fr/bases_genealogie/resultats/(page_count)/116?lastname=mariot&fromTransverseSearch=1&filter_name%5B%5D=mariot
-                </a>
-            </dd>
-            <dt></dt><dd>
-                La Guette, Catherine Meurdrac de (1856). Mémoirs de Madame de la Guette - Paris, P. Jannet.
-                <br />
-                <a href="https://archive.org/details/mmoirsdemadamed00guetgoog/page/n4/mode/2up" target="_blank">
-                    Internet Archive
-                </a>
-            </dd>
-        </dl>
-    </footer>
 
+            <p>
+                Nas minhas pesquisas, não encontrei nenhuma figura histórica na França. Entretanto, a partir do século XVII, muitos óbitos foram registrados em Paris com pessoas com o sobrenome <strong>Mariot</strong>. A prefeitura de Paris possui um acervo digital com registros civis dos anos 1860 até 1902 onde se pode fazer uma pesquisa por nome.<sup>1</sup> É possível que essas pessoas estejam conectadas com os <strong>Mariot</strong> da Itália, mas eles são quase contemporâneos entre si.
+                <!-- https://fr.wikipedia.org/wiki/Registres_paroissiaux_et_d'%C3%A9tat_civil_%C3%A0_Paris -->
+            </p>
+            <p>
+                No acervo digital do governo francês, o registro mais antigo de uma pessoa com o sobrenome é de uma <strong>Magdelaine Mariot</strong><sup>2</sup>, nascida em <a href="https://en.wikipedia.org/wiki/Vend%C3%B4me" target="_blank">Vendôme</a> em 1659. Nessa época, Louis XIV era rei e Vendôme era um ducado. Louis Joseph, <em lang="fr">duc de Vendôme</em>, foi um famoso general.
+            </p>
+            <p>
+                Existem <strong>115</strong> outros resultados no acervo digital, totalizando <strong>116</strong>. <strong>4</strong> registros são do século XVII, <strong>44</strong> do século XVIII, <strong>64</strong> do século XIX e <strong>4</strong> do século XX.
+            </p>
+
+            <h3>Madamme de la Guette</h3>
+            <div class="fr limit mar10-l" style="max-width: 40%;">
+                <div class="image-frame">
+                    <img src="images/history/aide-de-camp.jpg" alt="Aide-de-camp na era napoleônica.">
+                    <small>Aide-de-camp na era napoleônica. (c. 1812)</small>
+                </div>
+            </div>
+            <p>
+                Uma autora francesa pelo nome de Catherine Meurdrac (1613 - 1676), também conhecida como Madame de La Guette, nascida em Mandres-les-roses escreveu um livro chamado <em>Mémoires</em>, publicado em 1681.
+                <sup>3</sup>
+            </p>
+            <p>
+                "<em>Mémoires de Madame de la Guette</em>" trata-se de uma auto-biografia. Nesse livro é dito que Catherine casou-se com um homem que era conhecido como <strong><em lang="fr">Jean Mariot, écuyer, sieur de La Guette, capitaine de chevaulegers et maître-d'hôtel ordinaire de Sa Majesté.</em></strong> - "Jean Mariot, escudeiro, senhor de la Guette, escudeiro, capitão da cavalaria leve, mordomo ordinário de Sua Majestade".
+            </p>
+            <p>
+                Jean é relatado ter sido <em lang="fr">aide-de-camp</em> de um Henri de Briqueville, marquis de La Luzerne, lugar-tenente do exército da Catalonia.
+            </p>
+            <p>
+                Ao casar-se com o senhor de la Guette, Catherine Meurdrac herdou o título do marido, por isso o nome <strong>Madame de la Guette</strong>. Eles tiveram um filho que teve como padrinho um certo Louys de Valoys, conde d'Auvergne.
+            </p>
+            <p>
+                Senhor de la Guette morreu em 22/06/1665 como capitão da cavalaria, foi enterrado em Sucy, sudeste da França.
+            </p>
+        </section>
+        <footer>
+            <h2>
+                Referências
+            </h2>
+            <dl class="references">
+                <dt></dt><dd>
+                    <a href="http://canadp-archivesenligne.paris.fr/archives_etat_civil/avant_1860_fichiers_etat_civil_reconstitue/index.php" target="_blank">
+                        http://canadp-archivesenligne.paris.fr/archives_etat_civil/avant_1860_fichiers_etat_civil_reconstitue/index.php
+                    </a>
+                </dd>
+                <dt></dt><dd>
+                    <a href="http://www.culture.fr/bases_genealogie/resultats/(page_count)/116?lastname=mariot&fromTransverseSearch=1&filter_name%5B%5D=mariot" target="_blank">
+                        http://www.culture.fr/bases_genealogie/resultats/(page_count)/116?lastname=mariot&fromTransverseSearch=1&filter_name%5B%5D=mariot
+                    </a>
+                </dd>
+                <dt></dt><dd>
+                    La Guette, Catherine Meurdrac de (1856). Mémoirs de Madame de la Guette - Paris, P. Jannet.
+                    <br />
+                    <a href="https://archive.org/details/mmoirsdemadamed00guetgoog/page/n4/mode/2up" target="_blank">
+                        Internet Archive
+                    </a>
+                </dd>
+            </dl>
+        </footer>
+    </main>
     <script src="scripts/refs.js"></script>
-    </body>
+    <script src="scripts/metismenujs.min.js"></script>
+    <script src="scripts/nav.js"></script>
+</body>
 </html>
