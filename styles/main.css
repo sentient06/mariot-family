@@ -372,6 +372,12 @@ dl.references dd {
     left: 30px;
 }
 
+dl.references dd .subsection {
+    font-size: 0.8em;
+    font-weight: bold;
+    color: #e81c4f;
+}
+
 dl.references dd a {
     color: inherit;
     text-decoration: none;
@@ -379,6 +385,11 @@ dl.references dd a {
 
 dl.references dd a:hover {
     text-decoration: underline;
+}
+
+dl.references dd span,
+dl.references dd em {
+    color: inherit;
 }
 
 div.help {
