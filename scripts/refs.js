@@ -1,8 +1,10 @@
 var refsSup = document.getElementsByTagName("sup");
 var refsDt  = document.getElementsByTagName("dt");
+var refsDd  = document.getElementsByTagName("dd");
 
 var sups = [];
 var dts = [];
+var dds = [];
 
 for (var i = 0; i < refsSup.length; i++) {
     sups.push(refsSup.item(i));
@@ -10,6 +12,10 @@ for (var i = 0; i < refsSup.length; i++) {
 
 for (var i = 0; i < refsDt.length; i++) {
     dts.push(refsDt.item(i));
+}
+
+for (var i = 0; i < refsDd.length; i++) {
+    dds.push(refsDd.item(i));
 }
 
 sups.forEach(function(ref) {
@@ -32,5 +38,30 @@ dts.forEach(function(ref) {
     ref.innerHTML = "" + counter + ".";
     ref.prepend(newAnchor);
     counter++;
+});
+
+var alpha = "abcdefghijk";
+
+dds.forEach(function(ref) {
+    var childrenLength = ref.children.length;
+    if (childrenLength > 1) {       
+        var indexes = [];
+        for (var i = 0; i < ref.childNodes.length; i++) {
+            var currentChildNode = ref.childNodes[i];
+            var isAnchor = currentChildNode.nodeName === 'A';
+            var mustSkip = Boolean(currentChildNode.dataset && currentChildNode.dataset.skip);
+            if (isAnchor && !mustSkip) indexes.push(i);
+        }
+        if (indexes.length > 1) {
+            var counter = 0;
+            for (var i = 0; i < indexes.length; i++) {
+                var newTargetAnchor = document.createElement("span");
+                newTargetAnchor.className = "subsection";
+                newTargetAnchor.innerHTML = alpha.substr(counter, 1);
+                counter++;
+                ref.insertBefore(newTargetAnchor, ref.childNodes[indexes[i]]);
+            }
+        }
+    }
 });
 
