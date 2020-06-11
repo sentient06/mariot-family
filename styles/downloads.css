@@ -113,6 +113,16 @@ ul.person li:first-of-type {
     border-color: darkslategray;
 }
 
+ul.person.main li:first-of-type {
+    background: honeydew;
+    border-color: darkslategray;
+}
+
+ul.person.doubt li:first-of-type {
+    background: lemonchiffon;
+    border-color: darkslategray;
+}
+
 ul.person li:first-of-type:before {
     content: "";
 }
