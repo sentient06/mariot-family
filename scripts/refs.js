@@ -48,18 +48,19 @@ dds.forEach(function(ref) {
         var indexes = [];
         for (var i = 0; i < ref.childNodes.length; i++) {
             var currentChildNode = ref.childNodes[i];
-            var isAnchor = currentChildNode.nodeName === 'A';
+            var isRef = currentChildNode.className === 'ref';
             var mustSkip = Boolean(currentChildNode.dataset && currentChildNode.dataset.skip);
-            if (isAnchor && !mustSkip) indexes.push(i);
+            if (isRef && !mustSkip) indexes.push(i);
         }
         if (indexes.length > 1) {
             var counter = 0;
             for (var i = 0; i < indexes.length; i++) {
-                var newTargetAnchor = document.createElement("span");
+                var newTargetAnchor = document.createElement("div");
                 newTargetAnchor.className = "subsection";
                 newTargetAnchor.innerHTML = alpha.substr(counter, 1);
                 counter++;
-                ref.insertBefore(newTargetAnchor, ref.childNodes[indexes[i]]);
+                ref.childNodes[indexes[i]].prepend(newTargetAnchor);
+                // ref.insertBefore(newTargetAnchor, ref.childNodes[indexes[i]]);
             }
         }
     }

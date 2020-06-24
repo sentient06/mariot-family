@@ -203,8 +203,16 @@ div.hypothesis,
 div.theory,
 div.fact,
 div.subtle {
-    margin-top: 20px;
-    padding: 10px;
+    /*margin-top: 20px;*/
+    /*padding: 10px;*/
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 10px 0;
+    border-style: solid;
+    border-width: 0;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    position: relative;
 }
 
 div.remember strong,
@@ -213,7 +221,7 @@ div.hypothesis strong,
 div.theory strong,
 div.fact strong,
 div.subtle strong {
-    color: inherit !important;
+    /*color: inherit !important;*/
 }
 
 div.remember > p:last-of-type,
@@ -250,44 +258,98 @@ div.subtle h1,
 div.subtle h2,
 div.subtle h3,
 div.subtle h4 {
-    margin-top: 0;
+    /*margin-top: 0;*/
     color: inherit !important;
+    margin: 0;
+    position: absolute;
+    top: -1em; /*-13*/
+    background: white;
+    padding: 3px 5px 2px 5px;
+    border: 1px solid;
 }
 
 div.remember {
+    /*background: #f9f9FF;*/
+    /*color: #566b78;*/
+    border-color: #566b78;
+}
+
+div.remember h1,
+div.remember h2,
+div.remember h3,
+div.remember h4 {
     background: #f9f9FF;
-    color: #566b78;
-    border: 1px solid #566b78;
+    color: #566b78 !important;
 }
 
 div.myth {
+    /*background: lavenderblush;*/
+    /*color: brown;*/
+    border-color: brown;
+}
+
+div.myth h1,
+div.myth h2,
+div.myth h3,
+div.myth h4 {
     background: lavenderblush;
-    color: brown;
-    border: 1px solid brown;
+    color: brown !important;
 }
 
 div.hypothesis {
+    /*background: cornsilk;*/
+    /*color: maroon;*/
+    border-color: maroon;
+}
+
+div.hypothesis h1,
+div.hypothesis h2,
+div.hypothesis h3,
+div.hypothesis h4 {
     background: cornsilk;
-    color: maroon;
-    border: 1px solid maroon;
+    color: maroon !important;
 }
 
 div.theory {
+    /*background: azure;*/
+    /*color: darkblue;*/
+    border-color: darkblue;
+}
+
+div.theory h1,
+div.theory h2,
+div.theory h3,
+div.theory h4 {
     background: azure;
-    color: darkblue;
-    border: 1px solid darkblue;
+    color: darkblue !important;
 }
 
 div.fact {
+    /*background: honeydew;*/
+    /*color: darkgreen;*/
+    border-color: darkgreen;
+}
+
+div.fact h1,
+div.fact h2,
+div.fact h3,
+div.fact h4 {
     background: honeydew;
-    color: darkgreen;
-    border: 1px solid darkgreen;
+    color: darkgreen !important;
 }
 
 div.subtle {
+    /*background: #f9f9f9;*/
+    /*color: #999;*/
+    border-color: #999;
+}
+
+div.subtle h1,
+div.subtle h2,
+div.subtle h3,
+div.subtle h4 {
     background: #f9f9f9;
-    color: #999;
-    border: 1px solid #999;
+    color: #999 !important;
 }
 
 div.image-frame {
@@ -399,3 +461,15 @@ div.help {
     padding: 10px;
     margin-top: 20px;
 }
+
+.references .ref {
+    display: flex;
+    padding-left: 3px;
+}
+
+.references .ref > .subsection + * {
+    padding-left: 5px;
+}
+
+
+
