@@ -12,8 +12,19 @@ main {
     max-width: 50em;
     line-height: 1.5;
     padding: 2em 1em 4em 1em;
+    /*padding: 2em 0 4em 0;*/
     margin: 0 auto;
 }
+
+/*
+main h1,
+main h2,
+main h3,
+main h4,
+main p {
+    padding: 0 8px;
+}
+*/
 
 nav a {
     text-decoration: none;
@@ -204,10 +215,12 @@ div.theory,
 div.fact,
 div.subtle {
     /*margin-top: 20px;*/
-    /*padding: 10px;*/
+    padding: 10px;
+    margin: 0 -1em;
+
     margin-top: 30px;
     margin-bottom: 30px;
-    padding: 10px 0;
+    /*padding: 10px 0;*/
     border-style: solid;
     border-width: 0;
     border-top-width: 1px;
@@ -234,30 +247,30 @@ div.subtle > p:last-of-type {
 }
 
 
-div.remember h1,
-div.remember h2,
-div.remember h3,
-div.remember h4,
-div.myth h1,
-div.myth h2,
-div.myth h3,
-div.myth h4,
-div.hypothesis h1,
-div.hypothesis h2,
-div.hypothesis h3,
-div.hypothesis h4,
-div.theory h1,
-div.theory h2,
-div.theory h3,
-div.theory h4,
-div.fact h1,
-div.fact h2,
-div.fact h3,
-div.fact h4,
-div.subtle h1,
-div.subtle h2,
-div.subtle h3,
-div.subtle h4 {
+div.remember h1:first-child,
+div.remember h2:first-child,
+div.remember h3:first-child,
+div.remember h4:first-child,
+div.myth h1:first-child,
+div.myth h2:first-child,
+div.myth h3:first-child,
+div.myth h4:first-child,
+div.hypothesis h1:first-child,
+div.hypothesis h2:first-child,
+div.hypothesis h3:first-child,
+div.hypothesis h4:first-child,
+div.theory h1:first-child,
+div.theory h2:first-child,
+div.theory h3:first-child,
+div.theory h4:first-child,
+div.fact h1:first-child,
+div.fact h2:first-child,
+div.fact h3:first-child,
+div.fact h4:first-child,
+div.subtle h1:first-child,
+div.subtle h2:first-child,
+div.subtle h3:first-child,
+div.subtle h4:first-child {
     /*margin-top: 0;*/
     color: inherit !important;
     margin: 0;
@@ -274,10 +287,10 @@ div.remember {
     border-color: #566b78;
 }
 
-div.remember h1,
-div.remember h2,
-div.remember h3,
-div.remember h4 {
+div.remember h1:first-child,
+div.remember h2:first-child,
+div.remember h3:first-child,
+div.remember h4:first-child {
     background: #f9f9FF;
     color: #566b78 !important;
 }
@@ -285,13 +298,21 @@ div.remember h4 {
 div.myth {
     /*background: lavenderblush;*/
     /*color: brown;*/
+    /*background-color: rgba(255, 255, 255, 0);*/
+    /* background-image:         linear-gradient(top, lavenderblush 0%, rgba(255, 255, 255, 0) 80px); */ /* W3C */
+    /* background-image:    -moz-linear-gradient(top, lavenderblush 0%, rgba(255, 255, 255, 0) 80px); */ /* FF3.6+ */
+    /* background-image: -webkit-linear-gradient(top, lavenderblush 0%, rgba(255, 255, 255, 0) 80px); */ /* Chrome10+,Safari5.1+ */
+
+    -webkit-box-shadow: 10px 10px 40px 0px rgba(165, 42, 42, 0.1);
+       -moz-box-shadow: 10px 10px 40px 0px rgba(165, 42, 42, 0.1);
+            box-shadow: 10px 10px 40px 0px rgba(165, 42, 42, 0.1);
     border-color: brown;
 }
 
-div.myth h1,
-div.myth h2,
-div.myth h3,
-div.myth h4 {
+div.myth h1:first-child,
+div.myth h2:first-child,
+div.myth h3:first-child,
+div.myth h4:first-child {
     background: lavenderblush;
     color: brown !important;
 }
@@ -299,13 +320,16 @@ div.myth h4 {
 div.hypothesis {
     /*background: cornsilk;*/
     /*color: maroon;*/
+    -webkit-box-shadow: 10px 10px 40px 0px rgba(128, 0, 0, 0.1);
+       -moz-box-shadow: 10px 10px 40px 0px rgba(128, 0, 0, 0.1);
+            box-shadow: 10px 10px 40px 0px rgba(128, 0, 0, 0.1);
     border-color: maroon;
 }
 
-div.hypothesis h1,
-div.hypothesis h2,
-div.hypothesis h3,
-div.hypothesis h4 {
+div.hypothesis h1:first-child,
+div.hypothesis h2:first-child,
+div.hypothesis h3:first-child,
+div.hypothesis h4:first-child {
     background: cornsilk;
     color: maroon !important;
 }
@@ -313,13 +337,16 @@ div.hypothesis h4 {
 div.theory {
     /*background: azure;*/
     /*color: darkblue;*/
+    -webkit-box-shadow: 10px 10px 40px 0px rgba(0, 0, 139, 0.1);
+       -moz-box-shadow: 10px 10px 40px 0px rgba(0, 0, 139, 0.1);
+            box-shadow: 10px 10px 40px 0px rgba(0, 0, 139, 0.1);
     border-color: darkblue;
 }
 
-div.theory h1,
-div.theory h2,
-div.theory h3,
-div.theory h4 {
+div.theory h1:first-child,
+div.theory h2:first-child,
+div.theory h3:first-child,
+div.theory h4:first-child {
     background: azure;
     color: darkblue !important;
 }
@@ -327,13 +354,16 @@ div.theory h4 {
 div.fact {
     /*background: honeydew;*/
     /*color: darkgreen;*/
+    -webkit-box-shadow: 10px 10px 40px 0px rgba(1, 50, 32, 0.1);
+       -moz-box-shadow: 10px 10px 40px 0px rgba(1, 50, 32, 0.1);
+            box-shadow: 10px 10px 40px 0px rgba(1, 50, 32, 0.1);
     border-color: darkgreen;
 }
 
-div.fact h1,
-div.fact h2,
-div.fact h3,
-div.fact h4 {
+div.fact h1:first-child,
+div.fact h2:first-child,
+div.fact h3:first-child,
+div.fact h4:first-child {
     background: honeydew;
     color: darkgreen !important;
 }
@@ -341,13 +371,16 @@ div.fact h4 {
 div.subtle {
     /*background: #f9f9f9;*/
     /*color: #999;*/
+    -webkit-box-shadow: 10px 10px 40px 0px rgba(153, 153, 153, 0.1);
+       -moz-box-shadow: 10px 10px 40px 0px rgba(153, 153, 153, 0.1);
+            box-shadow: 10px 10px 40px 0px rgba(153, 153, 153, 0.1);
     border-color: #999;
 }
 
-div.subtle h1,
-div.subtle h2,
-div.subtle h3,
-div.subtle h4 {
+div.subtle h1:first-child,
+div.subtle h2:first-child,
+div.subtle h3:first-child,
+div.subtle h4:first-child {
     background: #f9f9f9;
     color: #999 !important;
 }
