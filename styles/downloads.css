@@ -71,6 +71,12 @@ table.downloads tbody tr td:nth-of-type(2) > ul > li:nth-of-type(3):before {
     content: "Origem:";
 }
 
+
+table.downloads.docs tbody tr td:nth-of-type(2) > ul > li:nth-of-type(3):before {
+    content: "Autor:";
+}
+
+
 table.downloads tbody tr td:nth-of-type(2) > ul > li:nth-of-type(4):before {
     content: "Indivíduos:";
 }
