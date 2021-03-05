@@ -59,6 +59,8 @@ table.downloads tbody tr td:nth-of-type(2) > ul > li:before {
     font-weight: bold;
 }
 
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
 table.downloads tbody tr td:nth-of-type(2) > ul > li:nth-of-type(1):before {
     content: "Título:";
 }
@@ -67,23 +69,36 @@ table.downloads tbody tr td:nth-of-type(2) > ul > li:nth-of-type(2):before {
     content: "Tipo:";
 }
 
-table.downloads tbody tr td:nth-of-type(2) > ul > li:nth-of-type(3):before {
-    content: "Origem:";
-}
+/*table.downloads tbody tr td:nth-of-type(2) > ul > li:nth-of-type(3):before {*/
+    /*content: "Origem:";*/
+/*}*/
 
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
 table.downloads.docs tbody tr td:nth-of-type(2) > ul > li:nth-of-type(3):before {
     content: "Autor:";
 }
 
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
-table.downloads tbody tr td:nth-of-type(2) > ul > li:nth-of-type(4):before {
-    content: "Indivíduos:";
+table.downloads.audio tbody tr td:nth-of-type(2) > ul > li:nth-of-type(2):before {
+    content: "Descrição:";
 }
+
+table.downloads.audio tbody tr td:nth-of-type(2) > ul > li:nth-of-type(3):before {
+    content: "Origem:";
+}
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
 table.downloads tbody tr td:nth-of-type(2) > ul > li > ul {
     list-style: none;
     padding: 10px 0 0 10px;
+}
+
+table.downloads tbody tr td:nth-of-type(2) > .extra {
+    border-top: 1px solid #efefef;
+    padding: 10px 10px 0 10px;
 }
 
 /* Download */
@@ -95,6 +110,10 @@ table.downloads tbody tr td:last-of-type a {
     display: block;
     border: 2px solid black;
     padding: 0;
+}
+
+table.downloads tbody tr td:last-of-type a.no-border {
+    border-width: 0px;
 }
 
 table.downloads tbody tr td:last-of-type a:hover {
