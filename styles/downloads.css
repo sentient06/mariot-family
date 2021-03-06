@@ -69,9 +69,9 @@ table.downloads tbody tr td:nth-of-type(2) > ul > li:nth-of-type(2):before {
     content: "Tipo:";
 }
 
-/*table.downloads tbody tr td:nth-of-type(2) > ul > li:nth-of-type(3):before {*/
-    /*content: "Origem:";*/
-/*}*/
+table.downloads tbody tr td:nth-of-type(2) > ul > li:nth-of-type(3):before {
+    content: "Origem:";
+}
 
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
@@ -83,10 +83,6 @@ table.downloads.docs tbody tr td:nth-of-type(2) > ul > li:nth-of-type(3):before 
 
 table.downloads.audio tbody tr td:nth-of-type(2) > ul > li:nth-of-type(2):before {
     content: "Descrição:";
-}
-
-table.downloads.audio tbody tr td:nth-of-type(2) > ul > li:nth-of-type(3):before {
-    content: "Origem:";
 }
 
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
