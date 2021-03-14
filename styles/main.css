@@ -1,30 +1,73 @@
+@font-face {
+    font-family: 'AltGeorgia';
+    src: url(./fonts/Georgia.eot);
+    src: url(./fonts/Georgia.eot?#iefix) format('embedded-opentype'),
+         url(./fonts/Georgia.woff) format('woff'),
+         url(./fonts/Georgia.ttf) format('truetype'),
+         url(./fonts/Georgia.svg#Georgia) format('svg');
+   font-style: normal;
+   font-weight: normal;
+}
+
+@font-face {
+  font-family: 'AltGeorgiaBold';
+    src: url(./fonts/GeorgiaBold.eot);
+    src: url(./fonts/GeorgiaBold.eot?#iefix) format('embedded-opentype'),
+         url(./fonts/GeorgiaBold.woff) format('woff'),
+         url(./fonts/GeorgiaBold.ttf) format('truetype'),
+         url(./fonts/GeorgiaBold.svg#Georgia) format('svg');
+}
+
+@font-face {
+  font-family: 'AltGeorgiaItalic';
+    src: url(./fonts/GeorgiaItalic.eot);
+    src: url(./fonts/GeorgiaItalic.eot?#iefix) format('embedded-opentype'),
+         url(./fonts/GeorgiaItalic.woff) format('woff'),
+         url(./fonts/GeorgiaItalic.ttf) format('truetype'),
+         url(./fonts/GeorgiaItalic.svg#Georgia) format('svg');
+}
+
+@font-face {
+  font-family: 'AltGeorgiaBoldItalic';
+    src: url(./fonts/GeorgiaBoldItalic.eot);
+    src: url(./fonts/GeorgiaBoldItalic.eot?#iefix) format('embedded-opentype'),
+         url(./fonts/GeorgiaBoldItalic.woff) format('woff'),
+         url(./fonts/GeorgiaBoldItalic.ttf) format('truetype'),
+         url(./fonts/GeorgiaBoldItalic.svg#Georgia) format('svg');
+}
+
 * {
     box-sizing: border-box;
 }
 
 body {
-    font-family: "Georgia", "Times", "Times New Roman", "serif";
+    font-family: AltGeorgia;
+    /*font-family: "Georgia", "Times", "Times New Roman", "serif";*/
     color: #566b78;
     margin: 0;
+}
+
+strong {
+    font-style: normal;
+    font-family: AltGeorgiaBold;
+}
+
+em {
+    font-style: normal;
+    font-family: AltGeorgiaItalic;
+}
+
+strong em, em strong {
+    font-style: normal;
+    font-family: AltGeorgiaBoldItalic;
 }
 
 main {
     max-width: 50em;
     line-height: 1.5;
     padding: 2em 1em 4em 1em;
-    /*padding: 2em 0 4em 0;*/
     margin: 0 auto;
 }
-
-/*
-main h1,
-main h2,
-main h3,
-main h4,
-main p {
-    padding: 0 8px;
-}
-*/
 
 nav a {
     text-decoration: none;
@@ -42,6 +85,9 @@ h4,
 h5,
 h6,
 strong {
+    font-style: normal;
+    font-family: AltGeorgiaBold;
+    font-weight: inherit;
     color: #333;
 }
 h2 {
@@ -508,5 +554,9 @@ div.help {
     padding-left: 5px;
 }
 
-
+a.hide {
+    color: unset;
+    font-style: unset;
+    text-decoration: unset;
+}
 
