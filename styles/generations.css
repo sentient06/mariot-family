@@ -1,29 +1,58 @@
+.z0, .g0, .g1, .g2, .g3, .g4, .g5, .g6, .g7 {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+
+strong.z0,
+strong.g0,
+strong.g1,
+strong.g2,
+strong.g3,
+strong.g4,
+strong.g5,
+strong.g6,
+strong.g7 {
+    font-weight: bold;
+    font-family: "AltGeorgia";
+}
+
+.z0 {
+    text-decoration-color: #ccc;
+}
+
+.g0 {
+    text-decoration-color: #666;
+}
+
 .g1 {
-    color: #b30000 !important;
+    /*text-decoration-color: #b30000;*/
+    text-decoration-color: #e60000;
 }
 
 .g2 {
-    color: #ff4500 !important;
+    /*text-decoration-color: #ff4500;*/
+    text-decoration-color: #ff8c00;
 }
 
 .g3 {
-    color: #daa520 !important;
+    /*text-decoration-color: #daa520;*/
+    text-decoration-color: #e6c200;
 }
 
 .g4 {
-    color: #008000 !important;
+    text-decoration-color: #008000;
 }
 
 .g5 {
-    color: #0000b3 !important;
+    text-decoration-color: #0000b3;
 }
 
 .g6 {
-    color: #4b0082 !important;
+    text-decoration-color: #4b0082;
 }
 
 .g7 {
-    color: #c71585 !important;
+    text-decoration-color: #c71585;
 }
 
 ul.person {
