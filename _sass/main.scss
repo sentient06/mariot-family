@@ -1,39 +1,39 @@
 @font-face {
     font-family: 'AltGeorgia';
-    src: url(./fonts/Georgia.eot);
-    src: url(./fonts/Georgia.eot?#iefix) format('embedded-opentype'),
-         url(./fonts/Georgia.woff) format('woff'),
-         url(./fonts/Georgia.ttf) format('truetype'),
-         url(./fonts/Georgia.svg#Georgia) format('svg');
+    src: url(../fonts/Georgia.eot);
+    src: url(../fonts/Georgia.eot?#iefix) format('embedded-opentype'),
+         url(../fonts/Georgia.woff) format('woff'),
+         url(../fonts/Georgia.ttf) format('truetype'),
+         url(../fonts/Georgia.svg#Georgia) format('svg');
    font-style: normal;
    font-weight: normal;
 }
 
 @font-face {
   font-family: 'AltGeorgiaBold';
-    src: url(./fonts/GeorgiaBold.eot);
-    src: url(./fonts/GeorgiaBold.eot?#iefix) format('embedded-opentype'),
-         url(./fonts/GeorgiaBold.woff) format('woff'),
-         url(./fonts/GeorgiaBold.ttf) format('truetype'),
-         url(./fonts/GeorgiaBold.svg#Georgia) format('svg');
+    src: url(../fonts/GeorgiaBold.eot);
+    src: url(../fonts/GeorgiaBold.eot?#iefix) format('embedded-opentype'),
+         url(../fonts/GeorgiaBold.woff) format('woff'),
+         url(../fonts/GeorgiaBold.ttf) format('truetype'),
+         url(../fonts/GeorgiaBold.svg#Georgia) format('svg');
 }
 
 @font-face {
   font-family: 'AltGeorgiaItalic';
-    src: url(./fonts/GeorgiaItalic.eot);
-    src: url(./fonts/GeorgiaItalic.eot?#iefix) format('embedded-opentype'),
-         url(./fonts/GeorgiaItalic.woff) format('woff'),
-         url(./fonts/GeorgiaItalic.ttf) format('truetype'),
-         url(./fonts/GeorgiaItalic.svg#Georgia) format('svg');
+    src: url(../fonts/GeorgiaItalic.eot);
+    src: url(../fonts/GeorgiaItalic.eot?#iefix) format('embedded-opentype'),
+         url(../fonts/GeorgiaItalic.woff) format('woff'),
+         url(../fonts/GeorgiaItalic.ttf) format('truetype'),
+         url(../fonts/GeorgiaItalic.svg#Georgia) format('svg');
 }
 
 @font-face {
   font-family: 'AltGeorgiaBoldItalic';
-    src: url(./fonts/GeorgiaBoldItalic.eot);
-    src: url(./fonts/GeorgiaBoldItalic.eot?#iefix) format('embedded-opentype'),
-         url(./fonts/GeorgiaBoldItalic.woff) format('woff'),
-         url(./fonts/GeorgiaBoldItalic.ttf) format('truetype'),
-         url(./fonts/GeorgiaBoldItalic.svg#Georgia) format('svg');
+    src: url(../fonts/GeorgiaBoldItalic.eot);
+    src: url(../fonts/GeorgiaBoldItalic.eot?#iefix) format('embedded-opentype'),
+         url(../fonts/GeorgiaBoldItalic.woff) format('woff'),
+         url(../fonts/GeorgiaBoldItalic.ttf) format('truetype'),
+         url(../fonts/GeorgiaBoldItalic.svg#Georgia) format('svg');
 }
 
 * {
@@ -559,4 +559,3 @@ a.hide {
     font-style: unset;
     text-decoration: unset;
 }
-
