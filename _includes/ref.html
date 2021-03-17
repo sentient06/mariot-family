@@ -12,5 +12,11 @@
                             [acessado {{ include.date }}]
                         </span>
 {% endif %}
+{% if include.extra != nil %}
+                        <span>
+                            &nbsp;{{ include.extra }}
+                        </span>
+{% endif %}
+
                     </a>
                 </dd>
