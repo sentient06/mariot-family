@@ -1,40 +1,60 @@
     <nav class="topbar-nav">
         <ul class="metismenu" id="menu1">
             <li{% if page.url == "/" %} class="current"{% endif %}><a href="index.html">Home</a></li>
-            <li{% if page.url == "/01-introducao.html" %} class="current"{% endif %}><a href="01-introducao.html">Introdução</a></li>
-            <li{% if page.url == "/02-etimologia.html" or page.url == "/03-inglaterra" or page.url == "/04-franca.html" or page.url == "/05-motivos.html" or page.url == "/06-brasao.html" %} class="current"{% endif %}>
+            <li{% if page.url == "/introducao.html" %} class="current"{% endif %}><a href="introducao.html">Introdução</a></li>
+            <li{%
+            if page.url == "/etimologia.html" or
+               page.url == "/inglaterra" or
+               page.url == "/franca.html" or
+               page.url == "/motivos.html" or
+               page.url == "/brasao.html"
+            %} class="current"{% endif %}>
                 <a class="has-arrow" href="" aria-expanded="false">Sobrenome</a>
                 <ul>
-                    <li{% if page.url == "/02-etimologia.html" %} class="current"{% endif %}><a href="02-etimologia.html">Etimologia</a></li>
-                    <li{% if page.url == "/03-inglaterra.html" %} class="current"{% endif %}><a href="03-inglaterra.html">Mariot na Inglaterra</a></li>
-                    <li{% if page.url == "/04-franca.html" %} class="current"{% endif %}><a href="04-franca.html">Mariot na França</a></li>
-                    <li{% if page.url == "/05-motivos.html" %} class="current"{% endif %}><a href="05-motivos.html">Motivos para imigração</a></li>
-                    <li{% if page.url == "/06-brasao.html" %} class="current"{% endif %}><a href="06-brasao.html">Brasão da família</a></li>
+                    <li{% if page.url == "/etimologia.html" %} class="current"{% endif %}><a href="etimologia.html">Etimologia</a></li>
+                    <li{% if page.url == "/inglaterra.html" %} class="current"{% endif %}><a href="inglaterra.html">Mariot na Inglaterra</a></li>
+                    <li{% if page.url == "/franca.html" %} class="current"{% endif %}><a href="franca.html">Mariot na França</a></li>
+                    <li{% if page.url == "/motivos.html" %} class="current"{% endif %}><a href="motivos.html">Motivos para imigração</a></li>
+                    <li{% if page.url == "/brasao.html" %} class="current"{% endif %}><a href="brasao.html">Brasão da família</a></li>
                 </ul>
             </li>
-            <li{% if page.url == "/07-longarone.html" or page.url == "/08-viagens.html" %} class="current"{% endif %}>
-                <a class="has-arrow" href="" aria-expanded="false">Mariot da Itália</a>
+            <li{%
+            if page.url == "/longarone.html" or
+               page.url == "/0-pietro.html" or
+               page.url == "/viagens.html"
+            %} class="current"{% endif %}>
+                <a class="has-arrow" href="" aria-expanded="false">Os Mariot da Itália</a>
                 <ul>
-                    <li{% if page.url == "/07-longarone.html" %} class="current"{% endif %}><a href="07-longarone.html">Os Mariot de Longarone</a></li>
-                    <li{% if page.url == "/08-viagens.html" %} class="current"{% endif %}><a href="08-viagens.html">As viagens ao Brasil</a></li>
+                    <li{% if page.url == "/longarone.html" %} class="current"{% endif %}><a href="longarone.html">Os Mariot de Longarone</a></li>
+                    <li{% if page.url == "/0-pietro.html" %} class="current"{% endif %}><a href="0-pietro.html">Pietro Mariot</a></li>
+                    <li{% if page.url == "/viagens.html" %} class="current"{% endif %}><a href="viagens.html">As viagens ao Brasil</a></li>
                 </ul>
             </li>
-            <li{% if page.url == "/09-matteo.html" or page.url == "/10-pietro.html" or page.url == "/1-cesare.html" or page.url == "/11-giovanni.html" or page.url == "/12-giosue.html" or page.url == "/13-marco.html" or page.url == "/14-valentina.html" or page.url == "/15-teresa.html" or page.url == "/16-brigida.html" or page.url == "/17-margherita.html" %} class="current"{% endif %}>
-                <a class="has-arrow" href="" aria-expanded="false">Os imigrantes</a>
+            <li{%
+            if page.url == "/1-matteo.html" or
+               page.url == "/2-pietro.html" or
+               page.url == "/2-cesare.html" or
+               page.url == "/2-giovanni.html" or
+               page.url == "/2-giosue.html" or
+               page.url == "/2-marco.html" or
+               page.url == "/2-valentina.html" or
+               page.url == "/2-teresa.html" or
+               page.url == "/2-brigida.html" or
+               page.url == "/2-margherita.html"
+            %} class="current"{% endif %}>
+                <a class="has-arrow" href="" aria-expanded="false">Família de Matteo</a>
                 <ul>
-                    <li{% if page.url == "/09-matteo.html" %} class="current"{% endif %}><a href="09-matteo.html">Matteo Ignazio Mariot</a></li>
-                    <li>
-                        <hr />
-                    </li>
-                    <li{% if page.url == "/10-pietro.html" %} class="current"{% endif %}><a href="10-pietro.html">Pietro Mariot</a></li>
-                    <li{% if page.url == "/1-cesare.html" %} class="current"{% endif %}><a href="1-cesare.html">Cesare Mariot</a></li>
-                    <li{% if page.url == "/11-giovanni.html" %} class="current"{% endif %}><a href="11-giovanni.html">Giovanni Mariot</a></li>
-                    <li{% if page.url == "/12-giosue.html" %} class="current"{% endif %}><a href="12-giosue.html">Giosuè Mariot</a></li>
-                    <li{% if page.url == "/13-marco.html" %} class="current"{% endif %}><a href="13-marco.html">Marco Mariot</a></li>
-                    <li{% if page.url == "/14-valentina.html" %} class="current"{% endif %}><a href="14-valentina.html">Valentina Mariot</a></li>
-                    <li{% if page.url == "/15-teresa.html" %} class="current"{% endif %}><a href="15-teresa.html">Teresa Brigida Mariot</a></li>
-                    <li{% if page.url == "/16-brigida.html" %} class="current"{% endif %}><a href="16-brigida.html">Brigida Mariot</a></li>
-                    <li{% if page.url == "/17-margherita.html" %} class="current"{% endif %}><a href="17-margherita.html">Margherita Mariot</a></li>
+                    <li{% if page.url == "/1-matteo.html" %} class="current"{% endif %}><a href="1-matteo.html">Matteo Ignazio Mariot</a></li>
+                    <li><hr /></li>
+                    <li{% if page.url == "/2-pietro.html"     %} class="current"{% endif %}><a href="2-pietro.html">Pietro Mariot</a></li>
+                    <li{% if page.url == "/2-cesare.html"     %} class="current"{% endif %}><a href="2-cesare.html">Cesare Mariot</a></li>
+                    <li{% if page.url == "/2-giovanni.html"   %} class="current"{% endif %}><a href="2-giovanni.html">Giovanni Mariot</a></li>
+                    <li{% if page.url == "/2-giosue.html"     %} class="current"{% endif %}><a href="2-giosue.html">Giosuè Mariot</a></li>
+                    <li{% if page.url == "/2-marco.html"      %} class="current"{% endif %}><a href="2-marco.html">Marco Mariot</a></li>
+                    <li{% if page.url == "/2-valentina.html"  %} class="current"{% endif %}><a href="2-valentina.html">Valentina Mariot</a></li>
+                    <li{% if page.url == "/2-teresa.html"     %} class="current"{% endif %}><a href="2-teresa.html">Teresa Brigida Mariot</a></li>
+                    <li{% if page.url == "/2-brigida.html"    %} class="current"{% endif %}><a href="2-brigida.html">Brigida Mariot</a></li>
+                    <li{% if page.url == "/2-margherita.html" %} class="current"{% endif %}><a href="2-margherita.html">Margherita Mariot</a></li>
                     <!-- <li><a href="16-outros.html">Outros</a></li> -->
                 </ul>
             </li>

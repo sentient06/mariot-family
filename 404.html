@@ -1,12 +1,25 @@
 ---
 layout: default
-title: Mariot - Página não encontrada
+title: Mariot - 404
+js_files: redirect
 ---
         <div class="centre">
-            <p style="font-size: 3em; color: #333;">
-                Erro 404 - Página não encontrada.
-            </p>
+            <p style="font-size: 3em; color: #333;" id="warning"></p>
         </div>
-        <div class="centre limit">
+        <div class="centre limit" style="display: none;" id="image">
             <img src="assets/images/illustrations/TravoltaRome.gif" alt="???" />
+        </div>
+        <div style="display: none;" id="moved">
+            <div style="display: none;" id="multiple">
+                <p>
+                    Você será redirecionado. A não ser que você clique em um desses links. Rápido!
+                </p>
+                <ul id="anchors"></ul>
+            </div>
+            <div style="display: none;" id="single">
+                <p>
+                    Esta página mudou de endereço. Você será redirecionado agora.
+                </p>
+                <p id="anchor"></p>
+            </div>
         </div>
