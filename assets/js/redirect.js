@@ -82,6 +82,10 @@ const mapOfChanges = {
         path: '2-margherita.html',
         title: 'Margherita Mariot'
     },
+    '2-brigida.html': {
+        path: 'longarone.html',
+        title: 'Longarone'
+    }
 };
 
 const redirectTo = mapOfChanges[fileSought];
