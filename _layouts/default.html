@@ -6,14 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>{% if page.title == nil %}Mariot{% else %}{{ page.title }}{% endif %}</title>
     <link rel="stylesheet" type="text/css" href="assets/css/metismenujs.min.css" />
-    <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
-{% for item in page.css_files %}
-    <link rel="stylesheet" type="text/css" href="assets/css/{{ item }}.css" />
-{% endfor %}
-{% include icon.html %}
-{% if page.trigger_redirect != nil %}
-    <meta http-equiv="refresh" content="7; url='{{ page.trigger_redirect }}'" />
-{% endif %}
+    <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />{% for item in page.css_files %}
+    <link rel="stylesheet" type="text/css" href="assets/css/{{ item }}.css" />{% endfor %}
+{% include icon.html %}{% if page.trigger_redirect != nil %}
+    <meta http-equiv="refresh" content="7; url='{{ page.trigger_redirect }}'" />{% endif %}{% if page.no_follow != nil %}
+    <meta name="robots" content="noimageindex, nofollow, nosnippet">{% endif %}
 </head>
 <body>
 {% include nav.html %}
