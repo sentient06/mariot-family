@@ -3,57 +3,82 @@
     text-decoration-thickness: 2px;
 }
 
-strong.z0,
-strong.g0,
-strong.g1,
-strong.g2,
-strong.g3,
-strong.g4,
-strong.g5,
-strong.g6,
-strong.g7 {
-    font-weight: bold;
-    font-family: "AltGeorgia";
+strong {
+    &.z0,
+    &.g0,
+    &.g1,
+    &.g2,
+    &.g3,
+    &.g4,
+    &.g5,
+    &.g6,
+    &.g7 {
+        font-weight: bold;
+        font-family: "AltGeorgia";
+    }
 }
 
 .z0 {
     text-decoration-color: #ccc;
+    text-shadow: 0px 0px 0.5px rgba(204, 204, 204, 0.6);
 }
 
 .g0 {
     text-decoration-color: #666;
+    text-shadow: 0px 0px 0.5px rgba(102, 102, 102, 0.6);
 }
 
 .g1 {
-    /*text-decoration-color: #b30000;*/
     text-decoration-color: #e60000;
+    text-shadow: 0px 0px 0.5px rgba(230, 0, 0, 0.6);
 }
 
 .g2 {
-    /*text-decoration-color: #ff4500;*/
     text-decoration-color: #ff8c00;
+    text-shadow: 0px 0px 0.5px rgba(255, 140, 0, 0.6);
 }
 
 .g3 {
-    /*text-decoration-color: #daa520;*/
     text-decoration-color: #e6c200;
+    text-shadow: 0px 0px 0.5px rgba(230, 194, 0, 0.6);
 }
 
 .g4 {
     text-decoration-color: #008000;
+    text-shadow: 0px 0px 0.5px rgba(0, 128, 0, 0.6);
 }
 
 .g5 {
     text-decoration-color: #0000b3;
+    text-shadow: 0px 0px 0.5px rgba(255,0,0,0.6);
 }
 
 .g6 {
     text-decoration-color: #4b0082;
+    text-shadow: 0px 0px 0.5px rgba(0, 0, 179, 0.6);
 }
 
 .g7 {
     text-decoration-color: #c71585;
+    text-shadow: 0px 0px 0.5px rgba(199, 21, 133, 0.6);
 }
+
+
+p a strong,
+li a strong {
+    &.z0,
+    &.g0,
+    &.g1,
+    &.g2,
+    &.g3,
+    &.g4,
+    &.g5,
+    &.g6,
+    &.g7 {
+        color: #333;
+    }
+}
+
 
 ul.person {
     list-style: none;
