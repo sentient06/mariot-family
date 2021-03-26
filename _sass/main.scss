@@ -284,7 +284,7 @@ div.hypothesis,
 div.theory,
 div.fact,
 div.subtle {
-    display: inline-block;
+    display: block;
     /*margin-top: 20px;*/
     padding: 10px;
     margin: 0 -1em;
@@ -299,6 +299,14 @@ div.subtle {
     position: relative;
 
     clear: both;
+
+    &.float {
+        width: 100%;
+    }
+
+    & + p {
+        clear: both;
+    }
 }
 
 div.remember strong,
