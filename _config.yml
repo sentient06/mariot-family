@@ -7,7 +7,7 @@ scholar:
   # university-of-york-ieee
   # ieee-with-url
   # modern-humanities-research-association
-  locale: pt-br
+  locale: pt
   allow_locale_overrides: true
   # bibtex_filters: superscript
   # bibliography_template: <abbr>[{{key}}]</abbr>{{reference}}
