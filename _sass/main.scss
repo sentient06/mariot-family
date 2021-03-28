@@ -593,3 +593,15 @@ a.hide {
     font-style: unset;
     text-decoration: unset;
 }
+
+.travolta {
+    width: 800px;
+    height: 600px;
+    background: url("../images/illustrations/Ship.jpg");
+    position: relative;
+    img {
+        position: absolute;
+        bottom: 0;
+        left: 150px;
+    }
+}
