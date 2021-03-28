@@ -6,10 +6,11 @@ scholar:
   # university-of-york-ieee
   # ieee-with-url
   # modern-humanities-research-association
-  locale: "pt-br"
+  locale: pt-BR
   allow_locale_overrides: true
   # bibtex_filters: superscript
   # bibliography_template: <abbr>[{{key}}]</abbr>{{reference}}
+  # require 'csl/styles'
   bibliography_template: bib # Means we need a file called _layouts/bib.html
   bibtex_filters:
     - latex
