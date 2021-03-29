@@ -1,7 +1,6 @@
 ---
 layout: default
 css_files: generations
-js_files: refs
 title: Mariot - Pietro Mariot
 ---
         <h1>Pietro Mariot</h1>
@@ -15,7 +14,7 @@ title: Mariot - Pietro Mariot
                 <strong class="g0">Pietro Mariot</strong> é o ancestral mais antigo que temos notícias dos <strong>Mariot</strong> de Belluno que foram ao Brasil. <strong class="g0">Pietro</strong> casou-se com <strong class="g0">Teresa de Bona</strong>.
             </p>
             <p>
-                De <strong class="g0">Teresa</strong>, temos alguns dados, mas nada abrangente. Sabemos que ela era da <em lang="it">frazione</em> de Igne em Longarone e que nasceu no dia 15 de setembro de 1796. Seu pai era <strong class="z0">Marco de Bona</strong> e sua mãe se chamava <strong class="z0">Giovanna</strong>.<sup>1</sup>
+                De <strong class="g0">Teresa</strong>, temos alguns dados, mas nada abrangente. Sabemos que ela era da <em lang="it">frazione</em> de Igne em Longarone e que nasceu no dia 15 de setembro de 1796. Seu pai era <strong class="z0">Marco de Bona</strong> e sua mãe se chamava <strong class="z0">Giovanna</strong>.{% cite ruolo %}
             </p>
             <p>
                 A data de nascimento de <strong class="g0">Pietro</strong> é desconhecida, mas é possível estimar. Como <strong class="g0">Teresa de Bona</strong> nasceu em 1796, ela deve ter casado em meados de 1817, o ano anterior ao nascimento do filho mais velho, <strong class="g1">Matteo</strong>. Ela teria 21 anos. Como os homens tinham que prestar serviço militar até os 25, se <strong class="g0">Pietro</strong> casasse aos 25 ele teria nascido por volta de 1792. Portanto, entre 1789 e 1796 parece uma boa extrapolação. Sabemos pelo menos que foi antes dos registros napoleônicos.
@@ -27,10 +26,10 @@ title: Mariot - Pietro Mariot
                 Então <strong class="g0">Pietro</strong> viveu entre 33 e 82 anos no total. Embora isso não nos revele muito, sabemos que é bem plausível que ele tenha vivido uma vida normal e morrido velho.
             </p>
             <p>
-                <strong class="g4">Leda Mariot</strong> relata que <strong class="g0">Pietro Mariot</strong> era professor em uma faculdade.<sup>2</sup>
+                <strong class="g4">Leda Mariot</strong> relata que <strong class="g0">Pietro Mariot</strong> era professor em uma faculdade.{% cite leda --locator 1 %}
             </p>
             <p>
-                Segundo dona <strong class="g4">Leda</strong>, <strong class="g0">Pietro</strong> não apenas tinha dinheiro, mas um verdadeiro palácio, e que há fotografias do mesmo.<sup>2</sup>
+                Segundo dona <strong class="g4">Leda</strong>, <strong class="g0">Pietro</strong> não apenas tinha dinheiro, mas um verdadeiro palácio, e que há fotografias do mesmo.{% cite leda --locator 1 %}
             </p>
             <p>
                 O relato continua que <strong class="g0">Pietro</strong> fez um empréstimo para uma certa Margherita, também conhecida como "grande senhora", que embora fosse muito rica, viu-se em complicações financeiras. Mas a "grande senhora" perdeu tudo e <strong class="g0">Pietro</strong> foi à falência.
@@ -39,31 +38,12 @@ title: Mariot - Pietro Mariot
                 Dona <strong class="g4">Leda</strong> conta que <strong class="g0">Pietro</strong> morreu seis meses depois do desastre financeiro, e que se não tivesse ocorrido, talvez os seus descendentes não tivessem deixado a Itália.
             </p>
             <p>
-                Dona <strong class="g5">Irani Baldessar</strong> conta a mesma história, mas a versão dela é sobre <strong class="g1">Matteo</strong>, não <strong class="g0">Pietro</strong>.<sup>3</sup>
+                Dona <strong class="g5">Irani Baldessar</strong> conta a mesma história, mas a versão dela é sobre <strong class="g1">Matteo</strong>, não <strong class="g0">Pietro</strong>.{% cite irani-matteo %}
             </p>
         </section>
         <footer>
             <h2>
                 Referências
             </h2>
-            <dl class="references">
-{% include ref.html
-    url="downloads.html#1871_1"
-    lang="it"
-    title="Ruolo della Popolazione della Frazione de Pirago e Muda - Páginas 1 e 2"
-    stay=1
-%}
-{% include ref.html
-    url="downloads.html#1994"
-    title="Paulo Mariot, 'Carta de Leda Tereza Mariot Belloli (p. 1)' [Carta manuscrita]"
-    stay=1
-    extra="(Brasil, 1994)"
-%}
-{% include ref.html
-    url="downloads.html#2021_2"
-    title="Mateus Zuchinali Canani, 'Irani Baldessar fala sobre o trisavô Matteo' [Comunicação por arquivo de áudio]"
-    stay=1
-    extra="(Brasil, 2021)"
-%}
-            </dl>
+            {% bibliography --cited_in_order %}
         </footer>

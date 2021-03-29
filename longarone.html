@@ -1,7 +1,6 @@
 ---
 layout: default
 css_files: generations
-js_files: refs
 title: Mariot - Os Mariot de Longarone
 ---
         <h1>
@@ -52,7 +51,7 @@ title: Mariot - Os Mariot de Longarone
                 Uma rápida investigação nos registros napoleônicos revela que em 1806 já haviam <strong>Mariot</strong> em Longarone, e eles pareciam pertencer a mais de uma família. É também evidente que os <strong>Mariot</strong> da época não eram todos lavradores.
             </p>
             <p>
-                Entre 1806 e 1811, por exemplo, encontrei 10 pessoas com o sobrenome <strong>Mariot</strong>.<sup>1</sup>
+                Entre 1806 e 1811, por exemplo, encontrei 10 pessoas com o sobrenome <strong>Mariot</strong>.{% cite antenati %}
             </p>
             <p>
                 Por exemplo, em 3 de julho de 1806, um relojoeiro chamado Marco Mariot de Pirago foi testemunha de dois casamentos, um entre Valentino Mazucco e Anna Maria de Marco e outro entre Angelo Milton Sachet e Catterina Mazucco.
@@ -76,7 +75,7 @@ title: Mariot - Os Mariot de Longarone
             </h2>
             <!-- https://www.familysearch.org/wiki/en/Italy_Census -->
             <p>
-                Em relação aos <strong>Mariot</strong> que foram ao Brasil, o registro mais antigo que se tem notícia está no <em>Ruolo della Popolazione della Frazione de Pirago e Muda</em>.<sup>2</sup> Provavelmente esse documento faz parte do censo de 1871.
+                Em relação aos <strong>Mariot</strong> que foram ao Brasil, o registro mais antigo que se tem notícia está no <em>Ruolo della Popolazione della Frazione de Pirago e Muda</em>.{% cite ruolo %} Provavelmente esse documento faz parte do censo de 1871.
             </p>
             <p>
                 Nesse documento se encontra o registro de uma família <strong>Mariot</strong> (talvez houvessem outras na região). O membro mais velho da família, segundo o registro, é <strong class="g0">Teresa de Bona</strong>, filha de <strong class="z0">Marco de Bona</strong> e <strong class="z0">Giovanna</strong> (nome de solteira desconhecido), nascida no dia 15 de setembro de 1796, um ano antes da dominação napoleônica da Itália. Teresa casou-se com <strong class="g0">Pietro Mariot</strong>, de idade desconhecida, e foi mãe de <strong class="g1">Matteo Ignazio Mariot</strong>, nascido em Longarone no dia 30 de janeiro de 1818. <strong class="g1">Matteo</strong> foi o patriarca dos <strong>Mariot</strong> do Brasil.
@@ -158,7 +157,7 @@ title: Mariot - Os Mariot de Longarone
                 </small>
             </div>
             <p>
-                Dos <strong>Mariot</strong> da família de <strong class="g1">Matteo</strong>, os únicos que não aparecem em nenhum outro documento (até o momento) são <strong class="g2">Cesare</strong> e <strong class="g2">Brigida</strong>. <strong class="g2">Cesare</strong> teria morrido na construção de uma estrada de ferro; boatos dizem que foi a Transiberiana, mas isto é improvável. <strong class="g2">Brigida</strong> morreu em 15 de maio de 1861, aos 2 anos de idade.<sup>2</sup>
+                Dos <strong>Mariot</strong> da família de <strong class="g1">Matteo</strong>, os únicos que não aparecem em nenhum outro documento (até o momento) são <strong class="g2">Cesare</strong> e <strong class="g2">Brigida</strong>. <strong class="g2">Cesare</strong> teria morrido na construção de uma estrada de ferro; boatos dizem que foi a Transiberiana, mas isto é improvável. <strong class="g2">Brigida</strong> morreu em 15 de maio de 1861, aos 2 anos de idade.{% cite ruolo %}
             </p>
             <div class="subtle">
                 <h4 class="title">
@@ -173,18 +172,5 @@ title: Mariot - Os Mariot de Longarone
             <h2>
                 Referências
             </h2>
-            <dl class="references">
-{% include ref.html
-    url="http://dl.antenati.san.beniculturali.it/v/Archivio+di+Stato+di+Belluno/Stato+civile+napoleonico/Longarone/"
-    title="'Archivio di Stato di Belluno, Stato civile napoleonico, Longarone', Direzione Generale degli Archivi del Ministero dei beni e delle attività culturali"
-    lang="it"
-    date="17 março 2021"
-%}
-{% include ref.html
-    url="downloads.html#1871_1"
-    lang="it"
-    title="Ruolo della Popolazione della Frazione de Pirago e Muda - Páginas 1 e 2"
-    stay=1
-%}
-            </dl>
+            {% bibliography --cited_in_order %}
         </footer>
