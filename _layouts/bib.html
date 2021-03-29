@@ -2,34 +2,28 @@
 ---
 {%
 if site.scholar.style == "ieee-with-url"
-                                                %}{%
-    comment
+%}{%
+comment
 %} The <span> is repaired by splitting on both the [ and the ] sign. {%
-    endcomment
-
+endcomment
 %}{%
-    assign ref = reference | split: "]"
-                                                %}{%
-    assign pre_num = ref[0] | split:"["
-                                                %}{%
-    for item in pre_num limit:1                 %}
-                <span class="idx">{{pre_num[1]}}</span>
-                {{item}}
-                {%
-    endfor                                      %}{%
-    for item in ref offset:1                    %}{%
-        if forloop.first == false
-            %}]{%
-        endif                                   %}
-                {{item}}
-                {%
-    endfor
+assign ref = reference | split: "]"
 %}{%
-
-else
-
-%}{{reference}}{%
-
+assign pre_num = ref[0] | split:"["
+%}{%
+for item in pre_num limit:1
+%}<span class="idx">{{pre_num[1]}}</span>{{item}}{%
+endfor
+%}{%
+for item in ref offset:1
+%}{%
+if forloop.first == false
+%}]{%
 endif
-
+%}{{item}}{%
+endfor
+%}{%
+else
+%}{{reference}}{%
+endif
 %}
