@@ -1,7 +1,6 @@
 ---
 layout: default
 css_files: generations
-js_files: refs
 title: Mariot - Margherita Mariot
 ---
         <h1>
@@ -24,13 +23,13 @@ title: Mariot - Margherita Mariot
         </div>
         <section>
             <p>
-                <strong class="g2">Margherita Mariot</strong> foi a filha mais nova de <strong class="g1">Matteo</strong> e <strong class="g1">Anna</strong> e casou-se com <strong class="g2">Luigi Baldessar</strong>. Mais informações a serem publicadas em breve.
+                <strong class="g2">Margherita Mariot</strong> foi a filha mais nova de <strong class="g1">Matteo</strong> e <strong class="g1">Anna</strong> e casou-se com <strong class="g2">Luigi Baldessar</strong>.
             </p>
             <p>
-                Dona <strong class="g4">Leda Mariot</strong> (neta de <strong class="g2">Pietro</strong>) relata que <strong class="g2">Margherita</strong> morreu no parto da primeira filha em 1889, fato também relatado independentemente por seu sobrinho-bisneto segundo, Mateus Canani. Isso significa que ela esteve no Brasil por pouco menos de 7 anos e morreu com apenas 21 anos de idade.
+                Dona <strong class="g4">Leda Mariot</strong> (neta de <strong class="g2">Pietro</strong>) relata que <strong class="g2">Margherita</strong> morreu no parto da primeira filha em 1889,{% cite leda --locator 15 %} fato também relatado independentemente por seu sobrinho-bisneto segundo, Mateus Canani. Isso significa que ela esteve no Brasil por pouco menos de 7 anos e morreu com apenas 21 anos de idade.
             </p>
             <p>
-                O marido de <strong class="g2">Margherita</strong>, <strong class="g2">Luigi</strong>, casou-se novamente após a morte da esposa e entre os filhos do segundo casamento teve <strong class="g3">Antonio Baldessar</strong> que casou-se com uma filha de <strong class="g2">Pietro Mariot</strong> também chamada <strong class="g3">Margherita</strong>. Este casal, por sua vez, são os pais de Mons. <strong class="g4">Quinto Davide Baldessar</strong>, autor do livro "Imigrantes", que discorre sobre os <strong>Mariot</strong>.
+                O marido de <strong class="g2">Margherita</strong>, <strong class="g2">Luigi</strong>, casou-se novamente após a morte da esposa e entre os filhos do segundo casamento teve <strong class="g3">Antonio Baldessar</strong> que casou-se com uma filha de <strong class="g2">Pietro Mariot</strong> também chamada <strong class="g3">Margherita</strong>. Este casal, por sua vez, são os pais de Mons. <strong class="g4">Quinto Davide Baldessar</strong>, autor do livro "Imigrantes", que discorre sobre os <strong>Mariot</strong> em detalhes na sua obra.
             </p>
             <p>
                 A filha de <strong class="g2">Margherita</strong> nasceu em 20/02/1889 foi chamada de <strong class="g3">Anna Teresa Baldessar</strong>, porém, nos registros civis ela está com o nome da mãe. Ela tinha dois nomes diferentes, o que faz pesquisas peculiarmente complicadas. O fato d'ela ter uma prima com o mesmo nome também não ajuda. <strong class="g3">Anna Teresa/Margherita</strong> casou-se com Pedro Amboni.
@@ -49,11 +48,5 @@ title: Mariot - Margherita Mariot
                 Referências
             </h2>
             <dl class="references">
-{% include ref.html
-    url="downloads.html#1994"
-    title="Paulo Mariot, 'Carta de Leda Tereza Mariot Belloli (p. 15)' [Carta manuscrita]"
-    stay=1
-    extra="(Brasil, 1994)"
-%}
-            </dl>
+            {% bibliography --cited_in_order %}
         </footer>

@@ -1,7 +1,6 @@
 ---
 layout: default
 css_files: generations
-js_files: refs
 title: Mariot - Marco Mariot
 ---
         <h1>
@@ -23,14 +22,14 @@ title: Mariot - Marco Mariot
             </ul>
         </div>
         <section>
-            <blockquote class="pt" lang="pt" title="Que coisa entendeis por uma nação, senhor ministro? É a massa dos infelizes? Plantamos e ceifamos o trigo, mas nunca provamos do pão branco. Cultivamos a videira, mas não bebemos o vinho. Criamos os animais, mas não comemos a carne. Apesar disso, vós nos aconselhais a não abandonar a nossa pátria. Mas é uma pátria a terra onde não se consegue viver do próprio trabalho?">
+            <blockquote class="pt" lang="pt">
                 Todo o viandante que vai de Urussanga para Rio Caeté, depois de andar uns três quilômetros chega ao Rio Salto. À direita, em meia encosta vê uma casa com paredes de pedra trabalhada. Hoje está quase abandonada, mas continua ali. Pois esta foi a casa de Marco Mariot.
                 <small>
-                    Baldessar, Quinto D., 'Imigrantes: Sua História, Costumes e Tradições', Criciúma 1991, p. 61
+                    {% reference baldessar %}, p. 61
                 </small>
             </blockquote>
             <p>
-                <strong class="g2">Marco Mariot</strong> era o sexto filho de <strong class="g1">Matteo</strong> e <strong class="g1">Anna</strong> e o quinto e mais jovem homem da família. Ele nasceu em 3 de março de 1861 em Longarone.<sup>1</sup>
+                <strong class="g2">Marco Mariot</strong> era o sexto filho de <strong class="g1">Matteo</strong> e <strong class="g1">Anna</strong> e o quinto e mais jovem homem da família. Ele nasceu em 3 de março de 1861 em Longarone.{% cite ruolo %}
             </p>
             <h2>
                 Qual Marco?
@@ -68,7 +67,7 @@ title: Mariot - Marco Mariot
             </p>
             <p>
                 Segundo <strong class="g4">Leda Mariot</strong>, neta de <strong class="g2">Pietro</strong>, <strong class="g2">Marco</strong> e <strong class="g2">Antonia</strong> tiveram 12 filhos: 5 homens e 7 mulheres. 
-                Uma das filhas teria morrido queimada em um acidente com o fogão, que era improvisado no chão da casa.<sup>2</sup> Dos demais sabe-se dos seguintes:
+                Uma das filhas teria morrido queimada em um acidente com o fogão, que era improvisado no chão da casa.{% cite leda --locator 10 %} Dos demais sabe-se dos seguintes:
             </p>
             <ol>
                 <li>
@@ -111,7 +110,7 @@ title: Mariot - Marco Mariot
                 </li>
             </ol>
             <p>
-                <strong class="g4">Leda</strong> relata que <strong class="g2">Marco</strong> morreu meses depois de ter uma perna deslocada.<sup>2</sup> Não é claro se o problema na perna foi a causa da morte. No registro de óbito não diz o motivo.
+                <strong class="g4">Leda</strong> relata que <strong class="g2">Marco</strong> morreu meses depois de ter uma perna deslocada.{% cite leda --locator 10 %} Não é claro se o problema na perna foi a causa da morte. No registro de óbito não diz o motivo.
             </p>
             <p>
                 <strong class="g3">Luigi</strong> e <strong class="g3">Enrica</strong> não aparecem no registro de óbito de <strong class="g2">Marco</strong>.
@@ -127,18 +126,5 @@ title: Mariot - Marco Mariot
             <h2>
                 Referências
             </h2>
-            <dl class="references">
-{% include ref.html
-    url="downloads.html#1871_1"
-    lang="it"
-    title="Ruolo della Popolazione della Frazione de Pirago e Muda - Páginas 1 e 2"
-    stay=1
-%}
-{% include ref.html
-    url="downloads.html#1994"
-    title="Paulo Mariot, 'Carta de Leda Tereza Mariot Belloli (p. 10)' [Carta manuscrita]"
-    stay=1
-    extra="(Brasil, 1994)"
-%}
-            </dl>
+            {% bibliography --cited_in_order %}
         </footer>
