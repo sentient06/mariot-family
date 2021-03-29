@@ -88,8 +88,18 @@ const mapOfChanges = {
     },
     'viagens.html': {
         path: 'italia.html',
-        title: 'Itália'        
-    }
+        title: 'Mariot na Itália'
+    },
+    'motivos.html': [
+        {
+            path: 'franca.html',
+            title: 'Mariot na França'
+        },
+        {
+            path: 'italia.html',
+            title: 'Mariot na Itália'
+        },
+    ]
 };
 
 const redirectTo = mapOfChanges[fileSought];
