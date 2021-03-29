@@ -1,6 +1,6 @@
     <nav class="topbar-nav">
         <ul class="metismenu" id="menu1">
-            <li{% if page.url == "/" %} class="current"{% endif %}><a href="index.html">Home</a></li>
+            <li{% if page.url == "/" %} class="current"{% endif %}><a href="index.html">Mariot</a></li>
             <li{% if page.url == "/introducao.html" %} class="current"{% endif %}><a href="introducao.html">Introdução</a></li>
             <li{%
             if page.url == "/etimologia.html" or
@@ -14,20 +14,20 @@
                     <li{% if page.url == "/etimologia.html" %} class="current"{% endif %}><a href="etimologia.html">Etimologia</a></li>
                     <li{% if page.url == "/inglaterra.html" %} class="current"{% endif %}><a href="inglaterra.html">Mariot na Inglaterra</a></li>
                     <li{% if page.url == "/franca.html" %} class="current"{% endif %}><a href="franca.html">Mariot na França</a></li>
-                    <li{% if page.url == "/motivos.html" %} class="current"{% endif %}><a href="motivos.html">Motivos para imigração</a></li>
                     <li{% if page.url == "/brasao.html" %} class="current"{% endif %}><a href="brasao.html">Brasão da família</a></li>
+                    <li{% if page.url == "/motivos.html" %} class="current"{% endif %}><a href="motivos.html">Imigração da França</a></li>
                 </ul>
             </li>
             <li{%
-            if page.url == "/longarone.html" or
-               page.url == "/0-pietro.html" or
-               page.url == "/viagens.html"
+            if page.url == "/italia.html" or
+               page.url == "/longarone.html" or
+               page.url == "/0-pietro.html"
             %} class="current"{% endif %}>
-                <a class="has-arrow" href="" aria-expanded="false">Os Mariot da Itália</a>
+                <a class="has-arrow" href="" aria-expanded="false">Na Itália</a>
                 <ul>
+                    <li{% if page.url == "/italia.html" %} class="current"{% endif %}><a href="italia.html">Imigração da Itália</a></li>
                     <li{% if page.url == "/longarone.html" %} class="current"{% endif %}><a href="longarone.html">Os Mariot de Longarone</a></li>
                     <li{% if page.url == "/0-pietro.html" %} class="current"{% endif %}><a href="0-pietro.html">Pietro Mariot</a></li>
-                    <li{% if page.url == "/viagens.html" %} class="current"{% endif %}><a href="viagens.html">As viagens ao Brasil</a></li>
                 </ul>
             </li>
             <li{%

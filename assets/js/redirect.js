@@ -85,6 +85,10 @@ const mapOfChanges = {
     '2-brigida.html': {
         path: 'longarone.html',
         title: 'Longarone'
+    },
+    'viagens.html': {
+        path: 'italia.html',
+        title: 'Itália'        
     }
 };
 
