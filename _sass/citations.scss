@@ -3,31 +3,33 @@ a.citation {
     vertical-align: super;
     text-decoration: none;
     text-transform: lowercase;
+    // color: orange;
     &:hover {
         color: #a71136;
     }
 }
 
 ol.bibliography {
+    display: block;
+    float: left;
     list-style: none;
-    // background: red;
     padding: 0;
     li {
         display: block;
         float: left;
         clear: both;
-        // background: orange;
         position: relative;
         span.idx {
             display: block;
             float: left;
-            // background: yellow;
             position: absolute;
             top: 0;
             left: 0;
             text-align: right;
             width: 22px;
             color: #e81c4f;
+            font-size: 0.8em;
+            font-weight: bold;
 
             &:after {
                 content: ".";
@@ -38,8 +40,6 @@ ol.bibliography {
             padding: 0 0 0 26px;
             float: left;
             clear: both;
-            // background: cyan;
-            // color: white;
             a {
                 color: #16a5d5;
                 &:hover {
