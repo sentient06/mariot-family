@@ -3,7 +3,6 @@ a.citation {
     vertical-align: super;
     text-decoration: none;
     text-transform: lowercase;
-    // color: orange;
     &:hover {
         color: #a71136;
     }
@@ -40,8 +39,10 @@ ol.bibliography {
             padding: 0 0 0 26px;
             float: left;
             clear: both;
+            font-size: 0.9em;
             a {
-                color: #16a5d5;
+                color: #1181a7;
+                // color: #16a5d5;
                 &:hover {
                     color: #e81c4f;
                 }
