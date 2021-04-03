@@ -1,0 +1,127 @@
+name: Documentos italianos
+files:
+  - year: 1857
+    anchor: "1857"
+    title: Atestado de nascimento de Giosuè Mariot
+    type: Imagem (scan)
+    source: <em lang=\"it\">Comune de Longarone</em>
+    file: 1857-Giosue-Nascita.pdf
+    image: 1857-Giosue-Nas-Min.png
+    people:
+      - name: Giosuè
+        main: true
+        ancestors:
+          - Matteo Ignazio
+          - Pietro Mariot
+
+  - year: 1871
+    anchor: "1871_1"
+    title: <em lang=\"it\">Ruolo della Popolazione della Frazione de Pirago e Muda</em> - Página 1
+    type: Imagem (fotografia)
+    source: <em lang=\"it\">Comune de Longarone</em>
+    file: 1871-Ruolo-P-1.jpg
+    image: 1871-Ruolo-P-1-Min.jpg
+
+  - year: 1871
+    anchor: "1871_2"
+    title: <em lang=\"it\">Ruolo della Popolazione della Frazione de Pirago e Muda</em> - Página 2
+    type: Imagem (fotografia)
+    source: <em lang=\"it\">Comune de Longarone</em>
+    file: 1871-Ruolo-P-2.jpg
+    image: 1871-Ruolo-P-2-Min.jpg
+
+  - year: 1871
+    anchor: "1871_3"
+    title: <em lang=\"it\">Ruolo della Popolazione della Frazione de Pirago e Muda</em> - Páginas 1 e 2
+    type: Imagem (fotografia)
+    source: <em lang=\"it\">Comune de Longarone</em>
+    file: 1871-Ruolo-P-1-2.jpg
+    image: 1871-Ruolo-P-1-2-Min.jpg
+    people:
+      - name: Pietro Mariot
+        main: false
+      - name: Teresa
+        main: false
+        ancestors:
+          - Marco de Bona
+      - name: Matteo Ignazio
+        main: true
+        ancestors:
+          - Pietro Mariot
+      - name: Anna
+        main: true
+        ancestors:
+          - Agostino
+          - Giacinto Fontanella
+      - name: Pietro
+        main: true
+        ancestors:
+          - Matteo Ignazio
+          - Pietro Mariot
+      - name: Cesare
+        main: true
+        ancestors:
+          - Matteo Ignazio
+          - Pietro Mariot
+      - name: Giovanni
+        main: true
+        ancestors:
+          - Matteo Ignazio
+          - Pietro Mariot
+      - name: Giosuè
+        main: true
+        ancestors:
+          - Matteo Ignazio
+          - Pietro Mariot
+      - name: Brigida
+        main: true
+        ancestors:
+          - Matteo Ignazio
+          - Pietro Mariot
+      - name: Marco
+        main: true
+        ancestors:
+          - Matteo Ignazio
+          - Pietro Mariot
+      - name: Valentina
+        main: true
+        ancestors:
+          - Matteo Ignazio
+          - Pietro Mariot
+      - name: Teresa
+        main: true
+        ancestors:
+          - Matteo Ignazio
+          - Pietro Mariot
+      - name: Margherita
+        main: true
+        ancestors:
+          - Matteo Ignazio
+          - Pietro Mariot
+      - name: Margherita
+        main: true
+        ancestors:
+          - Pietro Mariot
+      - name: Ignazio Angelo
+        main: true
+        ancestors:
+          - Pietro Mariot
+      - name: Maria Bratti
+        main: true
+      - name: Michele Primo
+        main: true
+        ancestors:
+          - Ignazio Angelo
+          - Pietro Mariot
+      - name: Pietro
+        main: true
+        ancestors:
+          - Ignazio Angelo
+          - Pietro Mariot
+      - name: Veneranda
+        main: true
+        ancestors:
+          - Ignazio Angelo
+          - Pietro Mariot
+
+
