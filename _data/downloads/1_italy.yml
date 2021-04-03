@@ -1,18 +1,42 @@
 name: Documentos italianos
 files:
+  - year: 1818
+    anchor: "1818"
+    title: Atestado de nascimento de Matteo Ignazio Mariot
+    type: PDF (scan)
+    source: <em lang=\"it\">Comune de Longarone</em>, 2021
+    file: docs/1818-Matteo-Nascita.pdf
+    image: 1818-Matteo-Nascita.jpg
+    people:
+      - name: Matteo Ignazio
+        main: true
+        ancestors:
+          - Pietro Mariot
+      - name: Pietro Mariot
+      - name: Teresa
+        ancestors:
+          - Marco de Bona
+
   - year: 1857
     anchor: "1857"
     title: Atestado de nascimento de Giosuè Mariot
-    type: Imagem (scan)
-    source: <em lang=\"it\">Comune de Longarone</em>
+    type: PDF (scan)
+    source: <em lang=\"it\">Comune de Longarone</em>, 2012
     file: docs/1857-Giosue-Nascita.pdf
-    image: 1857-Giosue-Nas-Min.png
+    image: 1857-Giosue-Nascita.jpg
     people:
       - name: Giosuè
         main: true
         ancestors:
           - Matteo Ignazio
           - Pietro Mariot
+      - name: Matteo Ignazio
+        ancestors:
+          - Pietro Mariot
+      - name: Anna
+        ancestors:
+          - Agostino
+          - Giacinto Fontanella
 
   - year: 1871
     anchor: "1871_1"

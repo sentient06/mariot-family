@@ -80,30 +80,40 @@ title: Mariot - Downloads
                         </td>
                         <td>
                             <a name="{{ file.anchor }}"></a>
-                            <ul>
-                                <li>
+                            <dl>
+                                <dt>Título:</dt>
+                                <dd>
                                     {{ file.title }}
-                                </li>
-                                <li>
+                                </dd>
+                                <dt>
+                                    Tipo:
+                                </dt>
+                                <dd>
                                     {{ file.type }}
-                                </li>
-                                <li>
+                                </dd>{% if file.author %}
+                                <dt>Autor:</dt>
+                                <dd>
+                                    {{ file.author }}
+                                </dd>{% endif %}{% if file.source %}
+                                <dt>
+                                    Fonte:
+                                </dt>
+                                <dd>
                                     {{ file.source }}{% if file.external_name %} - {{ file.external_name }}{% endif %}{% if file.external_url %} <a href="{{ file.external_url }}" target="_blank">url</a>{% endif %}</li>
-                                <li>
-                                    <ul>
+                                </dd>{% endif %}
+                            </dl>{% if file.people %}
+                            <div class="people">
 {% for person in file.people %}
-                                        <li>
-                                            <ul class="person{% if person.main %} main{% endif %}">
-                                                <li>{{ person.name }}</li>
+                                <div class="person-row">
+                                    <ul class="person{% if person.main %} main{% endif %}">
+                                        <li>{{ person.name }}</li>
 {% for ancestor in person.ancestors %}
-                                                <li>{{ ancestor }}</li>
-{% endfor %}
-                                            </ul>
-                                        </li>
+                                        <li>{{ ancestor }}</li>
 {% endfor %}
                                     </ul>
-                                </li>
-                            </ul>{% if file.player %}
+                                </div>
+{% endfor %}
+                            </div>{% endif %}{% if file.player %}
                             <div class="extra">
                                 <audio controls>
                                     <source src="downloads/{{ file.file }}" type="audio/mpeg">

@@ -1,10 +1,13 @@
+// $border-colour: red;
+$border-colour: #efefef;
+
 table.downloads {
     font-size: 0.8em;
 }
 
 col.year {
     width: 60px;
-    border-right: 1px solid #efefef;
+    border-right: 1px solid $border-colour;
 }
 
 col.description {
@@ -43,59 +46,53 @@ table.downloads tbody tr td:nth-of-type(1) {
 /* Description */
 table.downloads tbody tr td:nth-of-type(2) {
     padding: 10px 5px;
-}
+    dl {
+        margin: 0;
+        padding: 5px 0;
+        dt {
+            width: 90px;
+            text-align: right;
+            font-weight: bold;
+            float: left;
+            padding-right: 4px;
+        }
+        dd {
+        }
+    }
 
-table.downloads tbody tr td:nth-of-type(2) > ul {
-    list-style: none;
-    margin: 0;
-    padding: 0 0 0 10px;
-}
+    .people, .extra {
+        float: left;
+        width: 100%;
+        border-top: 1px solid $border-colour;
+        padding: 10px 10px 0 10px;
+    }
 
-table.downloads tbody tr td:nth-of-type(2) > ul > li:before {
-    display: inline-block;
-    /*background: #eee;*/
-    min-width: 90px;
-    text-align: right;
-    font-weight: bold;
+    .people {
+        // background: red;
+        padding-bottom: 8px;
+        .person-row {
+            // background: orange;
+            float: left;
+            clear: both;
+        }
+        .person {
+            float: left;
+        }
+    }
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+
 }
 
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
-table.downloads tbody tr td:nth-of-type(2) > ul > li:nth-of-type(1):before {
-    content: "Título:";
-}
-
-table.downloads tbody tr td:nth-of-type(2) > ul > li:nth-of-type(2):before {
-    content: "Tipo:";
-}
-
-table.downloads tbody tr td:nth-of-type(2) > ul > li:nth-of-type(3):before {
-    content: "Origem:";
-}
-
-/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
-
-table.downloads.docs tbody tr td:nth-of-type(2) > ul > li:nth-of-type(3):before {
-    content: "Autor:";
-}
-
-/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
-
-table.downloads.audio tbody tr td:nth-of-type(2) > ul > li:nth-of-type(2):before {
-    content: "Descrição:";
-}
-
-/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
-
-table.downloads tbody tr td:nth-of-type(2) > ul > li > ul {
+table.downloads tbody tr td:nth-of-type(2) > div.ul > li > ul {
     list-style: none;
     padding: 10px 0 0 10px;
 }
 
-table.downloads tbody tr td:nth-of-type(2) > .extra {
-    border-top: 1px solid #efefef;
-    padding: 10px 10px 0 10px;
-}
+
 
 /* Download */
 table.downloads tbody tr td:last-of-type {

@@ -3,44 +3,51 @@ tag: audio
 files:
   - year: 1994
     anchor: "1994"
-    title: Carta de Leda Tereza Mariot Belloli
+    title: Manuscrito de Leda Tereza Mariot Belloli
     type: PDF (scan)
-    source: Manuscrito em posse de Paulo Mariot
-    file: misc/1994-Carta-Leda.pdf
-    image: 1994-Carta-Leda.jpg
+    author: Leda Tereza Mariot Belloli
+    source: Propriedade de Paulo Mariot
+    file: misc/1994-Manuscrito-Leda.pdf
+    image: 1994-Manuscrito-Leda.jpg
+  
   - year: 2021
     anchor: "2021_1"
     title: Irani Baldessar fala sobre a bisavó Teresa
     type: Documento de áudio (MP3)
+    author: Irani Baldessar
     source: Comunicação por arquivo de áudio, Mateus Zuchinalli Canani
     player: true
     file: audio/Irani_1_Teresa.mp3
-    people_:
+    people:
       - name: Teresa Brigida
         main: true
         ancestors:
           - Matteo Ignazio
           - Pietro Mariot
+  
   - year: 2021
     anchor: "2021_2"
     title: Irani Baldessar fala sobre o trisavô Matteo.
     type: Documento de áudio (MP3)
+    author: Irani Baldessar
     source: Comunicação por arquivo de áudio, Mateus Zuchinalli Canani
     player: true
     file: audio/Irani_2_Matteo.mp3
-    people_:
+    people:
       - name: Matteo Ignazio
         main: true
         ancestors:
           - Pietro Mariot
+  
   - year: 2021
     anchor: "2021_3"
     title: Irani Baldessar fala sobre a tia bisavó Valentina.
     type: Documento de áudio (MP3)
+    author: Irani Baldessar
     source: Comunicação por arquivo de áudio, Mateus Zuchinalli Canani
     player: true
     file: audio/Irani_3_Valentina.mp3
-    people_:
+    people:
       - name: Valentina
         main: true
         ancestors:
