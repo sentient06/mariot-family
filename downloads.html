@@ -52,9 +52,9 @@ title: Mariot - Downloads
                 <li>Etc.</li>
             </ul>
         </section>
-
-{% for all_downloads in site.data.downloads %}{%
-     assign section = all_downloads[1] %}
+{% assign downloads = site.data.downloads | sort %}
+{% for section_downloads in downloads %}{%
+     assign section = section_downloads[1] %}
         <section>
             <h2>
                 {{ section.name }}

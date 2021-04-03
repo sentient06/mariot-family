@@ -7,7 +7,7 @@ files:
     source: Registro civil de Urussanga; Matrimônios 1889, Jan-1891
     external_name: FamilySearch
     external_url: https://familysearch.org/ark:/61903/1:1:V2KQ-L8Y
-    file: 1889-Teresa-Giosue-Casamento.jpg
+    file: docs/1889-Teresa-Giosue-Casamento.jpg
     image: 1889-Teresa-Giosue-Casamento-Min.jpg
     people:
       - name: Giosuè
@@ -28,6 +28,7 @@ files:
           - Giacinto Fontanella
       - name: Giovanni Rosso
       - name: Caterina Martin
+  
   - year: 1891
     anchor: "1891"
     title: Registro de nascimento de Libera Mariot
@@ -35,7 +36,7 @@ files:
     source: Registro Civil de Urussanga, livro A-1, folha 172-v, nº 346.
     external_name: FamilySearch
     external_url: https://familysearch.org/ark:/61903/3:1:S3HT-6PT3-7JZ?i=306&cc=2016197&cat=477668
-    file: 1891-Libera-Nascimento.jpg
+    file: docs/1891-Libera-Nascimento.jpg
     image: 1891-Libera-Nascimento-Min.jpg
     people:
       - name: Libera
@@ -51,6 +52,7 @@ files:
       - name: Teresa
         ancestors:
           - Giovanni Rosso
+  
   - year: 1893
     anchor: "1893"
     title: Registro paroquial de casamento de Giosuè e Giovanna Cordella
@@ -58,7 +60,7 @@ files:
     source: Diocese de Tubarão, 'Matrimônios 1889, Jan-1891'
     external_name: FamilySearch
     external_url: https://familysearch.org/ark:/61903/3:1:S3HY-6RSG-MD
-    file: 1893-Giovanna-Giosue-Casamento-Religioso.jpg
+    file: docs/1893-Giovanna-Giosue-Casamento-Religioso.jpg
     image: 1893-Giovanna-Giosue-Casamento-Religioso-Min.jpg
     people:
       - name: Giosuè
@@ -84,6 +86,7 @@ files:
       - name: Rosa
         ancestors:
           - Bartolomeo Pradel
+  
   - year: 1894
     anchor: "1894_1"
     title: Registro civil de nascimento dos filhos de Pietro
@@ -91,7 +94,7 @@ files:
     source: Registro Civil de Urussanga
     # external_name: FamilySearch
     # external_url: https://familysearch.org/ark:/61903/3:1:S3HY-6RSG-MD
-    file: 1894-Pietro-Filhos.jpg
+    file: docs/1894-Pietro-Filhos.pdf
     image: 1894-Pietro-Filhos-Min.jpg
     people:
       - name: Pietro
@@ -143,6 +146,7 @@ files:
           - Pietro
           - Matteo Ignazio
           - Pietro Mariot
+  
   - year: 1894
     anchor: "1894_2"
     title: Certidão de casamento de Giosuè e Giovanna Cordella
@@ -150,7 +154,7 @@ files:
     source: Registro Civil de Urussanga
     # external_name: FamilySearch
     # external_url: https://familysearch.org/ark:/61903/3:1:S3HY-6RSG-MD
-    file: 1894-Giovanna-Giosue-Casamento-Civil.jpg
+    file: docs/1894-Giovanna-Giosue-Casamento-Civil.jpg
     image: 1894-Giovanna-Giosue-Casamento-Civil-Min.jpg
     people:
       - name: Giosuè
@@ -170,6 +174,7 @@ files:
         ancestors:
           - Agostino
           - Giacinto Fontanella
+  
   - year: 1896
     anchor: "1896"
     title: Registro de óbito de Matteo
@@ -177,7 +182,7 @@ files:
     source: Registro civil de Urussanga, livro C-1, folha 86-v, nº 21.
     external_name: FamilySearch
     external_url: https://familysearch.org/ark:/61903/3:1:S3HT-X3Q9-MNM" target="_blank
-    file: 1896-Matteo-Obito.jpg
+    file: docs/1896-Matteo-Obito.jpg
     image: 1896-Matteo-Obito-Min.jpg
     people:
       - name: Matteo Ignazio
@@ -204,6 +209,7 @@ files:
         ancestors:
           - Matteo Ignazio
           - Pietro Mariot
+  
   - year: 1921
     anchor: "1921"
     title: Certidão de óbito de Giosuè
@@ -211,7 +217,7 @@ files:
     source: Registro civil de Urussanga
     # external_name: FamilySearch
     # external_url: https://familysearch.org/ark:/61903/3:1:S3HT-X3Q9-MNM" target="_blank
-    file: 1921-Giosue-Obito.jpg
+    file: docs/1921-Giosue-Obito.jpg
     image: 1921-Giosue-Obito-Min.jpg
     people:
       - name: Giovanna
