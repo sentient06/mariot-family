@@ -119,6 +119,23 @@ people:
 
 name: Documentos brasileiros
 files:
+  - year: 1888
+    anchor: "1888"
+    title: Declaração de casamento de Marco e Antonia
+    type: Imagem (fotografia)
+    source: Diocese de Tubarão
+    # external_name: FamilySearch
+    # external_url: https://www.familysearch.org/ark:/61903/3:1:S3HY-6PY7-RJ?from=lynx1UIV8&treeref=GSJQ-JV6&i=18
+    file: docs/1888-Marco-Casamento.jpg
+    image: 1888-Marco-Casamento.jpg
+    people:
+      - name: Marco
+        main: true
+        ancestors: *a_matteo1
+      - name: Antonia
+        ancestors:
+          - Tommaso Longo
+
   - year: 1889
     anchor: "1889"
     title: Registro de casamento de Giosuè e Teresa Rosso
@@ -309,3 +326,38 @@ files:
         ancestors: *a_giosue2
       - name: Anna
         ancestors: *a_giosue2
+
+  - year: 1939
+    anchor: "1939"
+    title: Registro de óbito de Marco
+    type: Imagem (scan)
+    source: Registro civil de Lauro Müller
+    external_name: FamilySearch
+    external_url: https://www.familysearch.org/ark:/61903/3:1:S3HY-6PY7-RJ?from=lynx1UIV8&treeref=GSJQ-JV6&i=18
+    file: docs/1939-Marco-Obito.jpg
+    image: 1939-Marco-Obito.jpg
+    people:
+      - name: Marco
+        main: true
+        ancestors: *a_matteo1
+      - name: Antonia
+        ancestors:
+          - Tommaso Longo
+      - name: Giovanni
+        ancestors: *a_marco2
+      - name: Maria
+        ancestors: *a_marco2
+      - name: Adelia
+        ancestors: *a_marco2
+      - name: Angelo
+        ancestors: *a_marco2
+      - name: Giuseppe
+        ancestors: *a_marco2
+      - name: Matteo
+        ancestors: *a_marco2
+      - name: Lucia
+        ancestors: *a_marco2
+      - name: Maria Amabile
+        ancestors: *a_marco2
+      - name: Ida
+        ancestors: *a_marco2
