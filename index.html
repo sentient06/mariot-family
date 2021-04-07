@@ -32,133 +32,14 @@ js_files: m
             <h2>
                 Notícias
             </h2>
-            <dl class="news">
+            <dl class="news">{% for news in site.data.news %}
                 <dt>
-                    22 Mar 2021
-                </dt>
-                <dd>
-                    Adicionadas informações sobre Pietro, filho de Matteo, e seus filhos, baseado no manuscrito de dona Leda.
-                </dd>
-                <dt>
-                    17 Mar 2021
-                </dt>
-                <dd>
-                    Adicionada página sobre Pietro, pai de Matteo.<br />
-                    Remanejados os menus do site.
-                </dd>
-                <dt>
-                    16 Mar 2021
-                </dt>
-                <dd>
-                    Adicionada uma série de atualizações e fotos.<br />
-                    Atualizada referência de Leda Mariot, cortesia de Paulo Mariot.<br />
-                    Adicionada fotografia dos 4 irmãos em boa resolução, também cortesia de Paulo Mariot.
-                </dd>
-                <dt>
-                    13 Mar 2021
-                </dt>
-                <dd>
-                    Desenterradas algumas informações sobre os lotes em Urussanga.<br />
-                    Atualizadas páginas sobre Matteo e os Mariot de Longarone.
-                </dd>
-                <dt>
-                    12 Mar 2021
-                </dt>
-                <dd>
-                    Adicionadas informações sobre Giovanni Mariot e Brigida, cortesia de Leda Tereza Mariot Belloli (falecida) e Paulo Mariot.<br />
-                    Adicionada uma pequena citação sobre a casa de Marco Mariot.
-                </dd>
-                <dt>
-                    06 Mar 2021
-                </dt>
-                <dd>
-                    Finalmente adicionadas algumas fotografias de alguns dos Mariot que imigraram e uma pequena galeria de fotos.<br />
-                    Adicionados alguns detalhes sobre vida de Matteo e de Teresa, cortesia de Mateus Zuchinalli Canani e Irani Baldessar.
-                </dd>
-                <dt>
-                    05 Mar 2021
-                </dt>
-                <dd>
-                    Adicionados preciosos detalhes sobre Valentina Mariot, cortesia de Mateus Zuchinalli Canani e Irani Baldessar.
-                </dd>
-                <dt>
-                    29 Jun 2020
-                </dt>
-                <dd>
-                    Pequenos ajustes feitos na introdução.
-                </dd>
-                <dt>
-                    24 Jun 2020
-                </dt>
-                <dd>
-                    Adicionadas páginas para a maioria dos filhos de Matteo.<br />
-                    Adicionados registros de nascimento dos filhos de Pietro.
-                </dd>
-                <dt>
-                    12 Jun 2020
-                </dt>
-                <dd>
-                    Adicionadas referências para a página do Giosuè.<br />
-                    Adicionada a certidão de óbito de Giosuè.
-                </dd>
-                <dt>
-                    11 Jun 2020
-                </dt>
-                <dd>
-                    Adicionada página de downloads, com certidão do Giosuè, censo de Longarone e listas de passageiros.<br />
-                    Editadas mais referências.<br />
-                    Adicionadas algumas certidões e scans de registros civis brasileiros relacionados a Giosuè e Matteo.
-                </dd>
-                <dt>
-                    09 Jun 2020
-                </dt>
-                <dd>
-                    Editadas mais referências.
-                </dd>
-                <dt>
-                    08 Jun 2020
-                </dt>
-                <dd>
-                    Editadas algumas referências.
-                </dd>
-                <dt>
-                    07 Jun 2020
-                </dt>
-                <dd>
-                    Adicionadas páginas sobre os demais Mariot do Vêneto.<br />
-                </dd>
-                <dt>
-                    04 Jun 2020
-                </dt>
-                <dd>
-                    Ampliada a página sobre França e Itália.<br />
-                    Adicionada página sobre os Mariot do Vêneto, sem referências (por enquanto).
-                </dd>
-                <dt>
-                    03 Jun 2020
-                </dt>
-                <dd>
-                    Adicionada página sobre hipótese de imigração da França para a Itália.<br />
-                    Adicionada página sobre brasões.
-                </dd>
-                <dt>
-                    02 Jun 2020
-                </dt>
-                <dd>
-                    Adicionada página sobre a Inglaterra.<br />
-                    Adicionada página sobre a França.
-                </dd>
-                <dt>
-                    01 Jun 2020
-                </dt>
-                <dd>
-                    Adicionada página sobre a origem do nome. Adicionando referências.
-                </dd>
-                <dt>
-                    01 Jun 2020
-                </dt>
-                <dd>
-                    Site criado. Preparando material para pôr no ar em breve. Adicionada uma introdução.
-                </dd>
+                    {{ news.date }}
+                </dt>{% if news.text %}
+                <dd>{% for line in news.text %}
+                    <div>
+                        {{ line }}
+                    </div>{% endfor %}
+                </dd>{% endif %}{% endfor %}
             </dl>
         </section>

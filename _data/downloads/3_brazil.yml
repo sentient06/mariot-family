@@ -1,3 +1,122 @@
+ancestry:
+  - &a_pietro0
+     - Pietro Mariot
+  
+  - &a_matteo1
+     - Matteo Ignazio
+     - Pietro Mariot
+  
+  - &a_pietro2
+     - Pietro
+     - Matteo Ignazio
+     - Pietro Mariot
+  
+  - &a_giovanni2
+     - Giovanni
+     - Matteo Ignazio
+     - Pietro Mariot
+  
+  - &a_giosue2
+     - Giosuè
+     - Matteo Ignazio
+     - Pietro Mariot
+  
+  - &a_marco2
+     - Marco
+     - Matteo Ignazio
+     - Pietro Mariot
+  
+  - &a_teresa2
+     - Teresa Brigida
+     - Matteo Ignazio
+     - Pietro Mariot
+  
+  - &a_valentina2
+     - Valentina
+     - Matteo Ignazio
+     - Pietro Mariot
+  
+  - &a_margherita2
+     - Margherita
+     - Matteo Ignazio
+     - Pietro Mariot
+
+people:
+  - &matteo1
+    name: Matteo Ignazio
+    ancestors: *a_pietro0
+  
+  - &anna1
+    name: Anna
+    ancestors:
+     - Agostino
+     - Giacinto Fontanella
+
+  - &giosue2
+    name: Giosuè
+    ancestors: *a_matteo1
+
+  - &teresa_rosso2
+    name: Teresa
+    ancestors:
+     - Giovanni Rosso
+
+  - &giovanna2
+    name: Giovanna
+    ancestors:
+      - Antonio
+      - Angelo Cordella
+
+  - &pietro2
+    name: Pietro
+    ancestors: *a_matteo1
+
+  - &lucia2
+    name: Lucia
+    ancestors:
+      - Giacomo Olivier
+
+  - &marco2
+    name: Marco
+    ancestors: *a_matteo1
+
+  - &teresa2
+    name: Teresa Brigida
+    ancestors: *a_matteo1
+
+  - &libera3
+    name: Libera
+    ancestors: *a_giosue2
+
+  - &maria3
+    name: Maria
+    ancestors: *a_pietro2
+
+  - &cesare3
+    name: Cesare
+    ancestors: *a_pietro2
+
+  - &anna3
+    name: Anna
+    ancestors: *a_pietro2
+
+  - &teresa3
+    name: Teresa
+    ancestors: *a_pietro2
+
+  - &italia3
+    name: Italia
+    ancestors: *a_pietro2
+
+  - &margherita3
+    name: Margherita
+    ancestors: *a_pietro2
+
+  - &dusolina3
+    name: Dusolina
+    ancestors: *a_pietro2
+
+
 name: Documentos brasileiros
 files:
   - year: 1889
@@ -10,22 +129,16 @@ files:
     file: docs/1889-Teresa-Giosue-Casamento.jpg
     image: 1889-Teresa-Giosue-Casamento-Min.jpg
     people:
-      - name: Giosuè
+      -
+        <<: *giosue2
         main: true
-        ancestors:
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Teresa
+      -
+        <<: *teresa_rosso2
         main: true
-        ancestors:
-          - Giovanni Rosso
-      - name: Matteo Ignazio
-        ancestors:
-          - Pietro Mariot
-      - name: Anna
-        ancestors:
-          - Agostino
-          - Giacinto Fontanella
+      -
+        <<: *matteo1
+      -
+        <<: *anna1
       - name: Giovanni Rosso
       - name: Caterina Martin
   
@@ -39,19 +152,13 @@ files:
     file: docs/1891-Libera-Nascimento.jpg
     image: 1891-Libera-Nascimento-Min.jpg
     people:
-      - name: Libera
+      -
+        <<: *libera3
         main: true
-        ancestors:
-          - Giosuè
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Giosuè
-        ancestors:
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Teresa
-        ancestors:
-          - Giovanni Rosso
+      -
+        <<: *giosue2
+      -
+        <<: *teresa_rosso2
   
   - year: 1893
     anchor: "1893"
@@ -63,23 +170,16 @@ files:
     file: docs/1893-Giovanna-Giosue-Casamento-Religioso.jpg
     image: 1893-Giovanna-Giosue-Casamento-Religioso-Min.jpg
     people:
-      - name: Giosuè
+      -
+        <<: *giosue2
         main: true
-        ancestors:
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Giovanna
+      -
+        <<: *giovanna2
         main: true
-        ancestors:
-          - Antonio
-          - Angelo Cordella
-      - name: Matteo Ignazio
-        ancestors:
-          - Pietro Mariot
-      - name: Anna
-        ancestors:
-          - Agostino
-          - Giacinto Fontanella
+      -
+        <<: *matteo1
+      -
+        <<: *anna1
       - name: Antonio
         ancestors:
           - Angelo Cordella
@@ -97,55 +197,31 @@ files:
     file: docs/1894-Pietro-Filhos.pdf
     image: 1894-Pietro-Filhos-Min.jpg
     people:
-      - name: Pietro
-        ancestors:
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Lucia
-        ancestors:
-          - Giacomo Olivier
-      - name: Maria
+      -
+        <<: *pietro2
+      -
+        <<: *lucia2
+      -
+        <<: *maria3
         main: true
-        ancestors:
-          - Pietro
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Cesare
+      -
+        <<: *cesare3
         main: true
-        ancestors:
-          - Pietro
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Anna
+      -
+        <<: *anna3
         main: true
-        ancestors:
-          - Pietro
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Teresa
+      -
+        <<: *teresa3
         main: true
-        ancestors:
-          - Pietro
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Italia
+      -
+        <<: *italia3
         main: true
-        ancestors:
-          - Pietro
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Margherita
+      -
+        <<: *margherita3
         main: true
-        ancestors:
-          - Pietro
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Dusolina
+      -
+        <<: *dusolina3
         main: true
-        ancestors:
-          - Pietro
-          - Matteo Ignazio
-          - Pietro Mariot
   
   - year: 1894
     anchor: "1894_2"
@@ -157,23 +233,16 @@ files:
     file: docs/1894-Giovanna-Giosue-Casamento-Civil.jpg
     image: 1894-Giovanna-Giosue-Casamento-Civil-Min.jpg
     people:
-      - name: Giosuè
+      -
+        <<: *giosue2
         main: true
-        ancestors:
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Giovanna
+      -
+        <<: *giovanna2
         main: true
-        ancestors:
-          - Antonio
-          - Angelo Cordella
-      - name: Matteo Ignazio
-        ancestors:
-          - Pietro Mariot
-      - name: Anna
-        ancestors:
-          - Agostino
-          - Giacinto Fontanella
+      -
+        <<: *matteo1
+      -
+        <<: *anna1
   
   - year: 1896
     anchor: "1896"
@@ -185,30 +254,19 @@ files:
     file: docs/1896-Matteo-Obito.jpg
     image: 1896-Matteo-Obito-Min.jpg
     people:
-      - name: Matteo Ignazio
+      -
+        <<: *matteo1
         main: true
-        ancestors:
-          - Pietro Mariot
-      - name: Anna
-        ancestors:
-          - Agostino
-          - Giacinto Fontanella
-      - name: Pietro
-        ancestors:
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Giosuè
-        ancestors:
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Marco
-        ancestors:
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Teresa Brigida
-        ancestors:
-          - Matteo Ignazio
-          - Pietro Mariot
+      -
+        <<: *anna1
+      -
+        <<: *pietro2
+      -
+        <<: *giosue2
+      -
+        <<: *marco2
+      -
+        <<: *teresa2
   
   - year: 1921
     anchor: "1921"
@@ -220,75 +278,34 @@ files:
     file: docs/1921-Giosue-Obito.jpg
     image: 1921-Giosue-Obito-Min.jpg
     people:
-      - name: Giovanna
-        ancestors:
-          - Antonio
-          - Angelo Cordella
-      - name: Giosuè
+      -
+        <<: *giovanna2
+      -
+        <<: *giosue2
         main: true
-        ancestors:
-          - Matteo Ignazio
-          - Pietro Mariot
-      - name: Matteo Ignazio
-        ancestors:
-          - Pietro Mariot
-      - name: Anna
-        ancestors:
-          - Agostino
-          - Giacinto Fontanella
+      -
+        <<: *matteo1
+      -
+        <<: *anna1
+      -
+        <<: *teresa_rosso2
       - name: Teresa
-        ancestors:
-          - Giovanni Rosso
-      - name: Teresa
-        ancestors:
-          - Giosuè
-          - Matteo Ignazio
-          - Pietro Mariot
+        ancestors: *a_giosue2
       - name: Mario
-        ancestors:
-          - Giosuè
-          - Matteo Ignazio
-          - Pietro Mariot
+        ancestors: *a_giosue2
       - name: Luigi
-        ancestors:
-          - Giosuè
-          - Matteo Ignazio
-          - Pietro Mariot
+        ancestors: *a_giosue2
       - name: Mansueto
-        ancestors:
-          - Giosuè
-          - Matteo Ignazio
-          - Pietro Mariot
+        ancestors: *a_giosue2
       - name: Pietro
-        ancestors:
-          - Giosuè
-          - Matteo Ignazio
-          - Pietro Mariot
+        ancestors: *a_giosue2
       - name: Rosa
-        ancestors:
-          - Giosuè
-          - Matteo Ignazio
-          - Pietro Mariot
+        ancestors: *a_giosue2
       - name: Valentina
-        ancestors:
-          - Giosuè
-          - Matteo Ignazio
-          - Pietro Mariot
+        ancestors: *a_giosue2
       - name: Giuseppina
-        ancestors:
-          - Giosuè
-          - Matteo Ignazio
-          - Pietro Mariot
+        ancestors: *a_giosue2
       - name: Antonia
-        ancestors:
-          - Giosuè
-          - Matteo Ignazio
-          - Pietro Mariot
+        ancestors: *a_giosue2
       - name: Anna
-        ancestors:
-          - Giosuè
-          - Matteo Ignazio
-          - Pietro Mariot
-
-
-
+        ancestors: *a_giosue2

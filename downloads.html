@@ -1,6 +1,6 @@
 ---
 layout: default
-css_files: [downloads, generations]
+css_files: [generations, downloads_prototype]
 title: Mariot - Downloads
 ---
         <h1>Downloads</h1>
@@ -52,6 +52,8 @@ title: Mariot - Downloads
                 <li>Etc.</li>
             </ul>
         </section>
+
+
 {% assign downloads = site.data.downloads | sort %}
 {% for section_downloads in downloads %}{%
      assign section = section_downloads[1] %}
@@ -59,77 +61,92 @@ title: Mariot - Downloads
             <h2>
                 {{ section.name }}
             </h2>
-            <table class="downloads{% if section.tag %} {{ section.tag }}{% endif %}">
-                <thead>
-                    <tr>
-                        <th>Ano</th>
-                        <th>Descrição</th>
-                        <th>Download</th>
-                    </tr>
-                </thead>
-                <colgroup>
-                    <col class="year" />
-                    <col class="description" />
-                    <col class="download" />
-                </colgroup>
-                <tbody>
 {% for file in section.files %}
-                    <tr>
-                        <td>
-                            {{ file.year }}
-                        </td>
-                        <td>
-                            <a name="{{ file.anchor }}"></a>
-                            <dl>
-                                <dt>Título:</dt>
-                                <dd>
-                                    {{ file.title }}
-                                </dd>
-                                <dt>
+            <a name="{{ file.anchor }}"></a>
+            <div class="item">
+                <div class="head">
+                    <div class="year">
+                        {{ file.year }}
+                    </div>
+                    <div class="title">
+                        <h4>
+                        {{ file.title }}
+                        </h4>
+                    </div>
+                </div><!-- head -->
+                <div class="body">
+                    <div class="core">
+                        <div class="data">
+                            <div>
+                                <span class="title">
                                     Tipo:
-                                </dt>
-                                <dd>
+                                </span>
+                                <span class="value">
                                     {{ file.type }}
-                                </dd>{% if file.author %}
-                                <dt>Autor:</dt>
-                                <dd>
+                                </span>
+                            </div>{% if file.author %}
+                            <div>
+                                <span class="title">
+                                    Autor:
+                                </span>
+                                <span class="value">
                                     {{ file.author }}
-                                </dd>{% endif %}{% if file.source %}
-                                <dt>
+                                </span>
+                            </div>{% endif %}{% if file.source %}
+                            <div>
+                                <span class="title">
                                     Fonte:
-                                </dt>
-                                <dd>
-                                    {{ file.source }}{% if file.external_name %} - {{ file.external_name }}{% endif %}{% if file.external_url %} <a href="{{ file.external_url }}" target="_blank">url</a>{% endif %}</li>
-                                </dd>{% endif %}
-                            </dl>{% if file.people %}
-                            <div class="people">
-{% for person in file.people %}
-                                <div class="person-row">
-                                    <ul class="person{% if person.main %} main{% endif %}">
-                                        <li>{{ person.name }}</li>
-{% for ancestor in person.ancestors %}
-                                        <li>{{ ancestor }}</li>
-{% endfor %}
-                                    </ul>
-                                </div>
-{% endfor %}
+                                </span>
+                                <span class="value">
+                                    {{ file.source }}
+                                </span>{% if file.external_url %}
+                            </div>
+                            <div>
+                                <span class="title">
+                                    URL:
+                                </span>
+                                <span class="value">
+                                    <a href="{{ file.external_url }}" target="_blank">{{ file.external_name }}</a>
+                                </span>{% endif %}
                             </div>{% endif %}{% if file.player %}
-                            <div class="extra">
+                            <div class="player">
                                 <audio controls>
                                     <source src="downloads/{{ file.file }}" type="audio/mpeg">
                                     <small>Seu navegador não suporta arquivos de áudio!</small>
-                                </audio>
+                                </audio>                                
                             </div>{% endif %}
-                        </td>
-                        <td>
-                            <a href="downloads/{{ file.file }}"{% if file.player %} class="no-border"{% endif %} download>
-                                <img src="{% if file.player %}assets/images/illustrations/file_mp3.png{% else %}assets/images/downloads/{{ file.image }}{% endif %}" />
+                            <div class="download">
+                                <a href="downloads/{{ file.file }}" download>
+                                    Download
+                                </a>
+                            </div>
+                        </div><!-- data -->
+                        <div class="file">
+                            <a href="downloads/{{ file.file }}" download>
+                                <img src="{% if file.player %}assets/images/illustrations/file_mp3_2.png{% else %}assets/images/downloads/{{ file.image }}{% endif %}" />
                             </a>
-                        </td>
-                    </tr>
+                        </div><!-- file -->
+                    </div><!-- core -->
+
+                    <div class="download">
+                        <a href="downloads/{{ file.file }}" download>
+                            Download
+                        </a>
+                    </div>
+{% if file.people %}
+                    <div class="people">{% for person in file.people %}
+                        <div class="person{% if person.main %} main{% endif %}">
+                            <div class="individual">
+                                {{ person.name }}
+                            </div>{% for ancestor in person.ancestors %}
+                            <div class="ancestor">
+                                {{ ancestor }}
+                            </div>{% endfor %}
+                        </div><!-- person -->{% endfor %}
+                    </div><!-- people -->{% endif %}
+                </div><!-- body -->
+            </div><!-- item -->
 {% endfor %}
-                </tbody>
-            </table>
         </section>
 {% endfor %}
 

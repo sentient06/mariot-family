@@ -1,0 +1,139 @@
+---
+layout: default
+css_files: [downloads, generations]
+title: Mariot - Downloads
+---
+        <h1>Downloads</h1>
+        <section>
+            <h2>
+                Introdução
+            </h2>
+            <p>
+                Aqui disponibilizo documentos que servem como referência para muitas histórias que estão neste site. Os documentos desta página estão organizados por localidade, data do fato ocorrido, data que o documento foi originalmente feito e data de emissão, nesta ordem. Esses documentos são de pessoas falecidas.
+            </p>
+            <p>
+                Como existe uma quantidade enorme de pessoas com nomes repetidos, eu decidi pôr a ascendência das pessoas mencionadas em cada documento, desta forma:
+            </p>
+            
+            <ul class="person">
+                <li>Pessoa relevante</li>
+                <li>Pai</li>
+                <li>Avô</li>
+                <li>Bisavô</li>
+                <li>Etc.</li>
+            </ul>
+            <br />
+            
+            <p>
+                Eu só me ocupei com a linha masculina, de onde vem o sobrenome, que eu só pús no ancestral mais antigo. (Os Mariot normalmente terminam em Pietro Mariot.) Desta maneira, fica mais fácil discernir entre Pietros e Marcos.
+            </p>
+            <p>
+                Os indivíduos mencionados no documento aparecem em azul claro. Os indivíduos mais importantes de cada documento aparecem em verde. Em alguns documentos não tenho certeza se certos indivíduos são os mesmos que aparecem na lista. Esses indivíduos aparecem em amarelo.
+            </p>
+
+
+            <ul class="person main">
+                <li>Principal</li>
+                <li>Pai</li>
+                <li>Etc.</li>
+            </ul>
+            <br />
+
+            <ul class="person">
+                <li>Mencionado</li>
+                <li>Pai</li>
+                <li>Etc.</li>
+            </ul>
+            <br />
+
+            <ul class="person doubt">
+                <li>Incerto</li>
+                <li>Pai</li>
+                <li>Etc.</li>
+            </ul>
+        </section>
+{% assign downloads = site.data.downloads | sort %}
+{% for section_downloads in downloads %}{%
+     assign section = section_downloads[1] %}
+        <section>
+            <h2>
+                {{ section.name }}
+            </h2>
+            <table class="downloads{% if section.tag %} {{ section.tag }}{% endif %}">
+                <thead>
+                    <tr>
+                        <th>Ano</th>
+                        <th>Descrição</th>
+                        <th>Download</th>
+                    </tr>
+                </thead>
+                <colgroup>
+                    <col class="year" />
+                    <col class="description" />
+                    <col class="download" />
+                </colgroup>
+                <tbody>
+{% for file in section.files %}
+                    <tr>
+                        <td>
+                            {{ file.year }}
+                        </td>
+                        <td>
+                            <a name="{{ file.anchor }}"></a>
+                            <dl>
+                                <dt>Título:</dt>
+                                <dd>
+                                    {{ file.title }}
+                                </dd>
+                                <dt>
+                                    Tipo:
+                                </dt>
+                                <dd>
+                                    {{ file.type }}
+                                </dd>{% if file.author %}
+                                <dt>Autor:</dt>
+                                <dd>
+                                    {{ file.author }}
+                                </dd>{% endif %}{% if file.source %}
+                                <dt>
+                                    Fonte:
+                                </dt>
+                                <dd>
+                                    {{ file.source }}{% if file.external_name %} - {{ file.external_name }}{% endif %}{% if file.external_url %} <a href="{{ file.external_url }}" target="_blank">url</a>{% endif %}</li>
+                                </dd>{% endif %}
+                            </dl>{% if file.people %}
+                            <div class="people">
+{% for person in file.people %}
+                                <div class="person-row">
+                                    <ul class="person{% if person.main %} main{% endif %}">
+                                        <li>{{ person.name }}</li>
+{% for ancestor in person.ancestors %}
+                                        <li>{{ ancestor }}</li>
+{% endfor %}
+                                    </ul>
+                                </div>
+{% endfor %}
+                            </div>{% endif %}{% if file.player %}
+                            <div class="extra">
+                                <audio controls>
+                                    <source src="downloads/{{ file.file }}" type="audio/mpeg">
+                                    <small>Seu navegador não suporta arquivos de áudio!</small>
+                                </audio>
+                            </div>{% endif %}
+                        </td>
+                        <td>
+                            <a href="downloads/{{ file.file }}"{% if file.player %} class="no-border"{% endif %} download>
+                                <img src="{% if file.player %}assets/images/illustrations/file_mp3.png{% else %}assets/images/downloads/{{ file.image }}{% endif %}" />
+                            </a>
+                        </td>
+                    </tr>
+{% endfor %}
+                </tbody>
+            </table>
+        </section>
+{% endfor %}
+
+        <div class="help">
+            Você possui documentos relevantes que não estão nesta página?<br />
+            Por favor <a href="" class="m">entre em contato</a> e publicarei aqui.
+        </div>
