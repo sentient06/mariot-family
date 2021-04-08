@@ -1,12 +1,12 @@
 name: Artigos e documentos acadêmicos
-tag: docs
+path: academic
 files:
   - year: 2012
     anchor: "2012"
     title: A identidade italiana em Urussanga (SC) no final do século XX e início do XXI
     type: Documento (PDF)
     author: Julia Massucheti Tomasi
-    file: adademic/Ritorno_alle_origine.pdf
+    file: Ritorno_alle_origine.pdf
     image: Tomasi.png
   
   - year: 2017
@@ -14,5 +14,5 @@ files:
     title: "A Imigração Italiana em Urussanga, SC: A Trajetória da Família De Bona Sartor"
     type: Documento (PDF)
     author: Gil Karlos Ferri
-    file: adademic/A_imigracao_italiana_em_Urussanga_SC.pdf
+    file: A_imigracao_italiana_em_Urussanga_SC.pdf
     image: Ferri.png

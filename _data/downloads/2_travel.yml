@@ -1,11 +1,12 @@
 name: Documentos de viagem
+path: docs
 files:
   - year: 1879
     anchor: "1879"
     title: Relação de passageiros do vapor Sorata
     type: PDF (scan)
     source: SISTEMA de Informação do Arquivo Nacional
-    file: docs/BR_RJANRIO_OL_0_RPV_PRJ_01082_d0001de0001.pdf
+    file: BR_RJANRIO_OL_0_RPV_PRJ_01082_d0001de0001.pdf
     image: 1879-Vapor-Sorata.png
     people:
       - name: Matteo Ignazio
@@ -23,7 +24,7 @@ files:
     title: Relação de passageiros do vapor Berlin
     type: PDF (scan)
     source: SISTEMA de Informação do Arquivo Nacional
-    file: docs/BR_RJANRIO_OL_0_RPV_PRJ_01367_d0001de0001.pdf
+    file: BR_RJANRIO_OL_0_RPV_PRJ_01367_d0001de0001.pdf
     image: 1880-Vapor-Berlin.png
     people:
       - name: Giovanni
@@ -45,7 +46,7 @@ files:
     title: Relação de passageiros do vapor Maria
     type: PDF (scan)
     source: SISTEMA de Informação do Arquivo Nacional
-    file: docs/BR_RJANRIO_OL_0_RPV_PRJ_01615_d0001de0001.pdf
+    file: BR_RJANRIO_OL_0_RPV_PRJ_01615_d0001de0001.pdf
     image: 1882-Vapor-Maria.png
     people:
       - name: Anna
@@ -89,7 +90,7 @@ files:
     title: Relação de passageiros do vapor La France
     type: PDF (scan)
     source: SISTEMA de Informação do Arquivo Nacional
-    file: docs/BR_RJANRIO_OL_0_RPV_PRJ_01672_d0001de0001.pdf
+    file: BR_RJANRIO_OL_0_RPV_PRJ_01672_d0001de0001.pdf
     image: 1882-Vapor-La-France.png
     people:
       - name: Giosuè
@@ -103,7 +104,7 @@ files:
     title: Relação de passageiros do vapor Duchessa di Genova
     type: PDF (scan)
     source: SISTEMA de Informação do Arquivo Nacional
-    file: docs/BR_RJANRIO_OL_0_RPV_PRJ_04307_d0001de0001.pdf
+    file: BR_RJANRIO_OL_0_RPV_PRJ_04307_d0001de0001.pdf
     image: 1890-Vapor-Duchessa-di-Genova.png
     people:
       - name: Antonio

@@ -111,12 +111,12 @@ title: Mariot - Downloads
                             </div>{% endif %}{% if file.player %}
                             <div class="player">
                                 <audio controls>
-                                    <source src="downloads/{{ file.file }}" type="audio/mpeg">
+                                    <source src="downloads/{% if section.path %}{{ section.path }}/{% endif %}{{ file.file }}" type="audio/mpeg">
                                     <small>Seu navegador não suporta arquivos de áudio!</small>
                                 </audio>                                
                             </div>{% endif %}
                             <div class="download">
-                                <a href="downloads/{{ file.file }}" download>
+                                <a href="downloads/{% if section.path %}{{ section.path }}/{% endif %}{{ file.file }}" download>
                                     Download
                                 </a>
                             </div>

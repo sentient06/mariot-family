@@ -1,11 +1,12 @@
 name: Documentos italianos
+path: docs
 files:
   - year: 1818
     anchor: "1818"
     title: Atestado de nascimento de Matteo Ignazio Mariot
     type: PDF (scan)
     source: <em lang=\"it\">Comune de Longarone</em>, 2021
-    file: docs/1818-Matteo-Nascita.pdf
+    file: 1818-Matteo-Nascita.pdf
     image: 1818-Matteo-Nascita.jpg
     people:
       - name: Matteo Ignazio
@@ -22,7 +23,7 @@ files:
     title: Atestado de nascimento de Giosuè Mariot
     type: PDF (scan)
     source: <em lang=\"it\">Comune de Longarone</em>, 2012
-    file: docs/1857-Giosue-Nascita.pdf
+    file: 1857-Giosue-Nascita.pdf
     image: 1857-Giosue-Nascita.jpg
     people:
       - name: Giosuè
@@ -43,7 +44,7 @@ files:
     title: <em lang=\"it\">Ruolo della Popolazione della Frazione de Pirago e Muda</em> - Página 1
     type: Imagem (fotografia)
     source: <em lang=\"it\">Comune de Longarone</em>
-    file: docs/1871-Ruolo-P-1.jpg
+    file: 1871-Ruolo-P-1.jpg
     image: 1871-Ruolo-P-1-Min.jpg
 
   - year: 1871
@@ -51,7 +52,7 @@ files:
     title: <em lang=\"it\">Ruolo della Popolazione della Frazione de Pirago e Muda</em> - Página 2
     type: Imagem (fotografia)
     source: <em lang=\"it\">Comune de Longarone</em>
-    file: docs/1871-Ruolo-P-2.jpg
+    file: 1871-Ruolo-P-2.jpg
     image: 1871-Ruolo-P-2-Min.jpg
 
   - year: 1871
@@ -59,7 +60,7 @@ files:
     title: <em lang=\"it\">Ruolo della Popolazione della Frazione de Pirago e Muda</em> - Páginas 1 e 2
     type: Imagem (fotografia)
     source: <em lang=\"it\">Comune de Longarone</em>
-    file: docs/1871-Ruolo-P-1-2.jpg
+    file: 1871-Ruolo-P-1-2.jpg
     image: 1871-Ruolo-P-1-2-Min.jpg
     people:
       - name: Pietro Mariot

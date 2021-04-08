@@ -118,6 +118,7 @@ people:
 
 
 name: Documentos brasileiros
+path: docs
 files:
   - year: 1888
     anchor: "1888"
@@ -126,7 +127,7 @@ files:
     source: Diocese de Tubarão
     # external_name: FamilySearch
     # external_url: https://www.familysearch.org/ark:/61903/3:1:S3HY-6PY7-RJ?from=lynx1UIV8&treeref=GSJQ-JV6&i=18
-    file: docs/1888-Marco-Casamento.jpg
+    file: 1888-Marco-Casamento.jpg
     image: 1888-Marco-Casamento.jpg
     people:
       - name: Marco
@@ -143,7 +144,7 @@ files:
     source: Registro civil de Urussanga; Matrimônios 1889, Jan-1891
     external_name: FamilySearch
     external_url: https://familysearch.org/ark:/61903/1:1:V2KQ-L8Y
-    file: docs/1889-Teresa-Giosue-Casamento.jpg
+    file: 1889-Teresa-Giosue-Casamento.jpg
     image: 1889-Teresa-Giosue-Casamento-Min.jpg
     people:
       -
@@ -166,7 +167,7 @@ files:
     source: Registro Civil de Urussanga, livro A-1, folha 172-v, nº 346.
     external_name: FamilySearch
     external_url: https://familysearch.org/ark:/61903/3:1:S3HT-6PT3-7JZ?i=306&cc=2016197&cat=477668
-    file: docs/1891-Libera-Nascimento.jpg
+    file: 1891-Libera-Nascimento.jpg
     image: 1891-Libera-Nascimento-Min.jpg
     people:
       -
@@ -184,7 +185,7 @@ files:
     source: Diocese de Tubarão, 'Matrimônios 1889, Jan-1891'
     external_name: FamilySearch
     external_url: https://familysearch.org/ark:/61903/3:1:S3HY-6RSG-MD
-    file: docs/1893-Giovanna-Giosue-Casamento-Religioso.jpg
+    file: 1893-Giovanna-Giosue-Casamento-Religioso.jpg
     image: 1893-Giovanna-Giosue-Casamento-Religioso-Min.jpg
     people:
       -
@@ -211,7 +212,7 @@ files:
     source: Registro Civil de Urussanga
     # external_name: FamilySearch
     # external_url: https://familysearch.org/ark:/61903/3:1:S3HY-6RSG-MD
-    file: docs/1894-Pietro-Filhos.pdf
+    file: 1894-Pietro-Filhos.pdf
     image: 1894-Pietro-Filhos-Min.jpg
     people:
       -
@@ -247,7 +248,7 @@ files:
     source: Registro Civil de Urussanga
     # external_name: FamilySearch
     # external_url: https://familysearch.org/ark:/61903/3:1:S3HY-6RSG-MD
-    file: docs/1894-Giovanna-Giosue-Casamento-Civil.jpg
+    file: 1894-Giovanna-Giosue-Casamento-Civil.jpg
     image: 1894-Giovanna-Giosue-Casamento-Civil-Min.jpg
     people:
       -
@@ -268,7 +269,7 @@ files:
     source: Registro civil de Urussanga, livro C-1, folha 86-v, nº 21.
     external_name: FamilySearch
     external_url: https://familysearch.org/ark:/61903/3:1:S3HT-X3Q9-MNM" target="_blank
-    file: docs/1896-Matteo-Obito.jpg
+    file: 1896-Matteo-Obito.jpg
     image: 1896-Matteo-Obito-Min.jpg
     people:
       -
@@ -292,7 +293,7 @@ files:
     source: Registro civil de Urussanga
     # external_name: FamilySearch
     # external_url: https://familysearch.org/ark:/61903/3:1:S3HT-X3Q9-MNM" target="_blank
-    file: docs/1921-Giosue-Obito.jpg
+    file: 1921-Giosue-Obito.jpg
     image: 1921-Giosue-Obito-Min.jpg
     people:
       -
@@ -334,7 +335,7 @@ files:
     source: Registro civil de Lauro Müller
     external_name: FamilySearch
     external_url: https://www.familysearch.org/ark:/61903/3:1:S3HY-6PY7-RJ?from=lynx1UIV8&treeref=GSJQ-JV6&i=18
-    file: docs/1939-Marco-Obito.jpg
+    file: 1939-Marco-Obito.jpg
     image: 1939-Marco-Obito.jpg
     people:
       - name: Marco
