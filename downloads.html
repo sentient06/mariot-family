@@ -1,5 +1,6 @@
 ---
 layout: default
+js_files: collapsible
 css_files: [generations, downloads_prototype]
 title: Mariot - Downloads
 ---
@@ -56,24 +57,27 @@ title: Mariot - Downloads
 
 {% assign downloads = site.data.downloads | sort %}
 {% for section_downloads in downloads %}{%
-     assign section = section_downloads[1] %}
+     assign section = section_downloads[1] %}{%
+     assign section_idx = forloop.index
+%}
         <section>
             <h2>
                 {{ section.name }}
             </h2>
-{% for file in section.files %}
+{% for file in section.files %}{%
+     assign file_idx = forloop.index
+%}
             <a name="{{ file.anchor }}"></a>
             <div class="item">
-                <div class="head">
+                <input id="item_{{ section_idx }}{{ file_idx }}" class="toggle" type="checkbox" />
+                <label class="head" for="item_{{ section_idx }}{{ file_idx }}" tabindex="{{ section_idx }}{{ file_idx }}">
                     <div class="year">
                         {{ file.year }}
                     </div>
                     <div class="title">
-                        <h4>
                         {{ file.title }}
-                        </h4>
                     </div>
-                </div><!-- head -->
+                </label><!-- head -->
                 <div class="body">
                     <div class="core">
                         <div class="data">

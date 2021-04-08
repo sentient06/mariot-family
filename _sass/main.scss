@@ -284,14 +284,15 @@ div.hypothesis,
 div.theory,
 div.fact,
 div.subtle {
+    float: left;
     display: block;
-    /*margin-top: 20px;*/
+    // margin-top: 20px;
     padding: 10px;
     margin: 0 -1em;
 
     margin-top: 30px;
     margin-bottom: 30px;
-    /*padding: 10px 0;*/
+    // padding: 10px 0;
     border-style: solid;
     border-width: 0;
     border-top-width: 1px;
@@ -574,6 +575,8 @@ dl.references dd em {
 }
 
 div.help {
+    float: left;
+    width: 100%;
     background: #f9f9FF;
     color: #566b78;
     border: 1px solid #566b78;

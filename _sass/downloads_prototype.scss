@@ -24,7 +24,7 @@
 .item {
 	display: flex;
 	flex-direction: column;
-	border: 2px solid #666;
+	border: 1px solid #666;
 	margin-top: 10px;
     -webkit-box-shadow: 10px 10px 40px 0px rgba(42, 42, 42, 0.1);
        -moz-box-shadow: 10px 10px 40px 0px rgba(42, 42, 42, 0.1);
@@ -33,21 +33,29 @@
 
 	.head {
 		display: flex;
-		background: #ddd;
-		border: 0 solid #666;
-		border-bottom-width: 2px;
+		background-color: #eee;
+		// border: 0 solid #666;
+		// border-bottom-width: 2px;
 		padding: 10px;
-		margin: 0 0 3px 0;
+		// margin: 0 0 3px 0;
+
+		cursor: pointer;
+		&:hover {
+			background-color: #ddd;
+		}
 		.year {
 			flex-basis: content;
 			color: #e81c4f;
+			font-family: AltGeorgiaBold;
 		}
 		.title {
 			flex-grow: 1;
 			flex-basis: auto;
 			padding-left: 10px;
-			h4 {
-				margin: 0;
+			color: #566b78;
+			font-family: AltGeorgiaBold;
+			em {
+				font-family: AltGeorgiaBoldItalic;
 			}
 		}
 	}
@@ -55,6 +63,9 @@
 	.body {
 		display: flex;
 		flex-direction: column;
+
+		border: 0 solid #666;
+
 
 		.core {
 			display: flex;
@@ -201,3 +212,22 @@
 		}
 	}
 }
+
+
+.item {
+	.toggle {
+		display: none;
+	}
+}
+
+.item .toggle + .head + .body {
+	max-height: 0px;
+	overflow: hidden;
+	transition: max-height .25s ease-in-out;
+}
+
+.item .toggle:checked + .head + .body {
+	max-height: 100vh; //unset;
+}
+
+
