@@ -120,16 +120,16 @@ title: Mariot - Downloads
                                     Download
                                 </a>
                             </div>
-                        </div><!-- data -->
+                        </div><!-- data -->{% if file.file %}
                         <div class="file">
-                            <a href="downloads/{{ file.file }}" download>
+                            <a href="downloads/{% if section.path %}{{ section.path }}/{% endif %}{{ file.file }}" download>
                                 <img src="{% if file.player %}assets/images/illustrations/file_mp3_2.png{% else %}assets/images/downloads/{{ file.image }}{% endif %}" />
                             </a>
-                        </div><!-- file -->
+                        </div><!-- file -->{% endif %}
                     </div><!-- core -->
 
                     <div class="download">
-                        <a href="downloads/{{ file.file }}" download>
+                        <a href="downloads/{% if section.path %}{{ section.path }}/{% endif %}{{ file.file }}" download>
                             Download
                         </a>
                     </div>
