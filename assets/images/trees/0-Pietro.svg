@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="870.8835pt" height="1411.406pt" viewBox="0 0 870.8835 1411.406">
+<g enable-background="new">
+<path transform="matrix(1,0,0,1,735.3835,812.83706)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 0 5 M 0 10 L 0 5 "/>
+<path transform="matrix(1,0,0,1,554.428,484.31294)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 27.97776 703.0945 L 27.97776 0 M 0 703.0945 L 27.97776 703.0945 M 0 401.3753 L 27.97776 401.3753 M 0 0 L 27.97776 0 M 55.95552 380.0241 L 27.97776 380.0241 "/>
+<path transform="matrix(1,0,0,1,429.428,1228.9075)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 0 5 M 0 10 L 0 5 "/>
+<path transform="matrix(1,0,0,1,429.428,553.8129)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 0 5 M 0 10 L 0 5 "/>
+<path transform="matrix(1,0,0,1,260.5,1181.906)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 21.96401 177.5 L 21.96401 0 M 0 .00003806979 L 21.96401 .00003806979 M 0 84.50004 L 21.96401 84.50004 M 0 177.5 L 21.96401 177.5 M 43.92802 92.00143 L 21.96401 92.00143 "/>
+<path transform="matrix(1,0,0,1,260.5,58.5)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 21.96401 996.9318 L 21.96401 .0001806762 M 0 364.7381 L 21.96401 364.7381 M 0 996.9316 L 21.96401 996.9316 M 0 857.2119 L 21.96401 857.2119 M 0 724.8337 L 21.96401 724.8337 M 0 0 L 21.96401 0 M 0 108.4243 L 21.96401 108.4243 M 0 622.0417 L 21.96401 622.0417 M 0 516.0417 L 21.96401 516.0417 M 0 214.4243 L 21.96401 214.4243 M 43.92802 574.8127 L 21.96401 574.8127 "/>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 10.5 93.5 L 260.5 93.5 L 260.5 10.5 L 10.5 10.5 L 10.5 93.5 Z " fill="#ffc1a9"/>
+<path transform="matrix(1,0,0,1,10.5,1317.906)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 83 L 0 83 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 1343.906)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="58.64502 67.21722 75.00402 83.55522 91.342029 96.790828 104.57763 113.12883 121.68003 129.46685 133.35604 145.01804 152.80484 158.25365 162.14284 170.69403">Veneranda Mariot</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 1362.906)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma0">
+<g transform="matrix(.078125,0,0,.078125,18.5,1349.906)">
+<use xlink:href="#im1" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<symbol id="im1" viewBox="0 0 128 128">
+<image width="128" height="128" xlink:href="data:image/png;base64,
+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"/>
+</symbol>
+<g mask="url(#ma0)">
+<g transform="matrix(.078125,0,0,.078125,18.5,1349.906)">
+<symbol id="im2" viewBox="0 0 128 128">
+<image width="128" height="128" xlink:href="data:image/png;base64,
+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
+/g92qZbMu7jkeAAAAABJRU5ErkJggg=="/>
+</symbol>
+<use xlink:href="#im2" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 1362.906)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">08/05/1868</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 1375.906)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.7148 158.3848 160.6068 163.9368 169.4988 175.06079 180.62279 183.40079 186.17879 191.74079 197.30278 202.86478 208.42678 213.98877 217.31877 222.88077 228.44277">Pirago, Longarone</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 1392.906)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma3">
+<g transform="matrix(.078125,0,0,.078125,18.5,1379.906)">
+<use xlink:href="#im4" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<symbol id="im4" viewBox="0 0 128 128">
+<image width="128" height="128" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAAAAADmVT4XAAAAcklEQVR4nO3WMQ4A
+IAgAMfn/o3U3Dg4kiOntQEdiFBcAAABtATNpEQAAAAAAAAAAAAAAAMBpbt+d1ukY
+AAAAAAAAwJOAq77+iAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHoA
+sgIAACgHLOIecIH6GSz1AAAAAElFTkSuQmCC"/>
+</symbol>
+<g mask="url(#ma3)">
+<g transform="matrix(.078125,0,0,.078125,18.5,1379.906)">
+<symbol id="im5" viewBox="0 0 128 128">
+<image width="128" height="128" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAIAAABMXPacAAABTUlEQVR4nO3ZsRGD
+QAwAQdOXY9dBadTh2IW5Bsw/N+DdWIFGF2p5kFrqBf6dADEBYgLEBIgJEBMgdpkA
+6+u5a357fyZtMpYAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEB
+YgLEBIgJEBMgJkBMgJgAMQFivwfYe5EbOxJbgAEEiAkQEyAmQEyAmAAxAWICxASI
+CRATICZATICYALEmwMk8ZGICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgJgA
+MQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBM
+gJgAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMg
+JkBMgJgAMQFiAsQEiAkQE4ApBIgJEBMgJkBMgJgAMQFiX5D7UJAYZAJNAAAAAElF
+TkSuQmCC"/>
+</symbol>
+<use xlink:href="#im5" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 304.428 847.5931 L 554.428 847.5931 L 554.428 708.5931 L 304.428 708.5931 L 304.428 847.5931 Z " fill="#ffc1a9"/>
+<path transform="matrix(1,0,0,1,304.428,563.8129)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 139 L 0 139 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 312.428 589.8129)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="62.55176 72.66256 81.21376 89.76496 97.551769 101.44096 109.992168 118.543369 127.09457 131.75656 139.54337 148.09456 155.88137 159.77056 163.65975">Anna Fontanella</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 324.428 608.8129)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma6">
+<g transform="matrix(.078125,0,0,.078125,312.428,595.8129)">
+<use xlink:href="#im1" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma6)">
+<g transform="matrix(.078125,0,0,.078125,312.428,595.8129)">
+<use xlink:href="#im2" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 497.1165 608.8129)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 4.8240005 10.3880009 13.162002 18.726002 24.290003 27.064003 32.628007 38.19201 43.756013">11/05/1826</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 312.428 621.8129)" font-size="10" font-family="Helvetica"><tspan y="-3" x="186.1777 191.7397 197.3017 202.8637 208.42569 213.98769 217.31769 222.87969 228.44168">Longarone</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 324.428 638.8129)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 32.800004 38.362005 44.470006 47.800004">Casamento</tspan></text>
+<mask id="ma7">
+<g transform="matrix(.078125,0,0,.078125,312.428,625.8129)">
+<use xlink:href="#im8" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<symbol id="im8" viewBox="0 0 128 128">
+<image width="128" height="128" xlink:href="data:image/png;base64,
+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"/>
+</symbol>
+<g mask="url(#ma7)">
+<g transform="matrix(.078125,0,0,.078125,312.428,625.8129)">
+<symbol id="im9" viewBox="0 0 128 128">
+<image width="128" height="128" xlink:href="data:image/png;base64,
+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"/>
+</symbol>
+<use xlink:href="#im9" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 496.3792 638.8129)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">03/02/1847</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 312.428 651.8129)" font-size="10" font-family="Helvetica"><tspan y="-3" x="137.8428 146.1728 151.7348 154.5128 157.2908 162.8528 168.4148 171.1928 173.9708 179.53279 185.09479 190.65679 195.65679 197.87879 203.44078 206.21878 214.54878 220.11078 223.44078 225.66278 231.22478">Matteo Ignazio Mariot</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 312.428 664.8129)" font-size="10" font-family="Helvetica"><tspan y="-3" x="186.1777 191.7397 197.3017 202.8637 208.42569 213.98769 217.31769 222.87969 228.44168">Longarone</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 324.428 681.8129)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma10">
+<g transform="matrix(.078125,0,0,.078125,312.428,668.8129)">
+<use xlink:href="#im4" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma10)">
+<g transform="matrix(.078125,0,0,.078125,312.428,668.8129)">
+<use xlink:href="#im5" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 496.3792 681.8129)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">24/04/1917</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 312.428 694.8129)" font-size="10" font-family="Helvetica"><tspan y="-3" x="183.9756 191.1976 196.7596 201.7596 207.3216 210.0996 216.76959 220.0996 225.66159 228.43959">Nova Prata</tspan></text>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 10.5 573.6938 L 260.5 573.6938 L 260.5 417.6938 L 10.5 417.6938 L 10.5 573.6938 Z " fill="#ffc1a9"/>
+<path transform="matrix(1,0,0,1,10.5,837.7122)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 156 L 0 156 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 863.7122)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="63.31738 71.88958 79.676387 83.56558 91.35239 99.90359 104.56559 108.45479 117.00599 124.79279 128.68199 140.344 148.1308 153.5796 157.4688 166.01999">Valentina Mariot</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 882.7122)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma11">
+<g transform="matrix(.078125,0,0,.078125,18.5,869.7122)">
+<use xlink:href="#im1" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma11)">
+<g transform="matrix(.078125,0,0,.078125,18.5,869.7122)">
+<use xlink:href="#im2" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 882.7122)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">18/10/1865</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 895.7122)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.7148 158.3848 160.6068 163.9368 169.4988 175.06079 180.62279 183.40079 186.17879 191.74079 197.30278 202.86478 208.42678 213.98877 217.31877 222.88077 228.44277">Pirago, Longarone</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 912.7122)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 32.800004 38.362005 44.470006 47.800004">Casamento</tspan></text>
+<mask id="ma12">
+<g transform="matrix(.078125,0,0,.078125,18.5,899.7122)">
+<use xlink:href="#im8" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma12)">
+<g transform="matrix(.078125,0,0,.078125,18.5,899.7122)">
+<use xlink:href="#im9" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 912.7122)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">24/12/1884</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 925.7122)" font-size="10" font-family="Helvetica"><tspan y="-3" x="143.9414 151.7194 153.9414 159.5034 164.5034 170.0654 175.6274 181.18939 186.75139 189.35439 195.09639 198.42639 203.98839 212.31839 217.88039 223.44239 226.22039 228.44239">Giuseppe Tramontin</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 942.7122)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 32.800004 38.362005 44.470006 47.800004">Casamento</tspan></text>
+<mask id="ma13">
+<g transform="matrix(.078125,0,0,.078125,18.5,929.7122)">
+<use xlink:href="#im8" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma13)">
+<g transform="matrix(.078125,0,0,.078125,18.5,929.7122)">
+<use xlink:href="#im9" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 203.1885 942.7122)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 43.758">22/06/1911</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 955.7122)" font-size="10" font-family="Helvetica"><tspan y="-3" x="178.9707 185.6407 191.2027 194.5327 196.7547 201.7547 207.3167 210.0947 215.6567 221.21869 226.78069 231.78069">Enrico Lenzi</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 972.7122)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma14">
+<g transform="matrix(.078125,0,0,.078125,18.5,959.7122)">
+<use xlink:href="#im4" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma14)">
+<g transform="matrix(.078125,0,0,.078125,18.5,959.7122)">
+<use xlink:href="#im5" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 972.7122)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">07/10/1947</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 985.7122)" font-size="10" font-family="Helvetica"><tspan y="-3" x="183.9756 191.1976 196.7596 201.7596 207.3216 210.0996 216.76959 220.0996 225.66159 228.43959">Nova Prata</tspan></text>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 10.5 1079.168 L 260.5 1079.168 L 260.5 897.1676 L 10.5 897.1676 L 10.5 1079.168 Z " fill="#a9c2ff"/>
+<path transform="matrix(1,0,0,1,10.5,332.23805)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 182 L 0 182 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 358.23805)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="70.32764 81.216838 85.10603 93.657238 101.44404 109.99524 117.78204 121.67124 133.33324 141.12004 146.56885 150.45804 159.00923">Giosu&#x00e8; Mariot</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 377.23805)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma15">
+<g transform="matrix(.078125,0,0,.078125,18.5,364.23805)">
+<use xlink:href="#im16" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<symbol id="im16" viewBox="0 0 128 128">
+<image width="128" height="128" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAAAAADmVT4XAAAIuUlEQVR4nO2be1RU
+RRjAL6wiAYIeE7PMklBgYRHNxPKoJD4wLI4iBZkvtMSCJCMIITV7KGiQwdEQEfOB
+mp3MFyJaIWodn+zykleoqMdSIjFBBZF2gd37zb0zc2d3Y/cfvj92v++b78789nJn
+7sw3gwVnZrHoAugC6AIw8nq7qBXmBVgRJ680J8CTFbZ7XjcnQEYo1zrynPkAPC/I
+OO7YRPMBHJmk+Zx01FwAk3Pavs6/0GoeAFmBol0J3m0egNCMDqXSvdkcALaV/bXq
+uxvMAbB8hU694dxoeoD+lba8Ef+F6QHSFwCj3qnO1ACKAhk0kz40NcBhP8S8P+Sq
+aQEm5gocmaEmBbAs8BR4WjxLTQmgG4N4+WmaCQFsKp8UO1/63XQAyz7FOPPHmQzg
+iUo7nHvqIVMBpL2DdauGPzINgLtKhi+Yvc00AIdeIRRccntgCoAJ5BlY5DoTAFie
+9wLW5XMzgHXT+d/OB5i3GVohp8usgLlyeacD2JQPANaZUa0p4cD+1/lmZwPEfwat
+sSc4x6qewJHyficD9KuEzf0YqP74dBnwNLle6lyAbxcCo9mjQv1pX+kIfDve6lQA
+uaobsDru9+Kvge/RcFVnAhz0B0a9c23bd4+yZ4E3G4b83wC+x6AVvaZDmbUVun2O
+dxqA5dnhwLriel/rVyqA//fR+iwV9QDo7hIEn3duZpZO9T8ICwJ//L8BZIMU7h4e
+Q7ojzrPe4Ifmj4FFNUq1MHZHKYBn5Ap3d/ljmJJx+cB48TdReX2hmqK4yXAAR82v
+ljuQigVz0J8CsFHNF9UYBbRVEw6gl7pld8XjlKvUNSvKEVteSJikaKSmUKUsqMY/
+miiArZtCfcsHYCNRSY0QODLnSlxxR1WkLCi+L3RrAaxc5Z5yj0GWDG231eZ8S+B5
+usKa4bqHZcqiAiW8tg0gbLz74O6ES/ASu1rk+moJ89XXlSqVsuoRDzDiGPFZw0uN
+i+hWco9X6VfJ3cJ9iVoAbnSujV4XY6e/cZ/rVQd3bVy1DoDzPdRDj0vxeTmQM2KR
+6z5VHA/AvfqDFSUYyr3SkhR8cjYkfkg3bAFObvhUcBCAez2L0pHbpbmipLik8FIL
+OcLaY5iXl6InOUAnf718kUMBuHkZ5FHxUXVxaWFpueS42l6lk5rC6ylqzK2XS7TR
+vDM8BRd6taSotOii/lm4PmoIL1fCn6TWt1Crwl8dI+zcOXuLS+r1bhqItVxNMdRe
+6K7zVep05Lav/AQNvDUGHfANE6tcQeLg9oTzvIH+3ZMj0dBrY/WcZGNEtjMIddRP
+PAssFMAi7W00+A+fa8a2vz0YddzxQ1I5gidf9t1M1FE2VvjW0bP9zFmo467fKcQW
+dj3ZHkGyS+Vz24j2LTfNQx2NU/JRh6jvW+1DU6Dc6Ul3DG7fIn2+oH3/PGGI6CKb
+bMFDm+dvaC7eYsNC1HEvQJTcwIx+9rneqCMngG0IFNX9TTjqeBBwRByEubB3niAP
+uzeIMv6TRdipm6Zli4Ow43/ffFfUsX2uAQTCKVLTjAOYKPwLaMBxJ9SRvlDvnbnV
+MYL2Q7ALJsIb0Om4YGqczD7ja5fP4lG7JfgHbBzpFexyoq+gwmX4QIKAHa329mcS
+9haJcwDPvN6oQ7cYZxE0k6Ruf84OQiR5EuJ9RDDLjUhlbj86QdD+gi2kUMridFw2
+OlVuDSXWIpAlX6F264LN+EA6ADd5PzpRbXnze6b2kZyRpv2wjeRg6vJ82h50olr9
+HEv7o0+glbaGr6dE0/MDb25FCI5OYgEYdgFt/wNqBlsiQfF2GgxY/x4LQK9/EHNJ
+MjVaKkMSCS9nzMbXwQ4ck0gPlswRlQ/hdX/MywQjF4bx+ppoiWApAMsGsOx3ZZsk
+7wFbCJKDh2SS6jKvP7RhOyixJorXJTe1pQDgHnHVYKb2uffAr9473UiARaAPs2aB
+p4BHReVFjmMCgLOKbxazAbiBbez6XkYCHJjK66xvI+tGUGsfiaMVUgBlLrw+JYcN
+gLsOtrZHnCfHMQB0awTZMyfWheLJ0bwehJ8IsQI4g8OCTTaYmWn/PzGTxW1g28bI
+kdDvMK+XuouKR0QHlnz5vWjLGs4HN7xrFADMmhx4TVA4McZX81W+asdDtGBuJq/n
+TDEKAO5KooOaLDBGt31yOSET2bX2+ZXXywVLDD0B4GGdRd/yuvWcKGcYd33tRrCA
+hOP3g8foKwoJgOpBvO77i1ZzWLT4CWHkzaT1uo1r2T3Qd56mpzjoAFaNYEY0sOOo
+Uv/IMFHaSSN161K0U5E/wMJqzEkjAFzKeL3Rru1eDv5oNjGreyf16/Z8Si44Zipx
+rIIOMBUsJ4s0S+YRMdOpWwoNaWtvqL82glTT8pVGAMAJvvrF2tHvqHI/I7GG+3gV
+79gyjxwsCbAhjNfXnoseTo4E0rRj1fM7eVPieBEd4OfxvN7MvqfScnYUb9Q8YwTA
+lYHMjZJpbKgJHiqAdQPrJhZNBlcZDOBRJFF3Y0bG9IjeEkH0g9f0tSF9F7ouNaWW
+4+zDI/tSw8LSDAYQ5e+hXE1Kb2jXbBdG0XaLVscaDIAcnEWlNDELLBKs50eTH9fd
+wcQiKYA8Uhf+LeGA4B1nNSuWtHY/400okAa4ht34ac1OOIFxdwte6oat5ZYj1s0A
+YIc7GNa8K7GYEG8ZGDsM57enHTCjAXgViFwNGUlXaLW9Ej9K7PWk9WYawBu7BI6/
+U1NrKfFtMiFe9OAE7DcQYCl6Yr0maVODVPMaGRM3GXVQ8xo0AORMQkniTub/YhgZ
+9yqsd10kMZIOABY4pxIO6pWtHhoXyL9GRPN5VoCbHUNs66EE+rwOJ25Lg7XbpkXC
+Y+CMAB3ZLkq/o8tzsbPaE513abvZFICRp9UfDZuSaf2OLgOj57dlmBwpW38UgJAs
+rjY19W+Dm9dIv6gwO47zPmMQwLLQpAymfkeVPpERDiHCAYUNwK3K8P8eguIQ8Ve6
+QQCmkS6ALoAuALMD/Ae2AlWfnKYwngAAAABJRU5ErkJggg=="/>
+</symbol>
+<g mask="url(#ma15)">
+<g transform="matrix(.078125,0,0,.078125,18.5,364.23805)">
+<symbol id="im17" viewBox="0 0 128 128">
+<image width="128" height="128" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAIAAABMXPacAAAMMElEQVR4nO1d224b
+xxmef3ZJObLrHFCndgPU7p3zAkEKkBQduSQl1UZ8wd4ZWlKq0ibonR9AD9C7omjr
+Ng2L3tkXKeJaB8OuJVJI8wy9iQu0tRP3ZMmRLXIPnVnqYImH/Wd3ZncW4WcDsiVx
+dna+OfznATJCooCkO/B1x4iAhDEiIGGMCEgYIwISxoiAhJFuAorV992t7eZKI+mO
+hEe6CShULM/1IAvNPzWS7ktIpJiA71+uP3/ueOxfABurjaS7ExIpJiBXtojndf9t
+msba0u+S7U84pJWAfGWeeJ298efvsbH6+yQ7FBapJaA06x3+jkFg/U4jkc5EQSoJ
+yFdqnuv2fr+12gBI2RulrLsM1eqNR0+WPOL1/ogS2rzzUfxdioL0EVAoWW6/0Sf8
+ZeDNc9nr16/H3KUoSBkBpavXnn352Os//hxAaCtViyBlBORKFhkw/btgR8Ar2bFb
+t1KzCNJEQL68QLydYcO/h407qRFJ00XA7JDNZx/sJBgHY3X1Q/U9koDUEFCYtjzH
+wxBA+EYErZQYJ1JDQL5sYYffXwTsbypE0nQQMFGynKFnby8YA600GCdSQMDi4uK9
+v3yOnv274Boxpa1l3RdBCggYonkNRypOAt0JuHRp4b877eGy/xAY1Fhf0dpMrTsB
+SNFzENjrtfTWCbQmoDhtOXaU8efQ/DTWmoBcaVZCKwAXv3eOneQSmlIAfQm4UP6R
+TdpR538XGjuN9SUgX7L6Gv1DgL3kCePk8vLPpbQmF5oSkCvXiedIbJACNLVcBDoS
+wPbru58+wIie3AGJNlC8dsz45BPtRFIdCciVa8Tr4/LtBbCJnTHddgezVwHQ1qp2
+irF2BDDN63/tHZTZGUhzhXvhsboCwPj4sTsf/ypyH2VCOwIKlZrbL+KhFwbAur+t
+l678eHv7OUGQwFZMS7NAUr0ImLw8v7NjY4byiGSZL9c8zK4FhGYzzVu/Dd9F2dCL
+gECX7x6AmJmNpd/s/39q6qdbzibmEbotAo0IyE/ViOOihr/fIBbKlotbOhlC76/q
+Ig7pRADO5wUEjLHsWk/cA1sET90tZAstbYIYdSEgX5nFSZ7D9pAX46UDGjF08dVo
+QYDv83qA0qgAzDNkrdEY2M6nDzAGjH0RVrCn8pFwDxYWFv76D8exXZQMg7Ao4P0H
+lIIOuU2xElCt3ni8ueoBGyKPg01VD/DeLjZhmysfBU5b/EZEuq5jzgV4GZqIeKqW
+gHem5xw2t10/kSiyZZOaZnMpONxqolJ33DCGPHY4e92AFpdNDDh98uzNm4sh2hF8
+qDwwjfTZs2dsnKE7r9lUl2RPJoIedqEgoqHP5G/ALX5Axj1TRbRdeAKK71rODhtj
+yqa45zckx3nSH5Ch9D7avc5VChelFQj3A7g27VGSIZl7S7+OfoxjP1+6eq397//Y
+DluabnfjVjncRxHCrytpEQwFHzyg/kFmGJS87g4SzwLa6EW1uvho6++E2MTlK9Df
+SUDpDB8GNunEQ6wKpRo/6uXtgYHoihM+KWyNgGsAps+HCOCz5mAzSWi4e0B5lGcj
+xAfjWARB6O5RjBHXMC6+9UZvbMAhAorTdS6SazP0XZjfhhBLm6F4acHZaevzOj4V
+fHq/uJ0e3YLyU7Oem9xu04toAQ1yAlvkgQtUprFx+0Ca6HMG5CuzXILUg4OImaeB
+OWUxwwRz7bAs2//dJqYsJ/GtCIhpSChAkKvUdlVvKb0KCz73jeyLPozd7w/6QKFc
+94gTS6+5Btr9Alx+ME6dLN+8+UO5zyhaFvmSOo4LvtToCxlxMgI0YzZv9zF1DFvd
++OgEkZ4A7EtrbCRM71vHz8Wg8R8BWw+T0+91SIdrNb5hSt2z2BubJHN/9ejc3/3p
+8A9jfa1DH8+/eFycZCrzq2Oa5pBOXvmg/ewp7OkOAjbCoeBvD5nWykAzX/D5JmRc
+3HsqP8MpodmXM3dv6jjcgWBblvNw9zV2taIQhLC5b5C1pcawX8G0I6rR8EUHAqYb
+/cFNA09Qrp59+CebF5ixjJXwxDkgoFkASGhUqzcebi4JbQO+9YSsIxw+WALY6Bcq
+NbHDih2xNLO2nG4OhhRnGQggBmBTowR0HN6VrSUPFTiy3zxwH7oe7u8Q4K+8uSS2
+9AmvHdVaxtpuxZRMvhif3Bb6CD+IXiJrf2yIfUoDhEmPZfPNMDBuu4NPiHaLH0eb
+uAiGg2fACeMbeuZHDAJ7QSaCi8miXPQga4KO/jBmFh7ALGplBHg1m9VTA+hFmNEP
+W7QupJ2Lh6E5W2JiGXdzJ6D0isIXNywxaYPLfNBaCXPUhTc05mZ+Ava2qA5/5uUZ
+6XYeuRB244AfrRQ2xCiSTzk/VeNCkaCQcFpjDkKMvkFhfbkR+olRnfrFqXnbsYW2
+S2R8VfwQNrpEm/t7bURGbqYOtpjhWsMKAqK+M1nVWORMwwuVus02I0F7kT6lTNCJ
+Ibvgh64np0aptH0gX5n3PFS24sGz9UhWwWeldeGPPmlKWsEyN+LcdA1ssVCcxFNH
+Raux+PZ9mfNG8kkYRi5Kbh3kKhYRMm1FCFIaBPmiCK+s7QmUuPKjLY1m7Elb2Jyy
+w5BekVSJLDhRqbuekFwEG/EmbfHwJ9EIdgobClaqKmG8wKMc0WJR7OVkClNzLldf
+sFBX60OhNoTXKqVvrIEovmvZ2+gsGibvh7LzoBpX1G4XSA4SqSWTK8/iSnyorXim
+3B6AkfMSyZfDdCyGjGK1BCDzRjPUiD+EovcWml7EoKYoT9Jr2wFnHevBm+fG4r/2
+ApMaHoO9RC0BmJrPSZWVLJRnMUqY6qsIFB/CPE8oYJolVblhYqruOEG6gHr5OHkp
+KKmrjwoz826nM/x3Un8IoySNhOxxRcuy/xm8Bx0HJenB+1BLAMrHlFxVVaQbQOkx
+oJCA4uKijag+SccSCyHF1IZVXdhGJQHlOdsLsrcAOXMyvI8+X15oroRPV8epAqnV
+hDH7T2hBuzhdtx0uX4Gf+jH5dpjy3Bg/cIoJwGXXCBuimW7h9tbL5UHAQN8+uyZC
+Q96/kDugf4p1MaUEYEQg7OtVqze+2FxhWsUQuba7F52g2DjUYsWyA5UxxTJCwuZo
+DAFMXnQfAa/JIuBlg1cQoagoS4niKCaVBCCOOGrQ5mAZ42J1of2k7QkU6D4MgNfG
+6JCC3X60/VKgnGYaCtNMVBHgR7EHB9cPUoP5tZGkw80YEXMVu/XVzfGN27/s+3OM
+KmBSY02ZsVYVARcq9U5g3TA/ovjI6i78wPJ8A4HM3F3w//TL1UlcVVRFQK5UI4Jm
+OL9WC68IpSiHfa9YSba1enA24A4qhZKoMgJwITddLb+/ZKkG3cp8x7LZu/4Rjbkl
+TqkkqooA1MyiBFzqF2aJvZAG35IIZICp6sGqgMpQYmUEoK7gkVUQICT83Q7VB3X2
+OHVngF6VkqKA8XT65HcVJVcpIYCb2h/GXA9GLXoLLcmCGgJm5uyOQNxZGAAXX02P
++vdtRFYXghAuAxIDVbGh4YoHo+DnJBrZzP4VAt2bA4jKWqaU0qaa4DglBISocINB
+V2V76fVv3vnDz3p/Wrp6bfvxv1SJVGoic4kiAiLeQdsL8HH+O5nA8CFuuXsoVs8C
+2QFFqoAaAiReA8lB15c/FLJHVquLX2x9zmmQxIQ6ZVjNFiRDBuUDT8h6hHlXXFx0
+Pvsbr+ItozOpWQHF6vv2k68iNMDnumEaa7fliH38ZsrPHkQ/GxRdRamAgGnLtsO8
+K/iZz6ZJ/yxS7gWJvQoQ4XVvakJzaPW3cJBPQKFUc4PsoL2dAAo00+dyKunIlevg
+hSlKS6nRVOAVUJCkJ1hugQIcGyBZqsNE2XIF9QZFWSTJEcC2G2KcP2vGH5i+j3x5
+jhA72UQ2BQQEyaC8oiCvpqlLvY4L5Xqnu2cGUKEklTPWFQB+OUF1/tUoKMzMe36w
+9CASFEVKSyZgQPahZMlSHd6ZWmg7bdLv+idFbhnZpQrKc94L8aBc6APIGoYKyVId
+Ll5aeN5u+ywc4kFFoK5kAnIVfn8U2XM2jR0/fu/jX8h9RGyYvDzfbndeNHUDmC3Z
+XgHpK2DW8/3e46dOxSxZKsLklQ92vnraLQStoq6IZALYUXb+DZqgZKkIPEZvq8OE
+C+kWIS0Ewa8zRgQkjBEBCWNEQMIYEZAwRgQkjBEBCWNEQML4Px6dmsw5/coIAAAA
+AElFTkSuQmCC"/>
+</symbol>
+<use xlink:href="#im17" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 377.23805)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">17/01/1857</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 390.23799)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.7148 158.3848 160.6068 163.9368 169.4988 175.06079 180.62279 183.40079 186.17879 191.74079 197.30278 202.86478 208.42678 213.98877 217.31877 222.88077 228.44277">Pirago, Longarone</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 407.23799)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 32.800004 38.362005 44.470006 47.800004">Casamento</tspan></text>
+<mask id="ma18">
+<g transform="matrix(.078125,0,0,.078125,18.5,394.23799)">
+<use xlink:href="#im19" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<symbol id="im19" viewBox="0 0 128 128">
+<image width="128" height="128" xlink:href="data:image/png;base64,
+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"/>
+</symbol>
+<g mask="url(#ma18)">
+<g transform="matrix(.078125,0,0,.078125,18.5,394.23799)">
+<symbol id="im20" viewBox="0 0 128 128">
+<image width="128" height="128" xlink:href="data:image/png;base64,
+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"/>
+</symbol>
+<use xlink:href="#im20" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 407.23799)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">29/07/1889</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 420.2384)" font-size="10" font-family="Helvetica"><tspan y="-3" x="172.8623 177.8623 183.4243 186.7543 192.3163 197.3163 202.8783 205.6563 212.8783 218.44029 223.44029 228.44029">Teresa Rosso</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 433.2384)" font-size="10" font-family="Helvetica"><tspan y="-3" x="127.2861 134.5081 136.7301 142.2921 145.0701 152.2921 157.8541 162.8541 168.41609 171.7461 174.5241 180.08609 182.86409 185.64209 192.86409 196.19409 201.75609 206.75609 211.75609 217.31809 222.88008 228.44208">Rio Deserto, Urussanga</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 450.2384)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 32.800004 38.362005 44.470006 47.800004">Casamento</tspan></text>
+<mask id="ma21">
+<g transform="matrix(.078125,0,0,.078125,18.5,437.2384)">
+<use xlink:href="#im19" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma21)">
+<g transform="matrix(.078125,0,0,.078125,18.5,437.2384)">
+<use xlink:href="#im20" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 450.2384)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">13/09/1894</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 463.2384)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.1729 158.9509 161.1729 166.7349 171.7349 177.29689 182.85889 188.42089 193.98288 196.76088 203.98288 209.54488 212.87488 218.43688 223.99887 226.22087 228.44287">Giovanna Cordella</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 476.2384)" font-size="10" font-family="Helvetica"><tspan y="-3" x="127.2861 134.5081 136.7301 142.2921 145.0701 152.2921 157.8541 162.8541 168.41609 171.7461 174.5241 180.08609 182.86409 185.64209 192.86409 196.19409 201.75609 206.75609 211.75609 217.31809 222.88008 228.44208">Rio Deserto, Urussanga</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 493.2384)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma22">
+<g transform="matrix(.078125,0,0,.078125,18.5,480.2384)">
+<use xlink:href="#im23" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<symbol id="im23" viewBox="0 0 128 128">
+<image width="128" height="128" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAAAAADmVT4XAAAAcklEQVR4nO3WMQ4A
+IAgAMfn/o3U3Dg4kiOntQEdiFBcAAABtATNpEQAAAAAAAAAAAAAAAMBpbt+d1ukY
+AAAAAAAAwJOAq77+iAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHoA
+sgIAACgHLOIecIH6GSz1AAAAAElFTkSuQmCC"/>
+</symbol>
+<g mask="url(#ma22)">
+<g transform="matrix(.078125,0,0,.078125,18.5,480.2384)">
+<symbol id="im24" viewBox="0 0 128 128">
+<image width="128" height="128" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAIAAABMXPacAAABTUlEQVR4nO3ZsRGD
+QAwAQdOXY7dBbbTh2IW5Bsw/N+DdWIFGF2p5kFrqBf6dADEBYgLEBIgJEBMgdpkA
+z9e6a/7z3iZtMpYAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEB
+YgLEBIgJEBMgJkBMgJgAMQFivwfYe5EbOxJbgAEEiAkQEyAmQEyAmAAxAWICxASI
+CRATICZATICYALEmwMk8ZGICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgJgA
+MQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBM
+gJgAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMg
+JkBMgJgAMQFiAsQEiAkQE4ApBIgJEBMgJkBMgJgAMQFiX25LUJDMh6JnAAAAAElF
+TkSuQmCC"/>
+</symbol>
+<use xlink:href="#im24" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 493.2384)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">04/06/1921</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 506.2384)" font-size="10" font-family="Helvetica"><tspan y="-3" x="178.4189 183.9809 189.5429 195.10489 198.43489 203.99689 206.77489 215.10489 220.66689 222.88889 225.11089 230.67288">Lauro M&#x00fc;ller</tspan></text>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 10.5 1186.481 L 260.5 1186.481 L 260.5 1090.481 L 10.5 1090.481 L 10.5 1186.481 Z " fill="#a9c2ff"/>
+<path transform="matrix(1,0,0,1,10.5,224.92505)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 96 L 0 96 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 250.92505)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="64.10693 74.99613 78.88533 87.43653 95.223339 103.01014 111.56134 120.11254 124.00174 127.89094 139.55294 147.33974 152.78855 156.67774 165.22893">Giovanni Mariot</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 269.92506)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma25">
+<g transform="matrix(.078125,0,0,.078125,18.5,256.92506)">
+<use xlink:href="#im16" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma25)">
+<g transform="matrix(.078125,0,0,.078125,18.5,256.92506)">
+<use xlink:href="#im17" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 269.92506)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">04/08/1854</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 282.92506)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.7148 158.3848 160.6068 163.9368 169.4988 175.06079 180.62279 183.40079 186.17879 191.74079 197.30278 202.86478 208.42678 213.98877 217.31877 222.88077 228.44277">Pirago, Longarone</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 299.92506)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma26">
+<g transform="matrix(.078125,0,0,.078125,18.5,286.92506)">
+<use xlink:href="#im23" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma26)">
+<g transform="matrix(.078125,0,0,.078125,18.5,286.92506)">
+<use xlink:href="#im24" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 221.6357 299.92506)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.8400008 8.618001 14.180001 19.742003 25.304003">~ 1887</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 312.92506)" font-size="10" font-family="Helvetica"><tspan y="-3" x="200.6309 206.1929 211.7549 217.3169 222.87889 228.44089">Laguna</tspan></text>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 10.5 403.9741 L 260.5 403.9741 L 260.5 307.9741 L 10.5 307.9741 L 10.5 403.9741 Z " fill="#ffc1a9"/>
+<path transform="matrix(1,0,0,1,10.5,1007.4319)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 96 L 0 96 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 1033.4319)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="58.26904 69.93104 77.71784 83.16664 91.71784 100.26904 108.05585 113.50465 117.393848 122.05585 129.84265 133.73184 145.39385 153.18065 158.62946 162.51865 171.06984">Margherita Mariot</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 1052.4319)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma27">
+<g transform="matrix(.078125,0,0,.078125,18.5,1039.4319)">
+<use xlink:href="#im1" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma27)">
+<g transform="matrix(.078125,0,0,.078125,18.5,1039.4319)">
+<use xlink:href="#im2" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 1052.4319)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">04/01/1868</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 1065.4319)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.7148 158.3848 160.6068 163.9368 169.4988 175.06079 180.62279 183.40079 186.17879 191.74079 197.30278 202.86478 208.42678 213.98877 217.31877 222.88077 228.44277">Pirago, Longarone</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 1082.4319)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma28">
+<g transform="matrix(.078125,0,0,.078125,18.5,1069.4319)">
+<use xlink:href="#im4" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma28)">
+<g transform="matrix(.078125,0,0,.078125,18.5,1069.4319)">
+<use xlink:href="#im5" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 1082.4319)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 16.686 22.248002 25.03 27.812 33.374 38.936 44.498">about 1889</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 1095.4319)" font-size="10" font-family="Helvetica"><tspan y="-3" x="167.291 173.961 179.523 185.08499 187.86299 193.42499 196.20299 203.42499 208.98699 211.76499 217.32698 220.65699 222.87899 228.44098">Santa Catarina</tspan></text>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 304.428 172.4986 L 554.428 172.4986 L 554.428 102.4986 L 304.428 102.4986 L 304.428 172.4986 Z " fill="#ffc1a9"/>
+<path transform="matrix(1,0,0,1,304.428,1238.9075)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 70 L 0 70 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 312.428 1264.9075)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="78.48975 90.15176 97.93856 103.38736 107.27656 115.06336 118.95256 129.06337 134.51218 142.29898 146.96099 151.62299">Maria Bratti</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 324.428 1283.9075)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma29">
+<g transform="matrix(.078125,0,0,.078125,312.428,1270.9075)">
+<use xlink:href="#im1" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma29)">
+<g transform="matrix(.078125,0,0,.078125,312.428,1270.9075)">
+<use xlink:href="#im2" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 496.3792 1283.9075)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">27/09/1839</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 324.428 1300.9075)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma30">
+<g transform="matrix(.078125,0,0,.078125,312.428,1287.9075)">
+<use xlink:href="#im4" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma30)">
+<g transform="matrix(.078125,0,0,.078125,312.428,1287.9075)">
+<use xlink:href="#im5" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 10.5 186.5 L 260.5 186.5 L 260.5 103.5 L 10.5 103.5 L 10.5 186.5 Z " fill="#a9c2ff"/>
+<path transform="matrix(1,0,0,1,10.5,1224.906)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 83 L 0 83 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 1250.906)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="74.21729 83.5553 87.444499 95.2313 99.8933 105.3421 113.8933 117.7825 129.4445 137.23131 142.68012 146.5693 155.1205">Pietro Mariot</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 1269.906)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma31">
+<g transform="matrix(.078125,0,0,.078125,18.5,1256.906)">
+<use xlink:href="#im16" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma31)">
+<g transform="matrix(.078125,0,0,.078125,18.5,1256.906)">
+<use xlink:href="#im17" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 216.3525 1269.906)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 30.592003">03/1865</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 1282.906)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.7148 158.3848 160.6068 163.9368 169.4988 175.06079 180.62279 183.40079 186.17879 191.74079 197.30278 202.86478 208.42678 213.98877 217.31877 222.88077 228.44277">Pirago, Longarone</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 1299.906)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma32">
+<g transform="matrix(.078125,0,0,.078125,18.5,1286.906)">
+<use xlink:href="#im23" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma32)">
+<g transform="matrix(.078125,0,0,.078125,18.5,1286.906)">
+<use xlink:href="#im24" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 610.3835 588.569 L 860.3835 588.569 L 860.3835 505.569 L 610.3835 505.569 L 610.3835 588.569 Z " fill="#ffc1a9"/>
+<path transform="matrix(1,0,0,1,610.3835,822.83706)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 83 L 0 83 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 618.3835 848.83706)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="65.38525 72.90465 80.690059 86.13746 93.92286 101.70826 109.49366 113.38706 121.94247 129.72786 133.62126 143.73065 152.28604 160.84143">Teresa de Bona</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 630.3835 867.83706)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma33">
+<g transform="matrix(.078125,0,0,.078125,618.3835,854.83706)">
+<use xlink:href="#im1" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma33)">
+<g transform="matrix(.078125,0,0,.078125,618.3835,854.83706)">
+<use xlink:href="#im2" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 802.3347 867.83706)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">15/09/1796</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 618.3835 880.83706)" font-size="10" font-family="Helvetica"><tspan y="-3" x="161.1582 163.9362 169.4982 175.0602 180.6222 183.40019 186.17819 191.74019 197.30219 202.86418 208.42618 213.98818 217.31818 222.88018 228.44217">Igne, Longarone</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 630.3835 897.83706)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma34">
+<g transform="matrix(.078125,0,0,.078125,618.3835,884.83706)">
+<use xlink:href="#im4" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma34)">
+<g transform="matrix(.078125,0,0,.078125,618.3835,884.83706)">
+<use xlink:href="#im5" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 796.4949 897.83706)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 16.686003 22.248003 25.026003 30.866003 33.644006 39.206007 44.768007 50.330007">1871 ~ 1879</tspan></text>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 304.428 265.4986 L 554.428 265.4986 L 554.428 182.4986 L 304.428 182.4986 L 304.428 265.4986 Z " fill="#a9c2ff"/>
+<path transform="matrix(1,0,0,1,304.428,1145.9075)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 83 L 0 83 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 312.428 1171.9075)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="44.53564 48.424844 56.976045 65.527248 73.31405 80.31405 84.20325 92.75445 96.13125 106.24205 114.79325 123.34445 131.13126 135.02045 143.57164 147.46083 159.12284 166.90964 172.35845 176.24764 184.79883">Ignazio Angelo Mariot</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 324.428 1190.9075)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma35">
+<g transform="matrix(.078125,0,0,.078125,312.428,1177.9075)">
+<use xlink:href="#im16" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma35)">
+<g transform="matrix(.078125,0,0,.078125,312.428,1177.9075)">
+<use xlink:href="#im17" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 496.3792 1190.9075)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">24/09/1829</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 312.428 1203.9075)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.7148 158.3848 160.6068 163.9368 169.4988 175.06079 180.62279 183.40079 186.17879 191.74079 197.30278 202.86478 208.42678 213.98877 217.31877 222.88077 228.44277">Pirago, Longarone</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 324.428 1220.9075)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma36">
+<g transform="matrix(.078125,0,0,.078125,312.428,1207.9075)">
+<use xlink:href="#im23" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma36)">
+<g transform="matrix(.078125,0,0,.078125,312.428,1207.9075)">
+<use xlink:href="#im24" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 10.5 884.864 L 260.5 884.864 L 260.5 788.864 L 10.5 788.864 L 10.5 884.864 Z " fill="#ffc1a9"/>
+<path transform="matrix(1,0,0,1,10.5,526.542)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 96 L 0 96 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 552.542)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="69.94141 80.05221 85.50101 89.390209 97.94141 101.830608 110.381809 118.16861 122.05781 133.7198 141.5066 146.95542 150.8446 159.3958">Brigida Mariot</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 571.542)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma37">
+<g transform="matrix(.078125,0,0,.078125,18.5,558.542)">
+<use xlink:href="#im1" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma37)">
+<g transform="matrix(.078125,0,0,.078125,18.5,558.542)">
+<use xlink:href="#im2" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 571.542)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">06/01/1859</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 584.542)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.7148 158.3848 160.6068 163.9368 169.4988 175.06079 180.62279 183.40079 186.17879 191.74079 197.30278 202.86478 208.42678 213.98877 217.31877 222.88077 228.44277">Pirago, Longarone</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 601.542)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma38">
+<g transform="matrix(.078125,0,0,.078125,18.5,588.542)">
+<use xlink:href="#im4" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma38)">
+<g transform="matrix(.078125,0,0,.078125,18.5,588.542)">
+<use xlink:href="#im5" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 601.542)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">15/05/1861</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 614.542)" font-size="10" font-family="Helvetica"><tspan y="-3" x="186.1777 191.7397 197.3017 202.8637 208.42569 213.98769 217.31769 222.87969 228.44168">Longarone</tspan></text>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 10.5 669.572 L 260.5 669.572 L 260.5 586.572 L 10.5 586.572 L 10.5 669.572 Z " fill="#ffc1a9"/>
+<path transform="matrix(1,0,0,1,10.5,741.834)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 83 L 0 83 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 767.834)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="45.94043 53.45983 61.24663 66.695438 74.48224 82.26904 90.05585 93.945049 104.05585 109.50465 113.393848 121.945049 125.83424 134.38544 142.17224 146.06143 157.72344 165.51024 170.95905 174.84824 183.39943">Teresa Brigida Mariot</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 786.834)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma39">
+<g transform="matrix(.078125,0,0,.078125,18.5,773.834)">
+<use xlink:href="#im1" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma39)">
+<g transform="matrix(.078125,0,0,.078125,18.5,773.834)">
+<use xlink:href="#im2" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 786.834)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">22/08/1863</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 799.834)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.7148 158.3848 160.6068 163.9368 169.4988 175.06079 180.62279 183.40079 186.17879 191.74079 197.30278 202.86478 208.42678 213.98877 217.31877 222.88077 228.44277">Pirago, Longarone</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 816.834)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma40">
+<g transform="matrix(.078125,0,0,.078125,18.5,803.834)">
+<use xlink:href="#im4" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma40)">
+<g transform="matrix(.078125,0,0,.078125,18.5,803.834)">
+<use xlink:href="#im5" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 10.5 778.864 L 260.5 778.864 L 260.5 682.864 L 10.5 682.864 L 10.5 778.864 Z " fill="#a9c2ff"/>
+<path transform="matrix(1,0,0,1,10.5,632.542)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 96 L 0 96 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 658.542)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="73.43799 85.09999 92.886798 98.335597 106.1224 114.6736 118.5628 130.2248 138.0116 143.4604 147.3496 155.90079">Marco Mariot</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 677.542)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma41">
+<g transform="matrix(.078125,0,0,.078125,18.5,664.542)">
+<use xlink:href="#im16" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma41)">
+<g transform="matrix(.078125,0,0,.078125,18.5,664.542)">
+<use xlink:href="#im17" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 677.542)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">03/03/1861</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 690.542)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.7148 158.3848 160.6068 163.9368 169.4988 175.06079 180.62279 183.40079 186.17879 191.74079 197.30278 202.86478 208.42678 213.98877 217.31877 222.88077 228.44277">Pirago, Longarone</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 707.542)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma42">
+<g transform="matrix(.078125,0,0,.078125,18.5,694.542)">
+<use xlink:href="#im23" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma42)">
+<g transform="matrix(.078125,0,0,.078125,18.5,694.542)">
+<use xlink:href="#im24" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 707.542)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">09/10/1939</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 720.542)" font-size="10" font-family="Helvetica"><tspan y="-3" x="178.4189 183.9809 189.5429 195.10489 198.43489 203.99689 206.77489 215.10489 220.66689 222.88889 225.11089 230.67288">Lauro M&#x00fc;ller</tspan></text>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 610.3835 668.569 L 860.3835 668.569 L 860.3835 598.569 L 610.3835 598.569 L 610.3835 668.569 Z " fill="#a9c2ff"/>
+<path transform="matrix(1,0,0,1,610.3835,742.83706)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 70 L 0 70 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 618.3835 768.83706)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="74.21729 83.5553 87.444499 95.2313 99.8933 105.3421 113.8933 117.7825 129.4445 137.23131 142.68012 146.5693 155.1205">Pietro Mariot</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 630.3835 787.83706)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma43">
+<g transform="matrix(.078125,0,0,.078125,618.3835,774.83706)">
+<use xlink:href="#im16" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma43)">
+<g transform="matrix(.078125,0,0,.078125,618.3835,774.83706)">
+<use xlink:href="#im17" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 796.4949 787.83706)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 16.686003 22.248003 25.026003 30.866003 33.644006 39.206007 44.768007 50.330007">1789 ~ 1796</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 630.3835 804.83706)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma44">
+<g transform="matrix(.078125,0,0,.078125,618.3835,791.83706)">
+<use xlink:href="#im23" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma44)">
+<g transform="matrix(.078125,0,0,.078125,618.3835,791.83706)">
+<use xlink:href="#im24" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 796.4949 804.83706)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 16.686003 22.248003 25.026003 30.866003 33.644006 39.206007 44.768007 50.330007">1829 ~ 1871</tspan></text>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 304.428 567.2178 L 554.428 567.2178 L 554.428 484.2178 L 304.428 484.2178 L 304.428 567.2178 Z " fill="#ffc1a9"/>
+<path transform="matrix(1,0,0,1,304.428,844.18826)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 83 L 0 83 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 312.428 870.18826)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="58.26904 69.93104 77.71784 83.16664 91.71784 100.26904 108.05585 113.50465 117.393848 122.05585 129.84265 133.73184 145.39385 153.18065 158.62946 162.51865 171.06984">Margherita Mariot</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 324.428 889.18826)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma45">
+<g transform="matrix(.078125,0,0,.078125,312.428,876.18826)">
+<use xlink:href="#im1" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma45)">
+<g transform="matrix(.078125,0,0,.078125,312.428,876.18826)">
+<use xlink:href="#im2" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 496.3792 889.18826)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">08/03/1827</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 312.428 902.18826)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.7148 158.3848 160.6068 163.9368 169.4988 175.06079 180.62279 183.40079 186.17879 191.74079 197.30278 202.86478 208.42678 213.98877 217.31877 222.88077 228.44277">Pirago, Longarone</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 324.428 919.18826)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma46">
+<g transform="matrix(.078125,0,0,.078125,312.428,906.18826)">
+<use xlink:href="#im4" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma46)">
+<g transform="matrix(.078125,0,0,.078125,312.428,906.18826)">
+<use xlink:href="#im5" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 10.5 1292.481 L 260.5 1292.481 L 260.5 1196.481 L 10.5 1196.481 L 10.5 1292.481 Z " fill="#a9c2ff"/>
+<path transform="matrix(1,0,0,1,10.5,118.92505)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 96 L 0 96 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 144.92505)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="70.70361 80.814418 88.60122 96.38802 104.17483 109.62363 117.41043 121.29963 132.96163 140.74843 146.19724 150.08643 158.63762">Cesare Mariot</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 163.92505)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma47">
+<g transform="matrix(.078125,0,0,.078125,18.5,150.92505)">
+<use xlink:href="#im16" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma47)">
+<g transform="matrix(.078125,0,0,.078125,18.5,150.92505)">
+<use xlink:href="#im17" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 163.92505)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">09/03/1850</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 176.92505)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.7148 158.3848 160.6068 163.9368 169.4988 175.06079 180.62279 183.40079 186.17879 191.74079 197.30278 202.86478 208.42678 213.98877 217.31877 222.88077 228.44277">Pirago, Longarone</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 193.92505)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma48">
+<g transform="matrix(.078125,0,0,.078125,18.5,180.92505)">
+<use xlink:href="#im23" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma48)">
+<g transform="matrix(.078125,0,0,.078125,18.5,180.92505)">
+<use xlink:href="#im24" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 196.6113 193.92505)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 16.686003 22.248003 25.026003 30.866003 33.644006 39.206007 44.768007 50.330007">1870 ~ 1879</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 206.92505)" font-size="10" font-family="Helvetica"><tspan y="-3" x="191.7441 198.4141 203.97609 209.53809 215.10009 220.66208 226.22408 231.22408">Budapest</tspan></text>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 304.428 996.5931 L 554.428 996.5931 L 554.428 857.5931 L 304.428 857.5931 L 304.428 996.5931 Z " fill="#a9c2ff"/>
+<path transform="matrix(1,0,0,1,304.428,414.81294)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 139 L 0 139 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 312.428 440.81294)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="45.44482 57.10682 64.89362 69.555629 74.21763 82.00443 90.55563 94.44483 98.33403 106.88523 115.43643 123.223239 130.22324 134.11243 142.66362 146.55281 158.21482 166.00162 171.45043 175.33962 183.89081">Matteo Ignazio Mariot</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 324.428 459.81294)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma49">
+<g transform="matrix(.078125,0,0,.078125,312.428,446.81294)">
+<use xlink:href="#im16" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma49)">
+<g transform="matrix(.078125,0,0,.078125,312.428,446.81294)">
+<use xlink:href="#im17" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 496.3792 459.81294)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">30/01/1818</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 312.428 472.81294)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.7148 158.3848 160.6068 163.9368 169.4988 175.06079 180.62279 183.40079 186.17879 191.74079 197.30278 202.86478 208.42678 213.98877 217.31877 222.88077 228.44277">Pirago, Longarone</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 324.428 489.81294)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 32.800004 38.362005 44.470006 47.800004">Casamento</tspan></text>
+<mask id="ma50">
+<g transform="matrix(.078125,0,0,.078125,312.428,476.81294)">
+<use xlink:href="#im19" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma50)">
+<g transform="matrix(.078125,0,0,.078125,312.428,476.81294)">
+<use xlink:href="#im20" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 496.3792 489.81294)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">03/02/1847</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 312.428 502.81294)" font-size="10" font-family="Helvetica"><tspan y="-3" x="161.168 167.838 173.4 178.96199 184.52399 187.30199 193.40999 198.97199 204.53398 207.31198 212.87398 218.43598 223.99797 226.21997 228.44197">Anna Fontanella</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 312.428 515.8129)" font-size="10" font-family="Helvetica"><tspan y="-3" x="186.1777 191.7397 197.3017 202.8637 208.42569 213.98769 217.31769 222.87969 228.44168">Longarone</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 324.428 532.8129)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma51">
+<g transform="matrix(.078125,0,0,.078125,312.428,519.8129)">
+<use xlink:href="#im23" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma51)">
+<g transform="matrix(.078125,0,0,.078125,312.428,519.8129)">
+<use xlink:href="#im24" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 497.1165 532.8129)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 4.8240005 10.3880009 13.162002 18.726002 24.290003 27.064003 32.628007 38.19201 43.756013">11/05/1896</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 312.428 545.8129)" font-size="10" font-family="Helvetica"><tspan y="-3" x="127.2861 134.5081 136.7301 142.2921 145.0701 152.2921 157.8541 162.8541 168.41609 171.7461 174.5241 180.08609 182.86409 185.64209 192.86409 196.19409 201.75609 206.75609 211.75609 217.31809 222.88008 228.44208">Rio Deserto, Urussanga</tspan></text>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 10.5 1400.906 L 260.5 1400.906 L 260.5 1304.906 L 10.5 1304.906 L 10.5 1400.906 Z " fill="#a9c2ff"/>
+<path transform="matrix(1,0,0,1,10.5,10.5)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 96 L 0 96 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 36.5)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="50.10352 59.44152 63.330724 71.11752 75.779529 81.228328 89.779529 93.668727 105.33073 113.11753 118.56633 122.45553 131.00672 135.66872 139.5579 144.21991 153.5579 157.4471 165.2339 170.68271 179.2339">Pietro Mariot (Piero)</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 55.5)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.2220008 12.784001 18.346003 23.908003 26.686003 35.578004 41.140005 47.248006 50.578004">Nascimento</tspan></text>
+<mask id="ma52">
+<g transform="matrix(.078125,0,0,.078125,18.5,42.5)">
+<use xlink:href="#im16" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma52)">
+<g transform="matrix(.078125,0,0,.078125,18.5,42.5)">
+<use xlink:href="#im17" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 203.1885 55.5)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 4.8240005 10.3880009 13.162002 18.726002 24.290003 27.064003 32.628007 38.19201 43.756013">11/01/1848</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 68.5)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.7148 158.3848 160.6068 163.9368 169.4988 175.06079 180.62279 183.40079 186.17879 191.74079 197.30278 202.86478 208.42678 213.98877 217.31877 222.88077 228.44277">Pirago, Longarone</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 85.5)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma53">
+<g transform="matrix(.078125,0,0,.078125,18.5,72.5)">
+<use xlink:href="#im23" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma53)">
+<g transform="matrix(.078125,0,0,.078125,18.5,72.5)">
+<use xlink:href="#im24" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 85.5)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">07/12/1933</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 98.5)" font-size="10" font-family="Helvetica"><tspan y="-3" x="127.2861 134.5081 136.7301 142.2921 145.0701 152.2921 157.8541 162.8541 168.41609 171.7461 174.5241 180.08609 182.86409 185.64209 192.86409 196.19409 201.75609 206.75609 211.75609 217.31809 222.88008 228.44208">Rio Deserto, Urussanga</tspan></text>
+<path transform="matrix(1,0,0,-1,0,1411.406)" d="M 10.5 262.5 L 260.5 262.5 L 260.5 196.5 L 10.5 196.5 L 10.5 262.5 Z " fill="#a9c2ff"/>
+<path transform="matrix(1,0,0,1,10.5,1148.906)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 66 L 0 66 L 0 0 Z "/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 1174.906)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="68.37939 80.04139 83.93059 91.71739 100.26859 108.0554 111.944599 119.7314 123.6206 135.2826 143.0694 148.5182 152.4074 160.95859">Michele Mariot</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 30.5 1193.906)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<mask id="ma54">
+<g transform="matrix(.078125,0,0,.078125,18.5,1180.906)">
+<use xlink:href="#im23" x="0" y="0" width="128" height="128"/>
+</g>
+</mask>
+<g mask="url(#ma54)">
+<g transform="matrix(.078125,0,0,.078125,18.5,1180.906)">
+<use xlink:href="#im24" x="0" y="0" width="128" height="128"/>
+</g>
+</g>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 202.4512 1193.906)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">08/04/1864</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 18.5 1206.906)" font-size="10" font-family="Helvetica"><tspan y="-3" x="186.1777 191.7397 197.3017 202.8637 208.42569 213.98769 217.31769 222.87969 228.44168">Longarone</tspan></text>
+</g>
+</svg>
