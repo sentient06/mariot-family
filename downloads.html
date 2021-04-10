@@ -81,37 +81,53 @@ title: Mariot - Downloads
                 <div class="body">
                     <div class="core">
                         <div class="data">
-                            <div>
-                                <span class="title">
+                            <div class="row">
+                                <div class="title">
                                     Tipo:
-                                </span>
-                                <span class="value">
+                                </div>
+                                <div class="value">
                                     {{ file.type }}
-                                </span>
-                            </div>{% if file.author %}
-                            <div>
-                                <span class="title">
+                                </div>
+                            </div>{% if file.desc %}
+                            <div class="row">
+                                <div class="title">
+                                    Descrição:
+                                </div>
+                                <div class="value">
+                                    {{ file.desc }}
+                                </div>
+                            </div>{% endif %}{% if file.author %}
+                            <div class="row">
+                                <div class="title">
                                     Autor:
-                                </span>
-                                <span class="value">
+                                </div>
+                                <div class="value">
                                     {{ file.author }}
-                                </span>
+                                </div>
+                            </div>{% endif %}{% if file.revision %}
+                            <div class="row">
+                                <div class="title">
+                                    Última&nbsp;revisão:
+                                </div>
+                                <div class="value">
+                                    {{ file.revision }}
+                                </div>
                             </div>{% endif %}{% if file.source %}
-                            <div>
-                                <span class="title">
+                            <div class="row">
+                                <div class="title">
                                     Fonte:
-                                </span>
-                                <span class="value">
+                                </div>
+                                <div class="value">
                                     {{ file.source }}
-                                </span>{% if file.external_url %}
+                                </div>{% if file.external_url %}
                             </div>
-                            <div>
-                                <span class="title">
+                            <div class="row">
+                                <div class="title">
                                     URL:
-                                </span>
-                                <span class="value">
+                                </div>
+                                <div class="value">
                                     <a href="{{ file.external_url }}" target="_blank">{{ file.external_name }}</a>
-                                </span>{% endif %}
+                                </div>{% endif %}
                             </div>{% endif %}{% if file.player %}
                             <div class="player">
                                 <audio controls>
@@ -127,7 +143,7 @@ title: Mariot - Downloads
                         </div><!-- data -->{% if file.file %}
                         <div class="file">
                             <a href="downloads/{% if section.path %}{{ section.path }}/{% endif %}{{ file.file }}" download>
-                                <img src="{% if file.player %}assets/images/illustrations/file_mp3_2.png{% else %}assets/images/downloads/{{ file.image }}{% endif %}" />
+                                <img src="{% if file.icon %}assets/images/illustrations/{{ file.icon }}{% else %}assets/images/downloads/{{ file.image }}{% endif %}" />
                             </a>
                         </div><!-- file -->{% endif %}
                     </div><!-- core -->

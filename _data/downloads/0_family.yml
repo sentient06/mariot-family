@@ -1,0 +1,12 @@
+name: Árvores genealógicas
+path: misc
+files:
+  - year: "----"
+    anchor: "arvores"
+    title: Árvores genealógicas dos Mariot da província de Belluno
+    desc: "Todas as árvores genealógicas presentes neste site em formato PDF e um arquivo GEDCOM com as informações das mesmas árvores, começando em Pietro Mariot e terminando com seus bisnetos: 4 gerações, dos séculos XVIII ao XX."
+    type: ZIP (GED, PDF e TXT)
+    source: Giancarlo Mariot, 2021
+    file: Mariot-Belluno.zip
+    icon: file_ged.png
+    revision: '10 abril 2021'

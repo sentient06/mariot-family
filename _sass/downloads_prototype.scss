@@ -1,11 +1,7 @@
-// div.orderable {
-// 	background: cyan;
-// }
-
 .item {
 	.body {
 		.download {
-			padding: 10px;
+			padding: 10px 0 0 0;
 			a {
 				display: block;
 				padding: 10px;
@@ -34,11 +30,7 @@
 	.head {
 		display: flex;
 		background-color: #eee;
-		// border: 0 solid #666;
-		// border-bottom-width: 2px;
 		padding: 10px;
-		// margin: 0 0 3px 0;
-
 		cursor: pointer;
 		&:hover {
 			background-color: #ddd;
@@ -63,26 +55,25 @@
 	.body {
 		display: flex;
 		flex-direction: column;
-
 		border: 0 solid #666;
-
-
 		.core {
 			display: flex;
 			padding: 10px;
 			.data {
-				display: flex;
-				flex-direction: column;
-				justify-content: flex-start;
-				flex-grow: 1;
-				flex-basis: auto;
-				span.title {
-					display: inline-block;
-					min-width: 80px;
-					text-align: right;
-				}
-				span.value {
-
+				width: 100%;
+				.row {
+					display: table-row;
+					.title,
+					.value {
+						display: table-cell;
+						padding: 0 10px 0 0;
+					}
+					.title {
+						text-align: right;
+						color: #222;
+					}
+					.value {
+					}
 				}
 				.player {
 					padding: 20px 20px 10px 10px;
@@ -91,10 +82,9 @@
 					}
 				}
 				.download {
-					// align-self: center;
 					text-align: center;
-					flex-grow: inherit;
 					display: flex;
+					width: 100%;
 					a {
 						display: inline-block;
 						min-width: 250px;
@@ -172,13 +162,22 @@
 			}
 			.core {
 				.data {
-					span.title {
-						min-width: unset;
+					.row {
 						display: block;
-						text-align: left;
-					}
-					span.value {
-						clear: both;
+						.title,
+						.value {
+							display: block;
+						}
+						.title {
+							min-width: unset;
+							display: block;
+							text-align: left;
+							font-weight: bold;
+						}
+						.value {
+							clear: both;
+							font-size: 0.8em;
+						}
 					}
 					.download {
 						display: none;

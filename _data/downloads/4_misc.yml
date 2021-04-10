@@ -16,6 +16,7 @@ files:
     author: Irani Baldessar
     source: Comunicação por arquivo de áudio, Mateus Zuchinalli Canani
     player: true
+    icon: file_mp3.png
     file: audio/Irani_1_Teresa.mp3
     people:
       - name: Teresa Brigida
@@ -31,6 +32,7 @@ files:
     author: Irani Baldessar
     source: Comunicação por arquivo de áudio, Mateus Zuchinalli Canani
     player: true
+    icon: file_mp3.png
     file: audio/Irani_2_Matteo.mp3
     people:
       - name: Matteo Ignazio
@@ -45,6 +47,7 @@ files:
     author: Irani Baldessar
     source: Comunicação por arquivo de áudio, Mateus Zuchinalli Canani
     player: true
+    icon: file_mp3.png
     file: audio/Irani_3_Valentina.mp3
     people:
       - name: Valentina
