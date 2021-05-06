@@ -4,7 +4,7 @@ title: Eventos
 css_files: [timeline, generations]
 ---
 
-# Linha do tempo dos Mariot
+# Linha do tempo
 
 <section class="timeline" markdown="1">
 
@@ -18,11 +18,30 @@ Entre 1789 e 1796
 15 de setembro
 : <strong class="g0">Teresa de Bona</strong> nasce em Igne, Longarone.
 
+# 1797
+25 de abril
+: Tropas de Napoleão desembarcam em Veneza.
+
+16 de maio
+: O Vêneto passa a ser domínio da França.
+
 ---
+
+# 1805
+17 de março
+: Napoleão declara o Reino da Itália.
+
+# 1814
+30 de maio
+: É assinado o Tratado de Paris. Termina o período napoleônico no Vêneto e Longarone agora se situa no Reino Lombardo-Vêneto, parte da Áustria.
 
 # 1818
 30 de janeiro
 : <strong class="g1">Matteo Ignazio Mariot</strong> nasce em Pirago, Longarone.
+
+# 1822
+07 de setembro
+: Declarada a independência do Brasil, que passa a ser o Império do Brazil.
 
 # 1826
 11 de maio
@@ -48,6 +67,13 @@ Data desconhecida
 # 1848
 11 de janeiro
 : <strong class="g2">Pietro Mariot</strong> nasce em Pirago, Longarone.
+
+24 de março
+: Longarone passa a fazer parte da República de San Marco.
+
+# 1849
+28 de agosto
+: Longarone volta a fazer parte do Reino Lombardo-Vêneto, parte da Áustria.
 
 ---
 
@@ -84,18 +110,26 @@ Data desconhecida
 18 de outubro
 : <strong class="g2">Valentina Mariot</strong> nasce em Longarone.
 
+# 1866
+21–22 de outubro
+: O Vêneto passa a integrar o Reino da Itália, depois de um "plebiscito".
+
 # 1868
 04 de janeiro
 : <strong class="g2">Margherita Mariot</strong> nasce em Longarone.
 
 ---
 
+# 1871 ... 1879
+Data desconhecida
+: <strong class="g0">Teresa de Bona</strong> morre em Longarone.
+
 # 1868 ... 1877
 Meados de 1868
 : <strong class="g2">Pietro</strong> provavelmente entra no exército.
 
 Meados de 1870
-: <strong class="g2">Cesare</strong> morre na Hungria, vítima de um acidente em uma estrada de ferro na região de Budapeste.
+: <strong class="g2">Cesare</strong> morre na Hungria, vítima de um desmoronamento em uma estrada de ferro na região de Budapeste.
 
 Meados de 1873
 : <strong class="g2">Pietro</strong> provavelmente deixa o exército.
@@ -120,7 +154,7 @@ Março
 : Os imigrantes de Longarone chegam no Rio de Janeiro.
 
 26 de maio
-: Os primeiros imigrantes de Longarone chegam em Urussanga. 
+: Os primeiros imigrantes de Longarone chegam em Urussanga.
 
 22 de dezembro
 : Nasce <strong class="g3">Maria</strong> (Marietta), filha de <strong class="g2">Pietro</strong> e <strong class="g2">Lucia Olivier</strong>, na Austria.
@@ -136,52 +170,60 @@ Data desconhecida
 : <strong class="g1">Matteo Ignazio</strong> e <strong class="g2">Marco</strong> embarcam no navio **Sorata**, com destino a Buenos Aires, em Bordeaux, na França, com um casal da família **Longo**, que adotam o sobrenome **Mariot**.
 
 07 de novembro
-: <strong class="g1">Matteo Ignazio</strong> e <strong class="g2">Marco</strong> chegam ao Rio de Janeiro.
+: <strong class="g1">Matteo Ignazio</strong>, <strong class="g2">Marco</strong> e os **Longo** chegam ao Rio de Janeiro.
 
 08 de dezembro
 : Nasce <strong class="g3">Matteo Mariot</strong>, filho de <strong class="g2">Giovanni</strong> e <strong class="g2">Maria de Lorenzi</strong>, em Longarone. (Talvez tenha sido batizado em homenagem ao avô.)
 
 # 1879 ... 1880
 Fim de 1879, começo de 1880
-: <strong class="g1">Matteo Ignazio</strong>, <strong class="g2">Marco</strong> e os Longo chegam a Urussanga e se estabelecem em Rio Salto. Passam as primeiras semanas dormindo abrigados por uma pedra.
+: <strong class="g1">Matteo Ignazio</strong>, <strong class="g2">Marco</strong> e os **Longo** chegam a Urussanga e se estabelecem em Rio Salto. Passam as primeiras semanas dormindo abrigados por uma pedra.
 
 ---
 
 # 1880
 Novembro
-: <strong class="g2">Giovanni</strong> embarca no navio Berlin em Gênova com a esposa <strong class="g2">Maria de Lorenzi</strong> e o filho <strong class="g3">Matteo</strong>.
+: <strong class="g2">Giovanni</strong> embarca no navio **Berlin** em Gênova com a esposa <strong class="g2">Maria de Lorenzi</strong> e o filho <strong class="g3">Matteo</strong>.
 
 18 de dezembro
-: <strong class="g2">Giovanni</strong>, Maria e Matteo chegam ao Rio de Janeiro e se dirigem a Paranaguá.
+: <strong class="g2">Giovanni</strong>, <strong class="g2">Maria</strong> e <strong class="g3">Matteo</strong> chegam ao Rio de Janeiro.
 
 # 1880 ... 1881
 Fim de 1880, começo de 1881
-: <strong class="g2">Giovanni</strong>, Maria e Matteo chegam a Urussanga e se instalam em Rio Salto.
+: <strong class="g2">Giovanni</strong>, <strong class="g2">Maria</strong> e <strong class="g3">Matteo</strong> chegam a Urussanga e se instalam em Rio Salto.
+
+# 1881
+31 de dezembro
+: Emancipação da colônia de Urussanga.
 
 # 1882
 04 de fevereiro
-: <strong class="g2">Pietro</strong>, <strong class="g2">Lucia Olivier</strong>, <strong class="g3">Maria</strong>, <strong class="g2">Teresa</strong>, <strong class="g2">Valentina</strong>, <strong class="g2">Margherita</strong> e <strong class="g1">Anna Fontanella</strong> embarcam no navio Maria no porto de Gênova.
+: <strong class="g2">Pietro</strong>, <strong class="g2">Lucia Olivier</strong>, <strong class="g3">Maria</strong>, <strong class="g2">Teresa</strong>, <strong class="g2">Valentina</strong>, <strong class="g2">Margherita</strong> e <strong class="g1">Anna Fontanella</strong> embarcam no navio **Maria** no porto de Gênova.
 
 07 de março
 : <strong class="g2">Pietro</strong>, <strong class="g2">Lucia Olivier</strong>, <strong class="g3">Maria</strong>, <strong class="g2">Teresa</strong>, <strong class="g2">Valentina</strong>, <strong class="g2">Margherita</strong> e <strong class="g1">Anna Fontanella</strong> chegam ao Rio de Janeiro.
 
 Data desconhecida
-: Giosuè deixa o exército.
+: <strong class="g2">Giosuè</strong> deixa o exército.
 
 11 de abril
-: <strong class="g2">Pietro</strong>, <strong class="g2">Lucia Olivier</strong>, <strong class="g3">Maria</strong> chegam a Urussanga.<br />Não se sabe se<strong class="g2">Teresa</strong>, <strong class="g2">Valentina</strong>, <strong class="g2">Margherita</strong> e <strong class="g1">Anna Fontanella</strong> chegaram antes, ou na mesma data.
+: <strong class="g2">Pietro</strong>, <strong class="g2">Lucia Olivier</strong>, <strong class="g3">Maria</strong> chegam a Urussanga.<br />Não se sabe se <strong class="g2">Teresa</strong>, <strong class="g2">Valentina</strong>, <strong class="g2">Margherita</strong> e <strong class="g1">Anna Fontanella</strong> chegaram antes, ou na mesma data.
 
 19 de abril
 : Nasce <strong class="g3">Cesare</strong>, filho de <strong class="g2">Pietro</strong> e <strong class="g2">Lucia Olivier</strong>, em Urussanga. (Talvez tenha sido batizado em homenagem ao tio.)
 
 Abril
-: <strong class="g2">Giosuè</strong> embarca no navio La France em Marselha.
+: <strong class="g2">Giosuè</strong> embarca no navio **La France** em Marselha.
 
 Data desconhecida
 : Nasce <strong class="g3">Battista</strong>, filho de <strong class="g2">Giovanni</strong> e <strong class="g2">Maria de Lorenzi</strong>, em Urussanga.
 
 05 de maio
 : <strong class="g2">Giosuè</strong> chega ao Rio de Janeiro. Embarca no dia seguinte para Laguna.
+
+# 1882 ... 1884
+Data desconhecida
+: <strong class="g2">Giosuè</strong> trabalha na construção da ponte da estrada de ferro *Donna Thereza Christina* e perde a mão direita em uma explosão.
 
 # 1883
 26 de agosto
@@ -208,14 +250,14 @@ Data desconhecida
 Data desconhecida
 : <strong class="g2">Giovanni</strong> morre no hospital em Laguna, depois de sofrer uma fratura na coluna por causa de uma árvore.
 
-Data desconhecida
-: Nasce <strong class="g3">Giovanni</strong>, filho de <strong class="g2">Teresa Brigida</strong> e <strong class="g2">Pietro Baldessar</strong>, em Urussanga. (Provavelmente batizado em homenagem ao tio.)
-
 02 de março
 : Nasce <strong class="g3">Giovanna</strong>, última filha de <strong class="g2">Giovanni</strong> e <strong class="g2">Maria de Lorenzi</strong>, em Urussanga. Ela é batizada em homenagem ao pai.
 
 10 de março
 : Nasce <strong class="g3">Teresa</strong>, filha de <strong class="g2">Pietro</strong> e <strong class="g2">Lucia Olivier</strong>, em Urussanga.
+
+15 de abril
+: Nasce <strong class="g3">Giovanni</strong>, filho de <strong class="g2">Teresa Brigida</strong> e <strong class="g2">Pietro Baldessar</strong>, em Urussanga. (Provavelmente batizado em homenagem ao tio.)
 
 # 1887
 Data desconhecida
@@ -252,16 +294,22 @@ Data desconhecida
 : Nasce <strong class="g3">Anna Teresa</strong>, filha de <strong class="g2">Margherita</strong> e <strong class="g2">Luigi Baldessar</strong>, em Urussanga.
 
 Fevereiro
-: <strong class="g2">Margherita</strong> morre por complicações de parto. <strong class="g3">Anna Teresa</strong> é batizada com nome da mãe e passa a usar dois nomes.
+: <strong class="g2">Margherita</strong> morre por complicações no parto. <strong class="g3">Anna Teresa</strong> é batizada com nome da mãe e passa a usar dois nomes.
 
 Data desconhecida
-: <strong class="g2">Giosuè</strong> chega em Urussanga. Se instala em Rio Salto, vizinho de <strong class="g2">Marco</strong>.
+: <strong class="g2">Giosuè</strong> chega em Urussanga. Se instala em Rio Salto, vizinho do irmão <strong class="g2">Marco</strong>.
 
 29 de julho
 : <strong class="g2">Giosuè</strong> casa com <strong class="g2">Teresa Rosso</strong> em Urussanga.
 
 20 de setembro
 : Nasce <strong class="g3">Liboria</strong>, filha de <strong class="g2">Valentina</strong> e <strong class="g2">Enrico Lenzi</strong>, em Lagoa Vermelha.
+
+15 de novembro
+: Proclamada a (primeira) República dos Estados Unidos do Brasil.
+
+17 de novembro
+: Santa Catarina passa a ser uma unidade federativa.
 
 ---
 
@@ -294,7 +342,7 @@ Data desconhecida
 : Nasce <strong class="g3">Adelia</strong>, filha de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot [Longo]</strong> em Urussanga.
 
 23 de março
-: <strong class="g2">Teresa Rosso</strong>, esposa de <strong class="g2">Giosuè</strong>, morre em Urussanga de febre tifóide.
+: <strong class="g2">Teresa Rosso</strong>, esposa de <strong class="g2">Giosuè</strong>, morre em Urussanga, de febre tifóide.
 
 14 de agosto
 : <strong class="g2">Giosuè</strong> casa com <strong class="g2">Giovanna Cordella</strong> em Urussanga.
@@ -343,11 +391,17 @@ Data desconhecida
 29 de março
 : Nasce <strong class="g3">Matteo</strong>, filho de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot [Longo]</strong> em Urussanga.
 
+Data desconhecida
+: Morre a mãe de <strong class="g3">Anna</strong>, primeira filha de <strong class="g2">Giosuè</strong>, em Laguna. <strong class="g2">Giosuè</strong> manda buscar a filha, que passa a viver com ele e a esposa.
+
 ---
 
 # 1900
 08 de fevereiro
 : Nasce <strong class="g3">Mansueto</strong>, filho de <strong class="g2">Giosuè</strong> e <strong class="g2">Giovanna Cordella</strong> em Urussanga.
+
+6 de outubro
+: Urussanga elevada a município.
 
 # 1901
 20 de março
@@ -365,6 +419,9 @@ Data desconhecida
 : Nasce <strong class="g3">Pietro</strong>, filho de <strong class="g2">Giosuè</strong> e <strong class="g2">Giovanna Cordella</strong> em Urussanga.
 
 # 1903
+17 de abril
+: <strong class="g3">Teresa</strong>, filha de <strong class="g2">Pietro</strong>, morre em Urussanga, vítima de tétano causado por um prego no pé.
+
 13 de setembro
 : Nasce <strong class="g3">Adelina</strong>, filho de <strong class="g2">Valentina</strong> e <strong class="g2">Enrico Lenzi</strong>, em Nova Prata.
 
@@ -376,6 +433,9 @@ Data desconhecida
 
 Data desconhecida
 : Nasce <strong class="g3">Giacomina</strong>, última filha de <strong class="g2">Teresa Brigida</strong> e <strong class="g2">Pietro Baldessar</strong>, em Urussanga.
+
+Data desconhecida
+: <strong class="g3">Giacomim</strong>, filho de <strong class="g2">Teresa Brigida</strong>, morre afogado em Bom Retiro.
 
 27 de março
 : Nasce <strong class="g3">Rosa</strong>, filha de <strong class="g2">Giosuè</strong> e <strong class="g2">Giovanna Cordella</strong> em Urussanga.
@@ -414,9 +474,17 @@ Data desconhecida
 01 de setembro
 : <strong class="g2">Giovanna Cordella</strong>, esposa de <strong class="g2">Giosuè</strong>, morre em Laguna, de câncer.
 
+# 1929
+Data desconhecida
+: <strong class="g2">Lucia Olivier</strong>, esposa de <strong class="g2">Pietro</strong>, morre em Urussanga.
+
+# 1932
+14 de setembro
+: <strong class="g2">Maria Mariot [Longo]</strong>, esposa de <strong class="g2">Marco</strong>, morre em Lauro Müller.
+
 # 1933
 07 de dezembro
-: <strong class="g2">Pietro</strong> morre em Urussanga, provavelmente doente depois de ter operado a coluna.
+: <strong class="g2">Pietro</strong> morre em Urussanga, de cardiopatia crônica.
 
 # 1939
 09 de outubro
@@ -426,9 +494,13 @@ Data desconhecida
 09 de junho
 : <strong class="g2">Enrico Lenzi</strong>, marido de <strong class="g2">Valentina</strong> morre em Nova Prata.
 
+# 1946
+04 de agosto
+: <strong class="g2">Teresa Brigida</strong> morre em Urussanga de insuficiência cardíaca.
+
 # 1947
 07 de outubro
-: <strong class="g2">Valentina</strong> morre em Nova Prata de diabetes. Última entre os irmãos a falecer.
+: <strong class="g2">Valentina</strong> morre em Nova Prata de diabetes. Última dos irmãos de Longarone a falecer.
 
 # 1952
 25 janeiro
@@ -436,6 +508,6 @@ Data desconhecida
 
 # 1956
 10 de junho
-: <strong class="g3">Matteo</strong>, filho de <strong class="g2">Giovanni</strong>, morre em Alfredo Wagner. O mais jovem dos **Mariot** nascidos na Itália a imigrar.
+: <strong class="g3">Matteo</strong>, filho de <strong class="g2">Giovanni</strong>, e o mais jovem dos **Mariot** italianos, morre em Alfredo Wagner, marcando o fim da história dos pioneiros.
 
 </section>

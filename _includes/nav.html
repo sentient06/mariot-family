@@ -37,7 +37,8 @@
                page.url == "/2-marco.html" or
                page.url == "/2-teresa.html" or
                page.url == "/2-valentina.html" or
-               page.url == "/2-margherita.html"
+               page.url == "/2-margherita.html" or
+               page.url == "/eventos.html"
             %} class="current"{% endif %}>
                 <a class="has-arrow" href="" aria-expanded="false">Família de Matteo</a>
                 <ul>
@@ -52,6 +53,8 @@
                     <li{% if page.url == "/2-valentina.html"  %} class="current"{% endif %}><a href="2-valentina.html">Valentina Mariot</a></li>
                     <li{% if page.url == "/2-margherita.html" %} class="current"{% endif %}><a href="2-margherita.html">Margherita Mariot</a></li>
                     <!-- <li><a href="16-outros.html">Outros</a></li> -->
+                    <li><hr /></li>
+                    <li{% if page.url == "/eventos.html" %} class="current"{% endif %}><a href="eventos.html">Linha do tempo</a></li>
                 </ul>
             </li>
             <li{% if page.url == "/galeria.html" %} class="current"{% endif %}><a href="galeria.html">Galeria</a></li>
