@@ -1,0 +1,27 @@
+.timeline {
+	h1 {
+		font-size: 1.2em;
+	}
+
+	hr {
+		border: 1px solid #ccc;
+	}
+
+	dl {
+		border: 0px solid #666;
+		border-left-width: 1px;
+		padding: 10px;
+		margin-left: 20px;
+		dt {
+			font-weight: bold;
+			color: #222;
+			font-size: 1.1em;
+			padding-bottom: 4px;
+		}
+		dd {
+			margin: 0;
+			padding-left: 10px;
+			padding-bottom: 12px;
+		}
+	}
+}
