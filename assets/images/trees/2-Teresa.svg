@@ -1680,7 +1680,7 @@ TkSuQmCC"/>
 <use xlink:href="#im59" x="0" y="0" width="128" height="128"/>
 </g>
 </g>
-<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 171.333 351.5)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 2.778 6.108 11.67 20 22.778 28.340003 33.902 39.464 45.026 47.804 50.582 56.144 58.922 64.484 70.046 75.607997">from 1903 to 1905</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 171.333 348.5)" font-size="10" font-family="Helvetica">entre 1903 e 1905</text>
 <path transform="matrix(1,0,0,-1,0,954)" d="M 460.5 618 L 710.5 618 L 710.5 535 L 460.5 535 L 460.5 618 Z " fill="#ffc1a9"/>
 <path transform="matrix(1,0,0,1,460.5,336)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 83 L 0 83 L 0 0 Z "/>
 <text xml:space="preserve" transform="matrix(1 0 -0 1 468.5 362)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="45.94043 53.45983 61.24663 66.695438 74.48224 82.26904 90.05585 93.945049 104.05585 109.50465 113.393848 121.945049 125.83424 134.38544 142.17224 146.06143 157.72344 165.51024 170.95905 174.84824 183.39943">Teresa Brigida Mariot</tspan></text>
@@ -1819,6 +1819,7 @@ F+KULDWhWTk/2OqzRa08adIIQfCbjCkBMWNKQMyYEhAzpgTEjCkBMWNKQMyYEhAz
 <text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 652.4512 381)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">22/08/1863</tspan></text>
 <text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 468.5 394)" font-size="10" font-family="Helvetica"><tspan y="-3" x="151.7148 158.3848 160.6068 163.9368 169.4988 175.06079 180.62279 183.40079 186.17879 191.74079 197.30278 202.86478 208.42678 213.98877 217.31877 222.88077 228.44277">Pirago, Longarone</tspan></text>
 <text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 480.5 411)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 652.4512 411)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">04/08/1946</tspan></text>
 <mask id="ma63">
 <g transform="matrix(.078125,0,0,.078125,468.5,398)">
 <use xlink:href="#im64" x="0" y="0" width="128" height="128"/>

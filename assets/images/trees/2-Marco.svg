@@ -505,10 +505,10 @@ TkSuQmCC"/>
 <use xlink:href="#im17" x="0" y="0" width="128" height="128"/>
 </g>
 </g>
-<path transform="matrix(1,0,0,-1,0,949)" d="M 10.5 894.5 L 260.5 894.5 L 260.5 860.5 L 10.5 860.5 L 10.5 894.5 Z " fill="#73fcd6"/>
+<path transform="matrix(1,0,0,-1,0,949)" d="M 10.5 894.5 L 260.5 894.5 L 260.5 860.5 L 10.5 860.5 L 10.5 894.5 Z " fill="#dddddd"/>
 <path transform="matrix(1,0,0,1,10.5,54.5)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 34 L 0 34 L 0 0 Z "/>
 <text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 80.5)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="77.33789 85.88909 94.44029 98.32949 106.88069 110.76989 114.65909 126.32109 134.1079 139.5567 143.44589 151.99709">Luigi Mariot</tspan></text>
-<path transform="matrix(1,0,0,-1,0,949)" d="M 10.5 938.5 L 260.5 938.5 L 260.5 904.5 L 10.5 904.5 L 10.5 938.5 Z " fill="#73fcd6"/>
+<path transform="matrix(1,0,0,-1,0,949)" d="M 10.5 938.5 L 260.5 938.5 L 260.5 904.5 L 10.5 904.5 L 10.5 938.5 Z " fill="#dddddd"/>
 <path transform="matrix(1,0,0,1,10.5,10.5)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 34 L 0 34 L 0 0 Z "/>
 <text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 36.5)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="72.65527 81.99327 90.54447 95.99327 99.88247 107.66927 115.45608 119.345279 131.00728 138.79409 144.24289 148.13208 156.68328">Enrica Mariot</tspan></text>
 <path transform="matrix(1,0,0,-1,0,949)" d="M 10.5 571.5 L 260.5 571.5 L 260.5 475.5 L 10.5 475.5 L 10.5 571.5 Z " fill="#a9c2ff"/>

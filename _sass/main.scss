@@ -497,6 +497,12 @@ div.image-frame > small {
     strong {
         font-family: AltGeorgiaBoldItalic;
     }
+    &.regular {
+        font-style: unset;
+    }
+    &.mono {
+        font-family: monospace;
+    }
 }
 
 sup a {

@@ -188,6 +188,11 @@ Novembro
 18 de dezembro
 : <strong class="g2">Giovanni</strong>, <strong class="g2">Maria</strong> e <strong class="g3">Matteo</strong> chegam ao Rio de Janeiro.
 
+Período indeterminado
+: Ano da peste. Diversas epidemias de febre amarela varrem Santa Catarina. Em 1880 a epidemia chega a Urussanga.
+
+<!-- https://carlosdamiao.wordpress.com/2020/07/26/memoria-de-saude-as-pestes-do-seculo-19-em-desterro-florianopolis/ -->
+
 # 1880 ... 1881
 Fim de 1880, começo de 1881
 : <strong class="g2">Giovanni</strong>, <strong class="g2">Maria</strong> e <strong class="g3">Matteo</strong> chegam a Urussanga e se instalam em Rio Salto.
@@ -461,9 +466,17 @@ Data desconhecida
 Data desconhecida
 : Nasce <strong class="g3">Antonia</strong>, última filha de <strong class="g2">Giosuè</strong> e <strong class="g2">Giovanna Cordella</strong> em Urussanga.
 
+# 1914
+28 de julho
+: Primeira Guerra Mundial.
+
 # 1917
 24 de abril
 : <strong class="g1">Anna Fontanella</strong> morre em Nova Prata, durante visita à filha <strong class="g2">Valentina</strong>. É sepultada no jazigo da família **Lenzi**.
+
+# 1918
+11 de novembro
+: Fim da Primeira Guerra.
 
 ---
 
@@ -487,12 +500,18 @@ Data desconhecida
 : <strong class="g2">Pietro</strong> morre em Urussanga, de cardiopatia crônica.
 
 # 1939
+01 de setembro
+: Segunda Guerra Mundial
+
 09 de outubro
 : <strong class="g2">Marco</strong> morre em Lauro Müller, depois de fraturar a perna.
 
 # 1945
 09 de junho
 : <strong class="g2">Enrico Lenzi</strong>, marido de <strong class="g2">Valentina</strong> morre em Nova Prata.
+
+02 de setembro
+: Fim da Segunda Guerra.
 
 # 1946
 04 de agosto

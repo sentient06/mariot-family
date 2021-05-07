@@ -1163,7 +1163,7 @@ TkSuQmCC"/>
 <use xlink:href="#im39" x="0" y="0" width="128" height="128"/>
 </g>
 </g>
-<path transform="matrix(1,0,0,-1,0,1289.5)" d="M 10.5 881.5 L 260.5 881.5 L 260.5 847.5 L 10.5 847.5 L 10.5 881.5 Z " fill="#73fcd6"/>
+<path transform="matrix(1,0,0,-1,0,1289.5)" d="M 10.5 881.5 L 260.5 881.5 L 260.5 847.5 L 10.5 847.5 L 10.5 881.5 Z " fill="#dddddd"/>
 <path transform="matrix(1,0,0,1,10.5,408)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 34 L 0 34 L 0 0 Z "/>
 <text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 434)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="68.7793 80.4413 88.2281 93.6769 98.338909 102.2281 110.779308 119.330509 123.2197 134.8817 142.6685 148.11731 152.0065 160.5577">Martino Mariot</tspan></text>
 <path transform="matrix(1,0,0,-1,0,1289.5)" d="M 10.5 1018.5 L 260.5 1018.5 L 260.5 935.5 L 10.5 935.5 L 10.5 1018.5 Z " fill="#ffc1a9"/>
@@ -1974,7 +1974,7 @@ TkSuQmCC"/>
 <use xlink:href="#im66" x="0" y="0" width="128" height="128"/>
 </g>
 </g>
-<path transform="matrix(1,0,0,-1,0,1289.5)" d="M 10.5 925.5 L 260.5 925.5 L 260.5 891.5 L 10.5 891.5 L 10.5 925.5 Z " fill="#73fcd6"/>
+<path transform="matrix(1,0,0,-1,0,1289.5)" d="M 10.5 925.5 L 260.5 925.5 L 260.5 891.5 L 10.5 891.5 L 10.5 925.5 Z " fill="#dddddd"/>
 <path transform="matrix(1,0,0,1,10.5,364)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 34 L 0 34 L 0 0 Z "/>
 <text xml:space="preserve" transform="matrix(1 0 -0 1 18.5 390)" font-size="14" font-family="Helvetica" font-weight="bold"><tspan y="-4" x="75.76904 87.431049 95.21785 100.66665 104.55585 112.34265 116.23185 127.89385 135.68067 141.12947 145.01866 153.56986">Maria Mariot</tspan></text>
 <path transform="matrix(1,0,0,-1,0,1289.5)" d="M 10.5 744.5 L 260.5 744.5 L 260.5 661.5 L 10.5 661.5 L 10.5 744.5 Z " fill="#a9c2ff"/>
