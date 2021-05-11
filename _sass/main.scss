@@ -290,8 +290,9 @@ div.hypothesis,
 div.theory,
 div.fact,
 div.subtle {
-    float: left;
-    display: block;
+    display: table;
+    // float: left;
+    // display: block;
     // margin-top: 20px;
     padding: 10px;
     margin: 0 -1em;
@@ -305,6 +306,7 @@ div.subtle {
     border-bottom-width: 1px;
     position: relative;
 
+    width: 100%;
     clear: both;
 
     &.float {
@@ -313,6 +315,11 @@ div.subtle {
 
     & + p {
         clear: both;
+    }
+
+    .image-frame {
+        // background: blue;
+        display: table-row;
     }
 }
 
@@ -471,6 +478,16 @@ div.subtle h3:first-child,
 div.subtle h4:first-child {
     background: #f9f9f9;
     color: #999 !important;
+}
+
+.p-like {
+    float: left;
+    width: 100%;
+    line-height: 1.5;
+    margin: 16px 0;
+    p + & {
+        margin-top: unset;
+    }
 }
 
 div.image-frame {
