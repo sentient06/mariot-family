@@ -3,7 +3,13 @@
     text-decoration-thickness: 2px;
 }
 
+.gu {
+    text-decoration: underline dotted;
+    text-decoration-thickness: 2px;
+}
+
 strong {
+    &.gu,
     &.z0,
     &.g0,
     &.g1,
@@ -16,6 +22,10 @@ strong {
         font-weight: bold;
         font-family: "AltGeorgia";
     }
+}
+
+.gu {
+    text-decoration-color: #333;
 }
 
 .z0 {

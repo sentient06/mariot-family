@@ -466,6 +466,9 @@ Data desconhecida
 Data desconhecida
 : Nasce <strong class="g3">Antonia</strong>, última filha de <strong class="g2">Giosuè</strong> e <strong class="g2">Giovanna Cordella</strong> em Urussanga.
 
+22 de junho
+: <strong class="g3">Valentina</strong> e <strong class="g3">Enrico Lenzi</strong> casam em Nova Prata.
+
 # 1914
 28 de julho
 : Primeira Guerra Mundial.
