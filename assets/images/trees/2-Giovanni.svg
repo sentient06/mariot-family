@@ -171,7 +171,7 @@ TkSuQmCC"/>
 <use xlink:href="#im5" x="0" y="0" width="128" height="128"/>
 </g>
 </g>
-<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 686.6357 142.5)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.8400008 8.618001 14.180001 19.742003 25.304003">~ 1887</tspan></text>
+<text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 686.6357 142.5)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.8400008 8.618001 14.180001 19.742003 25.304003">~ 1886</tspan></text>
 <text fill="#3c465f" xml:space="preserve" transform="matrix(1 0 -0 1 483.5 155.5)" font-size="10" font-family="Helvetica"><tspan y="-3" x="200.6309 206.1929 211.7549 217.3169 222.87889 228.44089">Laguna</tspan></text>
 <path transform="matrix(1,0,0,-1,0,413)" d="M 25.5 108.5 L 275.5 108.5 L 275.5 25.5 L 25.5 25.5 L 25.5 108.5 Z " fill="#ffc1a9"/>
 <path transform="matrix(1,0,0,1,25.5,304.5)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 250 0 L 250 83 L 0 83 L 0 0 Z "/>
@@ -310,6 +310,7 @@ F+KULDWhWTk/2OqzRa08adIIQfCbjCkBMWNKQMyYEhAzpgTEjCkBMWNKQMyYEhAz
 </g>
 <text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 217.4512 349.5)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">02/03/1886</tspan></text>
 <text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 33.5 362.5)" font-size="10" font-family="Helvetica"><tspan y="-3" x="185.6406 192.8626 196.1926 201.7546 206.7546 211.7546 217.31659 222.87859 228.44058">Urussanga</tspan></text>
+<text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 217.4512 379.5)" font-size="10" font-family="Helvetica"><tspan y="-3" x="0 5.5620005 11.124001 13.906001 19.468003 25.030003 27.812003 33.374 38.936 44.498">02/02/1974</tspan></text>
 <text fill="#5f463c" xml:space="preserve" transform="matrix(1 0 -0 1 45.5 379.5)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-3" x="0 7.778001 13.886001 16.664 19.994">&#x00d3;bito</tspan></text>
 <mask id="ma9">
 <g transform="matrix(.078125,0,0,.078125,33.5,366.5)">
