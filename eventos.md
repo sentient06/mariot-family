@@ -231,6 +231,9 @@ Data desconhecida
 : <strong class="g2">Giosuè</strong> trabalha na construção da ponte da estrada de ferro *Donna Thereza Christina* e perde a mão direita em uma explosão.
 
 # 1883
+10 de fevereiro
+: <strong class="g2">Giovanni Baldessar</strong>, irmão mais velho de <strong class="g2">Pietro Baldessar</strong>, é alvejado por uma seta indígena em Rio Deserto.
+
 26 de agosto
 : <strong class="g2">Teresa Brigida</strong> casa com <strong class="g2">Pietro Baldessar</strong> em Urussanga.
 
@@ -359,6 +362,10 @@ Data desconhecida
 : Nasce <strong class="g3">Luigi</strong>, filho de <strong class="g2">Teresa Brigida</strong> e <strong class="g2">Pietro Baldessar</strong>, em Urussanga. 
 
 # 1894
+
+Primeiros meses de 1894
+: Parte de Urussanga (instruídos por Michele Napoli da Companhia Metropolitana) um grupo de atiradores para abater os índios que antagonizavam Rio Deserto e colônias adjacentes. Entre eles, <strong class="g2">Pietro Baldessar</strong>, marido de <strong class="g2">Teresa Brigida</strong>. Regressam em poucos dias com 3 crianças indígenas, depois de matarem pelo menos 32 índios, e são recebidos como heróis.
+
 05 de julho
 : Nasce <strong class="g3">Teresa</strong>, filha de <strong class="g2">Giosuè</strong> e <strong class="g2">Giovanna Cordella</strong> em Urussanga.
 
