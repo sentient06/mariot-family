@@ -1,0 +1,14 @@
+            <picture>
+                <a
+                    href="assets/images/gallery/large/{{ include.large }}"
+                    class="glightbox"
+                    data-title="{{ include.title }}"
+                    data-description=".desc{{ include.descn }}"
+                >
+                    <img src="assets/images/gallery/small/{{ include.small }}" alt="{{ include.title }}" />
+                </a>
+                <legend>{{ include.title }}</legend>
+                <div class="glightbox-desc desc{{ include.descn }}">
+                	{{ include.desc }}
+                </div>
+            </picture>

@@ -47,9 +47,17 @@ Entre 1789 e 1796
 11 de maio
 : <strong class="g1">Anna Fontanella</strong> nasce em Longarone.
 
+# 1835
+20 de setembro
+: Começa a Revolução Farroupilha no Brasil, em que a província de São Pedro do Rio Grande do Sul é declarada a República Rio-Grandense. Um dos comandantes das forças rio-grandenses é o italiano Giuseppe Garibaldi.
+
 # 1838 ... 1843
 Meados de 1838
 : <strong class="g1">Matteo Ignazio</strong> provavelmente entra no exército.
+
+# 1839
+22 de julho
+: Giuseppe Garibaldi lidera um ataque à cidade de Laguna, em Santa Catarina, passando pelo rio Tubarão. Durante o tempo em Laguna, Garibaldi conhece Ana Maria de Jesus Ribeiro, a futura Anita Garibaldi.
 
 Meados de 1843
 : <strong class="g1">Matteo Ignazio</strong> provavelmente deixa o exército.
@@ -59,6 +67,13 @@ Data desconhecida
 : Nesse espaço de tempo, <strong class="g0">Pietro Mariot</strong> morre em Longarone.
 
 ---
+# 1841
+Junho
+: Giuseppe Garibaldi é dispensado e se muda para Montevidéu.
+
+# 1845
+1 de março
+: Assinado o Tratado de Poncho Verde, que termina a Guerra dos Farrapos.
 
 # 1847
 3 de fevereiro
@@ -68,10 +83,19 @@ Data desconhecida
 11 de janeiro
 : <strong class="g2">Pietro Mariot</strong> nasce em Pirago, Longarone.
 
+Entre janeiro e março
+: Giuseppe Garibaldi regressa à Itália para lutar na Lombardia contra o exército austríaco.
+
+23 de março
+: Começa a Primeira Guerra de Independência Italiana.
+
 24 de março
 : Longarone passa a fazer parte da República de San Marco.
 
 # 1849
+24 de março
+: Termina a Primeira Guerra de Independência Italiana.
+
 28 de agosto
 : Longarone volta a fazer parte do Reino Lombardo-Vêneto, parte da Áustria.
 
@@ -93,6 +117,9 @@ Data desconhecida
 06 de janeiro
 : <strong class="g2">Brigida Mariot</strong> nasce em Pirago, Longarone.
 
+26 de abril - 12 de julho
+: Segunda Guerra de Independência Italiana.
+
 ---
 
 # 1861
@@ -111,6 +138,9 @@ Data desconhecida
 : <strong class="g2">Valentina Mariot</strong> nasce em Longarone.
 
 # 1866
+14 de junho – 23 de agosto
+: Terceira Guerra de Independência Italiana.
+
 21–22 de outubro
 : O Vêneto passa a integrar o Reino da Itália, depois de um "plebiscito".
 
@@ -476,9 +506,17 @@ Data desconhecida
 22 de junho
 : <strong class="g3">Valentina</strong> e <strong class="g3">Enrico Lenzi</strong> casam em Nova Prata.
 
+# 1912
+22 de outubro
+: Um grupo de camponeses, convertido em um séquito de fanáticos religiosos conhecidos como o "Contestado", invade a cidade de Palmas, no sul do Paraná, o que dá origem a um conflito armado na região de Irani, resultando na morte do Coronel João Gualberto. Assim começa a Guerra do Contestado, que durou 4 anos e afetou o norte de Santa Catarina e o sul do Paraná, com alguns milhares de baixas.
+
 # 1914
 28 de julho
 : Primeira Guerra Mundial.
+
+# 1916
+Agosto
+: Termina a Guerra do Contestado com a captura de Adeodato, o último líder do Contestado.
 
 # 1917
 24 de abril

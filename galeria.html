@@ -1,155 +1,326 @@
 ---
 layout: default
-css_files: gallery
-js_files: gallery
+css_files: [gallery, glightbox.min]
+js_files: [glightbox.min, gallery]
 title: Mariot - Galeria
----        
-        <div class="gallery lightbox">
-            <picture>
-                <a href="assets/images/gallery/large/AnnaFontanella.png" title="Anna Fontanella">
-                    <img src="assets/images/gallery/small/AnnaFontanella.png" />
-                </a>
-                <legend>Anna Fontanella Mariot, versão editada.</legend>
-                <small>
-                    <div>
-                        Fotografia de retrato, 2016.
-                    </div>
-                    <div>
-                        Ano do retrato desconhecido.
-                    </div>
-                    <div>
-                        Acervo de Zelma Mariot Hilbert.
-                    </div>
-                </small>
-            </picture>
-            <picture>
-                <a href="assets/images/gallery/large/ValentinaAnna.jpg" title="Anna Fontanella e Valentina">
-                    <img src="assets/images/gallery/small/ValentinaAnna.jpg" />
-                </a>
-                <legend>Valentina e Anna Fontanella</legend>
-                <small>
-                    <div>
-                        Valentina Mariot Lenzi e a mãe Anna, em Nova Prata - RS.
-                    </div>
-                    <div>
-                        Ano do retrato desconhecido.
-                    </div>
-                    <div>
-                        Scan por Mateus Zuchinalli Canani.
-                    </div>
-                </small>
-            </picture>
-            <picture>
-                <a href="assets/images/gallery/large/ValentinaAnnaColorizada.jpg" title="Anna Fontanella e Valentina, colorizada">
-                    <img src="assets/images/gallery/small/ValentinaAnnaColorizada.jpg" />
-                </a>
-                <legend>Valentina e Anna Fontanella, colorizada</legend>
-                <small>
-                    <div>
-                        Valentina Mariot Lenzi e a mãe Anna, em Nova Prata - RS.
-                    </div>
-                    <div>
-                        Ano do retrato desconhecido.
-                    </div>
-                    <div>
-                        Scan por Mateus Zuchinalli Canani. Colorizada.
-                    </div>
-                </small>
-            </picture>
-            <picture>
-                <a href="assets/images/gallery/large/Giosue.png" title="Giosuè Mariot">
-                    <img src="assets/images/gallery/small/Giosue.png" />
-                </a>
-                <legend>Giosuè Mariot</legend>
-                <small>
-                    <div>
-                        Fotografia de retrato, 2016.
-                    </div>
-                    <div>
-                        Ano do retrato desconhecido.
-                    </div>
-                    <div>
-                        Acervo de Zelma Mariot Hilbert.
-                    </div>
-                </small>
-            </picture>
-            <picture>
-                <a href="assets/images/gallery/large/FilhosMatteo.jpg" title="Pietro, Giosuè, Marco e Teresa">
-                    <img src="assets/images/gallery/small/FilhosMatteo.jpg" />
-                </a>
-                <legend>Quatro irmãos, original</legend>
-                <small>
-                    <div>
-                        Da esquerda para a direita: Pietro, Giosuè, Marco e Teresa.
-                    </div>
-                    <div>
-                        Scan da fotografia original.
-                    </div>
-                    <div>
-                        Acervo de Paulo Mariot. Colorizada.
-                    </div>
-                </small>
-            </picture>
-            <picture>
-                <a href="assets/images/gallery/large/FilhosMatteoColorizada.png" title="Pietro, Giosuè, Marco e Teresa">
-                    <img src="assets/images/gallery/small/FilhosMatteoColorizada.png" />
-                </a>
-                <legend>Quatro irmãos, colorizada</legend>
-                <small>
-                    <div>
-                        Da esquerda para a direita: Pietro, Giosuè, Marco e Teresa.
-                    </div>
-                    <div>
-                        Scan da fotografia original.
-                    </div>
-                    <div>
-                        Acervo de Paulo Mariot.
-                    </div>
-                </small>
-            </picture>
-            <picture>
-                <a href="assets/images/gallery/large/QuadroCasaGiosue.jpg" title="Casa e alpendre de Giosuè">
-                    <img src="assets/images/gallery/small/QuadroCasaGiosue.jpg" />
-                </a>
-                <legend>Casa de Giosuè Mariot</legend>
-                <small>
-                    <div>
-                        Fotografia de quadro mostrando casa e alpendre de Giosuè em Rio Salto, 2016.
-                    </div>
-                    <div>
-                        Ano do quadro desconhecido.
-                    </div>
-                    <div>
-                        Acervo de Zelma Mariot Hilbert.
-                    </div>
-                </small>
-            </picture>
-            <picture>
-                <a href="assets/images/gallery/large/CasaGiosue.jpg" title="Casa de Giosuè">
-                    <img src="assets/images/gallery/small/CasaGiosue.jpg" />
-                </a>
-                <legend>Casa de Giosuè Mariot</legend>
-                <small>
-                    <div>
-                        Fotografia, 2016
-                    </div>
-                    <div>
-                        Urussanga
-                    </div>
-                </small>
-            </picture>
-            <picture>
-                <a href="assets/images/gallery/large/AlpendreGiosue.jpg" title="Alpendre de Giosuè">
-                    <img src="assets/images/gallery/small/AlpendreGiosue.jpg" />
-                </a>
-                <legend>Alpendre de Giosuè Mariot</legend>
-                <small>
-                    <div>
-                        Fotografia, 2016
-                    </div>
-                    <div>
-                        Urussanga
-                    </div>
-                </small>
-            </picture>
+---
+
+        <div class="gallery">
+
+
+{% capture desc1 %}
+                    <p>
+                        Foto original tirada em 1917.<br />
+                        Foto da foto tirada em 2016.
+                    </p>
+                    <p>
+                        Esta foto é uma versão editada de uma outra fotografia em que Valentina está em pé ao lado de Anna. Esta versão da foto é bastante comum. Este exemplar não é um scan, mas uma foto do retrato atualmente na residência de Zelma Mariot Hilbert.
+                    </p>
+                    <p>
+                        <b>Fonte:</b>
+                        <span>
+                            Acervo de Zelma Mariot Hilbert.
+                        </span>
+                    </p>
+{% endcapture %}
+{%
+    include gallery_item.html
+    title="Anna Fontanella, versão editada"
+    large="AnnaFontanella.png"
+    small="AnnaFontanella.png"
+    descn="1"
+    desc=desc1
+%}
+
+{% capture desc2 %}
+
+                    <p>
+                        Foto original tirada em 1917.<br />
+                        Scan obtido em meados de 2020.
+                    </p>
+                    <p>
+                        Esta foto é a versão original do retrato de Anna Fontanella. Quinto Davide Baldessar sugere que a fotografia é de 1918, mas Anna morreu em 1917, portanto esta fotografia foi tirada provavelmente em Nova Prata, em 1917.
+                    </p>
+                    <p>
+                        <b>Fonte:</b>
+                        <span>
+                            Scan por Mateus Zuchinalli Canani.
+                        </span>
+                    </p>
+{% endcapture %}
+{%
+    include gallery_item.html
+    title="Valentina e Anna"
+    large="ValentinaAnna.jpg"
+    small="ValentinaAnna.jpg"
+    descn="2"
+    desc=desc2
+%}
+
+{% capture desc3 %}
+
+                    <p>
+                        Foto original tirada em 1917.<br />
+                        Scan obtido em meados de 2020.
+                    </p>
+                    <p>
+                        Mesma fotografia, colorizada artificialmente por uma rotina de inteligência artificial em 2021.
+                    </p>
+                    <p>
+                        <b>Fonte:</b>
+                        <span>
+                            Scan por Mateus Zuchinalli Canani.
+                        </span>
+                    </p>
+{% endcapture %}
+{%
+    include gallery_item.html
+    title="Valentina e Anna, colorizada"
+    large="ValentinaAnnaColorizada.jpg"
+    small="ValentinaAnnaColorizada.jpg"
+    descn="3"
+    desc=desc3
+%}
+
+{% capture desc4 %}
+                    <p>
+                        Foto da foto tirada em 2016.
+                    </p>
+                    <p>
+                        O ano da foto é desconhecido. Estima-se ser do começo do século XX.
+                    </p>
+                    <p>
+                        <b>Fonte:</b>
+                        <span>
+                            Acervo de Zelma Mariot Hilbert.
+                        </span>
+                    </p>
+{% endcapture %}
+{%
+    include gallery_item.html
+    title="Giosuè Mariot"
+    large="Giosue.png"
+    small="Giosue.png"
+    descn="4"
+    desc=desc4
+%}
+
+{% capture desc5 %}
+                    <p>
+                        Foto tirada em meados de 1910.<br />
+                        Scan feito em 2021.
+                    </p>
+                    <p>
+                        Da esquerda para a direita estão:
+                    </p>
+                    <ul>
+                        <li>
+                            Pietro Mariot, o irmão mais velho, que trabalhou numa serraria na Itália;
+                        </li>
+                        <li>
+                            Giosuè Mariot, que perdeu a mão nas obras da estrada de ferro e casou 2 vezes;
+                        </li>
+                        <li>
+                            Marco Mariot, o mais novo dos homens, que foi ao Brasil antes dos demais, acompanhado do pai;
+                        </li>
+                        <li>
+                            Teresa Mariot, que não escondia o desgosto de viver no Brasil quando era jovem e casou com Pietro Baldessar.
+                        </li>
+                    </ul>
+                    <p>
+                        Todos nesta foto estão em roupas formais, com sapatos, relógios de bolso, broches. Os imigrantes se vestiam assim em ocasiões especiais. Eles também usavam sapatos para ir à igreja nos domingos, mas a tela atrás deles sugere uma festa de algum tipo.
+                    </p>
+                    <p>
+                        <b>Fonte:</b>
+                        <span>
+                            Acervo de Paulo Mariot.
+                        </span>
+                    </p>
+{% endcapture %}
+{%
+    include gallery_item.html
+    title="4 irmãos, fotografia original"
+    large="FilhosMatteo.jpg"
+    small="FilhosMatteo.jpg"
+    descn="5"
+    desc=desc5
+%}
+
+{% capture desc6 %}
+                    <p>
+                        Foto tirada em meados de 1910.<br />
+                        Scan feito em 2021.
+                    </p>
+                    <p>
+                        Mesma fotografia, processada por duas rotinas de inteligência artificial em 2021. A primeira rotina tenta reconstruir aspectos do rosto e vestuário e a segunda tenta colorir a foto artificialmente.
+                    </p>
+                    <p>
+                        <b>Fonte:</b>
+                        <span>
+                            Acervo de Paulo Mariot.
+                        </span>
+                    </p>
+{% endcapture %}
+{%
+    include gallery_item.html
+    title="4 irmãos, colorizada"
+    large="FilhosMatteoColorizada.png"
+    small="FilhosMatteoColorizada.png"
+    descn="6"
+    desc=desc6
+%}
+
+{% capture desc7 %}
+                    <p>
+                        Autoria de quadro desconhecida.<br />
+                        Foto do quadro tirada em 2016.
+                    </p>
+                    <p>
+                        Esta é a casa e alpendre de Giosuè Mariot em Rio Salto. Quadro atualmente na residência de Zelma Mariot Hilbert.
+                    </p>
+                    <p>
+                        <b>Fonte:</b>
+                        <span>
+                            Acervo de Zelma Mariot Hilbert.
+                        </span>
+                    </p>
+{% endcapture %}
+{%
+    include gallery_item.html
+    title="Casa e alpendre de Giosuè"
+    large="QuadroCasaGiosue.jpg"
+    small="QuadroCasaGiosue.jpg"
+    descn="7"
+    desc=desc7
+%}
+
+{% capture desc8 %}
+                    <p>
+                        Foto tirada em 2016.
+                    </p>
+                    <p>
+                        Esta é a casa e de Giosuè Mariot em Rio Salto, a mesma retratada no quadro.
+                    </p>
+                    <p>
+                        Esta casa passou a ser a residência de Mansueto Mariot e sua esposa Emma Costa. Ela foi vendida e na década de 2010 passou a pertencer a uma empresa. Permanene abandonada desde então. Em 2021 corre um boato que a casa será demolida.
+                    </p>
+                    <p>
+                        <b>Fonte:</b>
+                        <span>
+                            Acervo de Giancarlo Mariot.
+                        </span>
+                    </p>
+{% endcapture %}
+{%
+    include gallery_item.html
+    title="Casa de Giosuè"
+    large="CasaGiosue.jpg"
+    small="CasaGiosue.jpg"
+    descn="8"
+    desc=desc8
+%}
+
+{% capture desc9 %}
+                    <p>
+                        Foto tirada em 2016.
+                    </p>
+                    <p>
+                        Este é o alpendre da casa de Giosuè Mariot em Rio Salto.
+                    </p>
+                    <p>
+                        O alpendre foi construído por Mansueto Mariot (filho de Giosuè) e sua esposa Emma Costa. A pedra que serve de lintel tem destaque especial por ser particularmente pesada. A construção com uso de pedras e o posicionamento do lintel são resquícios dos métodos usados na Itália.
+                    </p>
+                    <p>
+                        <b>Fonte:</b>
+                        <span>
+                            Acervo de Giancarlo Mariot.
+                        </span>
+                    </p>
+{% endcapture %}
+{%
+    include gallery_item.html
+    title="Alpendre da casa de Giosuè"
+    large="AlpendreGiosue.jpg"
+    small="AlpendreGiosue.jpg"
+    descn="9"
+    desc=desc9
+%}
+
+{% capture desc10 %}
+                    <p>
+                        Foto tirada em meados de 1905.<br />
+                        Scan feito em 2021.
+                    </p>
+                    <p>
+                        Da esquerda para a direita, sentados, estão Pietro Mariot e Lucia Olivier Mariot.
+                    </p>
+                    <p>
+                        Da esquerda para a direita, em pé, estão: Margherita, Cesare, Anna, Italia e Dusolina.
+                    </p>
+                    <p>
+                        <b>Fonte:</b>
+                        <span>
+                            Acervo de Paulo Mariot.
+                        </span>
+                    </p>
+{% endcapture %}
+{%
+    include gallery_item.html
+    title="Família de Pietro, original"
+    large="FamiliaPietro.jpg"
+    small="FamiliaPietro.jpg"
+    descn="10"
+    desc=desc10
+%}
+
+{% capture desc11 %}
+                    <p>
+                        Foto original tirada em meados de 1905.
+                    </p>
+                    <p>
+                        Imagem em parte restaurada manualmente em 2021.
+                    </p>
+                    <p>
+                        <b>Fonte:</b>
+                        <span>
+                            Acervo de Paulo Mariot.
+                        </span>
+                    </p>
+{% endcapture %}
+{%
+    include gallery_item.html
+    title="Família de Pietro, parcialmente restaurada"
+    large="FamiliaPietroRestaurada.jpg"
+    small="FamiliaPietroRestaurada.jpg"
+    descn="11"
+    desc=desc11
+%}
+
+{% capture desc12 %}
+                    <p>
+                        Foto original tirada em meados de 1905.
+                    </p>
+                    <p>
+                        Mesma fotografia, restaurada manualmente e processada por duas rotinas de inteligência artificial em 2021. A primeira rotina tenta reconstruir aspectos do rosto e vestuário e a segunda tenta colorir a foto artificialmente.
+                    </p>
+                    <p>
+                        O resultado não foi tão satisfatório quanto a foto dos 4 irmãos, mas interessante assim mesmo.
+                    </p>
+                    <p>
+                        <b>Fonte:</b>
+                        <span>
+                            Acervo de Paulo Mariot.
+                        </span>
+                    </p>
+{% endcapture %}
+{%
+    include gallery_item.html
+    title="Família de Pietro, colorizada"
+    large="FamiliaPietroColorizada.jpg"
+    small="FamiliaPietroColorizada.jpg"
+    descn="12"
+    desc=desc12
+%}
+
         </div>
+
