@@ -1,0 +1,46 @@
+@charset "UTF-8";
+.z0, .g0, .g1, .g2, .g3, .g4, .g5, .g6, .g7 { text-decoration: underline; text-decoration-thickness: 2px; }
+
+.gu { text-decoration: underline dotted; text-decoration-thickness: 2px; }
+
+strong.gu, strong.z0, strong.g0, strong.g1, strong.g2, strong.g3, strong.g4, strong.g5, strong.g6, strong.g7 { font-weight: bold; font-family: "AltGeorgia"; }
+
+.gu { text-decoration-color: #333; }
+
+.z0 { text-decoration-color: #ccc; text-shadow: 0px 0px 0.5px rgba(204, 204, 204, 0.6); }
+
+.g0 { text-decoration-color: #666; text-shadow: 0px 0px 0.5px rgba(102, 102, 102, 0.6); }
+
+.g1 { text-decoration-color: #e60000; text-shadow: 0px 0px 0.5px rgba(230, 0, 0, 0.6); }
+
+.g2 { text-decoration-color: #ff8c00; text-shadow: 0px 0px 0.5px rgba(255, 140, 0, 0.6); }
+
+.g3 { text-decoration-color: #e6c200; text-shadow: 0px 0px 0.5px rgba(230, 194, 0, 0.6); }
+
+.g4 { text-decoration-color: #008000; text-shadow: 0px 0px 0.5px rgba(0, 128, 0, 0.6); }
+
+.g5 { text-decoration-color: #0000b3; text-shadow: 0px 0px 0.5px rgba(255, 0, 0, 0.6); }
+
+.g6 { text-decoration-color: #4b0082; text-shadow: 0px 0px 0.5px rgba(0, 0, 179, 0.6); }
+
+.g7 { text-decoration-color: #c71585; text-shadow: 0px 0px 0.5px rgba(199, 21, 133, 0.6); }
+
+p a strong.z0, p a strong.g0, p a strong.g1, p a strong.g2, p a strong.g3, p a strong.g4, p a strong.g5, p a strong.g6, p a strong.g7, li a strong.z0, li a strong.g0, li a strong.g1, li a strong.g2, li a strong.g3, li a strong.g4, li a strong.g5, li a strong.g6, li a strong.g7 { color: #333; }
+
+ul.person { list-style: none; margin: 0; padding: 0 0 2px 0; float: left; clear: both; }
+
+ul.person li { font-size: 0.8em; float: left; min-width: 105px; padding: 0 3px; border: 1px solid; border-radius: 5px; margin-right: 4px; background: #eee; border-color: #ddd; }
+
+ul.person li:first-of-type { background: aliceblue; border-color: darkslategray; }
+
+ul.person li a { text-decoration: unset; color: unset; }
+
+ul.person.main li:first-of-type { background: honeydew; border-color: darkslategray; }
+
+ul.person.doubt li:first-of-type { background: lemonchiffon; border-color: darkslategray; }
+
+ul.person li:first-of-type:before { content: ""; }
+
+ul.person li:before { content: " ❮ "; }
+
+/*# sourceMappingURL=generations.css.map */
