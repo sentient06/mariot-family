@@ -7,27 +7,27 @@
 }
 
 .gallery img {
-    max-width: 200px;
-    max-height: 200px;
+    max-width: 225px;
+    max-height: 225px;
 }
 
 .gallery picture {
     display: flex;
     border: 1px solid #ddd;
-    width: 220px;
-    min-height: 220px;
+    width: 245px;
+    min-height: 245px;
     padding: 10px;
     flex-direction: column;
     margin-bottom: 10px;
-    margin-left: 10px;
+    margin-right: 10px;
     border-radius: 0.2em;
 }
 
 .gallery picture a {
     background: #EEE;
     display: flex;
-    width: 200px;
-    height: 200px;
+    width: 225px;
+    height: 225px;
     flex-direction: row;
     align-items: center;
     justify-content: center;
