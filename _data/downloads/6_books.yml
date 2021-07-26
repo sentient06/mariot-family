@@ -1,0 +1,12 @@
+name: Livros
+path: books
+files:
+  - year: 1991
+    anchor: "arvores"
+    title: "Imigrantes: Sua história, Costumes e Tradições"
+    desc: "Versão digital da primeira edição."
+    type: PDF (texto)
+    author: Mons. Quinto Davide Baldessar
+    file: Imigrantes-07-21.pdf
+    image: ImigrantesNovo.jpg
+    revision: '26 julho 2021'
