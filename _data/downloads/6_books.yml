@@ -2,7 +2,7 @@ name: Livros
 path: books
 files:
   - year: 1991
-    anchor: "arvores"
+    anchor: "livros"
     title: "Imigrantes: Sua história, Costumes e Tradições"
     desc: "Versão digital da primeira edição."
     type: PDF (texto)
