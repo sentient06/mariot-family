@@ -181,7 +181,7 @@ Março
 : Os imigrantes de Longarone embarcam no vapor **Saint Martin** em Havre com destino ao Brasil.
 
 29 de abril
-: Os imigrantes de Longarone chegam no Rio de Janeiro.
+: Os imigrantes de Longarone chegam ao Rio de Janeiro.
 
 26 de maio
 : Os primeiros imigrantes de Longarone chegam em Urussanga.
@@ -197,29 +197,29 @@ Data desconhecida
 : <strong class="g2">Giovanni</strong> casa com <strong class="g2">Maria de Lorenzi</strong> em Longarone.
 
 05 de outubro
-: <strong class="g1">Matteo Ignazio</strong> e <strong class="g2">Marco</strong> embarcam no navio **Sorata**, com destino a Buenos Aires, em Bordeaux, na França, com um casal da família **Longo**, que adotam o sobrenome **Mariot**.
+: <strong class="g1">Matteo Ignazio</strong> e <strong class="g2">Marco</strong> embarcam no navio **Sorata**, com destino a Buenos Aires, em Bordeaux, na França, com um casal de parentes e seu filho pequeno. O marido do casal é filho de <strong class="g1">Tommaso Mariot</strong>.
 
 07 de novembro
-: <strong class="g1">Matteo Ignazio</strong>, <strong class="g2">Marco</strong> e os **Longo** chegam ao Rio de Janeiro.
+: <strong class="g1">Matteo Ignazio</strong>, <strong class="g2">Marco</strong> e os três **Mariot** chegam ao Rio de Janeiro.
 
 08 de dezembro
 : Nasce <strong class="g3">Matteo Mariot</strong>, filho de <strong class="g2">Giovanni</strong> e <strong class="g2">Maria de Lorenzi</strong>, em Longarone. (Talvez tenha sido batizado em homenagem ao avô.)
 
 # 1879 ... 1880
 Fim de 1879, começo de 1880
-: <strong class="g1">Matteo Ignazio</strong>, <strong class="g2">Marco</strong> e os **Longo** chegam a Urussanga e se estabelecem em Rio Salto. Passam as primeiras semanas dormindo abrigados por uma pedra.
+: <strong class="g1">Matteo Ignazio</strong>, <strong class="g2">Marco</strong> e os 3 **Mariot** chegam a Urussanga e se estabelecem em Rio Salto. Passam as primeiras semanas dormindo abrigados por uma pedra.
 
 ---
 
 # 1880
+Período indeterminado
+: Ano da peste. Diversas epidemias de febre amarela varrem Santa Catarina. Em 1880 a epidemia chega a Urussanga.
+
 Novembro
 : <strong class="g2">Giovanni</strong> embarca no navio **Berlin** em Gênova com a esposa <strong class="g2">Maria de Lorenzi</strong> e o filho <strong class="g3">Matteo</strong>.
 
 18 de dezembro
 : <strong class="g2">Giovanni</strong>, <strong class="g2">Maria</strong> e <strong class="g3">Matteo</strong> chegam ao Rio de Janeiro.
-
-Período indeterminado
-: Ano da peste. Diversas epidemias de febre amarela varrem Santa Catarina. Em 1880 a epidemia chega a Urussanga.
 
 <!-- https://carlosdamiao.wordpress.com/2020/07/26/memoria-de-saude-as-pestes-do-seculo-19-em-desterro-florianopolis/ -->
 
