@@ -149,4 +149,20 @@ files:
           - Ignazio Angelo
           - Pietro Mariot
 
+  - year: 1874
+    anchor: "1874_1"
+    title: Registro de óbito de Teresa de Bona
+    type: Imagem (fotografia)
+    source: <em lang=\"it\">Registro degli Atti di Morte anno 1874, Comune de Longarone</em>, 2022
+    external_name: Ancestry
+    external_url: https://www.ancestry.co.uk/sharing/29547781?h=dfcde6
+    file: 1874-Teresa-Obito.jpg
+    image: 1874-Teresa-Obito.jpg
+    people:
+      - name: Teresa de Bona
+        main: true
+        ancestors:
+          - Marco de Bona
+
+
 

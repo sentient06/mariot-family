@@ -12,11 +12,11 @@ css_files: [timeline, generations]
 
 # 1789 ... 1796
 Entre 1789 e 1796
-: <strong class="g0">Pietro Mariot</strong> nasce em Pirago, Longarone.
+: <strong class="g0">Pietro Mariot</strong> nasce em Pirago, Longarone, de pais desconhecidos.
 
 # 1796
 15 de setembro
-: <strong class="g0">Teresa de Bona</strong> nasce em Igne, Longarone.
+: <strong class="g0">Teresa de Bona</strong> nasce em Igne, Longarone, filha de <strong class="z0">Marco de Bona</strong> e <strong class="z0">Giovanna de Cesare</strong>.
 
 # 1797
 25 de abril
@@ -150,10 +150,6 @@ Entre janeiro e março
 
 ---
 
-# 1871 ... 1879
-Data desconhecida
-: <strong class="g0">Teresa de Bona</strong> morre em Longarone.
-
 # 1868 ... 1877
 Meados de 1868
 : <strong class="g2">Pietro</strong> provavelmente entra no exército.
@@ -169,6 +165,10 @@ Meados de 1874
 
 Meados de 1877
 : <strong class="g2">Giosuè</strong> provavelmente entra no exército.
+
+# 1874
+6 de maio
+: <strong class="g0">Teresa de Bona</strong> morre em Pirago, Longarone, por volta das 5 horas da tarde, por motivo desconhecido.
 
 # 1878
 27 de fevereiro
