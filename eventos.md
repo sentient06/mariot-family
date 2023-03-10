@@ -325,7 +325,7 @@ Data desconhecida
 : <strong class="g2">Margherita</strong> casa com <strong class="g2">Luigi Baldessar</strong> em Urussanga.
 
 19 de dezembro
-: Nasce <strong class="g3">Giovanni</strong>, filho de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot [Longo]</strong> em Urussanga. (Provavelmente batizado em homenagem ao tio.)
+: Nasce <strong class="g3">Giovanni</strong>, filho de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot</strong> em Urussanga. (Provavelmente batizado em homenagem ao tio.)
 
 # 1889
 20 de fevereiro
@@ -353,7 +353,7 @@ Data desconhecida
 
 # 1890
 15 de janeiro
-: Nasce <strong class="g3">Maria</strong>, filha de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot [Longo]</strong> em Urussanga.
+: Nasce <strong class="g3">Maria</strong>, filha de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot</strong> em Urussanga.
 
 26 de julho
 : Nasce <strong class="g3">Margherita</strong>, filha de <strong class="g2">Pietro</strong> e <strong class="g2">Lucia Olivier</strong>, em Urussanga. (Provavelmente batizada em homenagem à tia.)
@@ -377,7 +377,7 @@ Data desconhecida
 
 # 1893
 15 de março
-: Nasce <strong class="g3">Adelia</strong>, filha de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot [Longo]</strong> em Urussanga.
+: Nasce <strong class="g3">Adelia</strong>, filha de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot</strong> em Urussanga.
 
 23 de março
 : <strong class="g2">Teresa Rosso</strong>, esposa de <strong class="g2">Giosuè</strong>, morre em Urussanga, de febre tifóide.
@@ -401,7 +401,7 @@ Primeiros meses de 1894
 
 # 1895
 22 de fevereiro
-: Nasce <strong class="g3">Angelo</strong>, filho de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot [Longo]</strong> em Urussanga.
+: Nasce <strong class="g3">Angelo</strong>, filho de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot</strong> em Urussanga.
 
 09 de abril
 : Nasce <strong class="g3">Demetrio</strong>, filho de <strong class="g2">Valentina</strong> e <strong class="g2">Enrico Lenzi</strong>, em Veranópolis.
@@ -416,7 +416,7 @@ Primeiros meses de 1894
 
 # 1897
 02 de maio
-: Nasce <strong class="g3">Giuseppe</strong>, filho de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot [Longo]</strong> em Urussanga.
+: Nasce <strong class="g3">Giuseppe</strong>, filho de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot</strong> em Urussanga.
 
 16 de abril
 : Nasce <strong class="g3">Luigi</strong>, filho de <strong class="g2">Giosuè</strong> e <strong class="g2">Giovanna Cordella</strong> em Urussanga.
@@ -431,7 +431,7 @@ Primeiros meses de 1894
 
 # 1899
 29 de março
-: Nasce <strong class="g3">Matteo</strong>, filho de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot [Longo]</strong> em Urussanga.
+: Nasce <strong class="g3">Matteo</strong>, filho de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot</strong> em Urussanga.
 
 Data desconhecida
 : Morre a mãe de <strong class="g3">Anna</strong>, primeira filha de <strong class="g2">Giosuè</strong>, em Laguna. <strong class="g2">Giosuè</strong> manda buscar a filha, que passa a viver com ele e a esposa.
@@ -447,7 +447,7 @@ Data desconhecida
 
 # 1901
 20 de março
-: Nasce <strong class="g3">Lucia</strong>, filha de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot [Longo]</strong> em Urussanga.
+: Nasce <strong class="g3">Lucia</strong>, filha de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot</strong> em Urussanga.
 
 # 1902
 
@@ -497,7 +497,7 @@ Data desconhecida
 
 # 1910
 20 de março
-: Nasce <strong class="g3">Ida</strong>, última filha de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot [Longo]</strong> em Urussanga.
+: Nasce <strong class="g3">Ida</strong>, última filha de <strong class="g2">Marco</strong> e <strong class="g2">Antonia Mariot</strong> em Urussanga.
 
 # 1911
 Data desconhecida
@@ -541,7 +541,7 @@ Data desconhecida
 
 # 1932
 14 de setembro
-: <strong class="g2">Maria Mariot [Longo]</strong>, esposa de <strong class="g2">Marco</strong>, morre em Lauro Müller.
+: <strong class="g2">Maria Mariot</strong>, esposa de <strong class="g2">Marco</strong>, morre em Lauro Müller.
 
 # 1933
 07 de dezembro

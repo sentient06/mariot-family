@@ -135,7 +135,7 @@ files:
         ancestors: *a_matteo1
       - name: Antonia
         ancestors:
-          - Tommaso Longo
+          - Tommaso Mariot
 
   - year: 1889
     anchor: "1889"
@@ -343,7 +343,7 @@ files:
         ancestors: *a_matteo1
       - name: Antonia
         ancestors:
-          - Tommaso Longo
+          - Tommaso Mariot
       - name: Giovanni
         ancestors: *a_marco2
       - name: Maria
