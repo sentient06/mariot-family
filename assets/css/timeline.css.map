@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "timeline.css",
+	"sources": [
+		"timeline.scss",
+		"_sass/timeline.scss"
+	],
+	"sourcesContent": [
+		"@import \"timeline\";",
+		".timeline {\n\th1 {\n\t\tfont-size: 1.2em;\n\t}\n\n\thr {\n\t\tborder: 1px solid #ccc;\n\t}\n\n\tdl {\n\t\tborder: 0px solid #666;\n\t\tborder-left-width: 1px;\n\t\tpadding: 10px;\n\t\tmargin-left: 20px;\n\t\tdt {\n\t\t\tfont-weight: bold;\n\t\t\tcolor: #222;\n\t\t\tfont-size: 1.1em;\n\t\t\tpadding-bottom: 4px;\n\t\t}\n\t\tdd {\n\t\t\tmargin: 0;\n\t\t\tpadding-left: 10px;\n\t\t\tpadding-bottom: 12px;\n\t\t}\n\t}\n}"
+	],
+	"names": [],
+	"mappings": "ACAA,AACC,SADQ,CACR,EAAE,CAAC,EACF,SAAS,EAAE,KAAK,GAChB;;AAHF,AAKC,SALQ,CAKR,EAAE,CAAC,EACF,MAAM,EAAE,cAAc,GACtB;;AAPF,AASC,SATQ,CASR,EAAE,CAAC,EACF,MAAM,EAAE,cAAc,EACtB,iBAAiB,EAAE,GAAG,EACtB,OAAO,EAAE,IAAI,EACb,WAAW,EAAE,IAAI,GAYjB;;AAzBF,AAcE,SAdO,CASR,EAAE,CAKD,EAAE,CAAC,EACF,WAAW,EAAE,IAAI,EACjB,KAAK,EAAE,IAAI,EACX,SAAS,EAAE,KAAK,EAChB,cAAc,EAAE,GAAG,GACnB;;AAnBH,AAoBE,SApBO,CASR,EAAE,CAWD,EAAE,CAAC,EACF,MAAM,EAAE,CAAC,EACT,YAAY,EAAE,IAAI,EAClB,cAAc,EAAE,IAAI,GACpB"
+}
