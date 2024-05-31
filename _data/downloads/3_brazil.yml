@@ -124,7 +124,7 @@ files:
     anchor: "1888"
     title: Declaração de casamento de Marco e Antonia
     type: Imagem (fotografia)
-    source: Diocese de Tubarão, cortesia de Grazielle Galardão
+    source: Diocese de Tubarão, cortesia de Giza Nilzem
     # external_name: FamilySearch
     # external_url: https://www.familysearch.org/ark:/61903/3:1:S3HY-6PY7-RJ?from=lynx1UIV8&treeref=GSJQ-JV6&i=18
     file: 1888-Marco-Casamento.jpg
@@ -304,7 +304,24 @@ files:
         ancestors:
           - Johann Franz
 
-  
+  - year: 1911
+    anchor: "1911"
+    title: Certidão de casamento de Umberto e Giuseppina Bez Fontana
+    type: PNG (fotografia)
+    source: Registro civil de Urusssanga, cortesia de Elizângela Mariot
+    file: 1911-Umberto-Casamento.png
+    image: 1911-Umberto-Casamento.jpg
+    people:
+      - name: Umberto
+        main: true
+        ancestors:
+          - Giovanni
+          - Matteo Ignazio
+          - Pietro Mariot
+      - name: Giuseppina
+        ancestors:
+          - Giovanni Bez Fontana
+
   - year: 1921
     anchor: "1921"
     title: Certidão de óbito de Giosuè
