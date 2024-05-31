@@ -164,5 +164,20 @@ files:
         ancestors:
           - Marco de Bona
 
+  - year: 1879
+    anchor: "1879"
+    title: Atestado de nascimento de Matteo Mariot
+    type: PDF (original)
+    source: <em lang=\"it\">Estratto per Riassunto di Atto di Nascita, Comune de Longarone</em>, 2022, Cortesia de Lucas Bilck
+    file: 1879-Matteo-Nascita.pdf
+    image: 1879-Matteo-Nascita.jpg
+    people:
+      - name: Matteo
+        main: true
+        ancestors:
+          - Giovanni
+          - Matteo Ignazio
+          - Pietro Mariot
+
 
 
